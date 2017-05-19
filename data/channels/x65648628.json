@@ -1,0 +1,24 @@
+{
+    "title": "Interviews",
+    "description": "Expect pointed questions, real responses and Q&A with people who know what they're talking about. You might actually learn a thing or two.",
+    "referenceId": null,
+    "date_created": "1462244022",
+    "date_modified": "1462580834",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "65648628",
+    "loginId": "1758381",
+    "entityType": "3",
+    "titleTextEncoded": "Interviews",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(\n RE::videos(\n  RE::condition()\n   ->order('dateCreated')\n )\n   ->channel(6934759)\n);"
+    },
+    "transcripts": null
+}

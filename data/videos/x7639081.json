@@ -1,0 +1,109 @@
+{
+    "title": "ASUS PB287Q Black 28\" 4K UHD HDMI Widescreen LED Backlight LCD Monitor Overview",
+    "description": "Open your eyes to breathtaking levels of detail with the ASUS PB287Q True 4K ultra-high definition (4K UHD) monitor. The ASUS PB287Q features a 16:9 aspect ratio WLED display that delivers next-generation 4K UHD visuals, with resolution up to 3840 by 2160.<br \/>\n<br \/>\nWith a pixel density of 157 pixels-per-inch (PPI), the PB287Q provides over 8 million pixels, four times the pixel density of standard Full HD displays for astonishingly detailed visuals - allowing you to experience more onscreen real estate and stunning image clarity that have to be seen to be believed. The PB287Q also delivers an impressive 1ms GTG fast response time and a 60Hz refresh rate for ultra-smooth gameplay.",
+    "referenceId": "10f44d095c20e97ae6b67f3db98a0c28",
+    "date_created": "1424649600",
+    "date_modified": "1455791462",
+    "tags": "asus,pb287q,black,28,4k,uhd,1ms,10-bit,hdmi,widescreen,led,backlight,lcd,monitor,height&pivot,adjust,300,cd\/m2,1000000001,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "displays",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "31",
+    "CVV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639081",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "69",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "ASUS-PB287Q-Black-28-4K-UHD-HDMI-Widescreen-LED-Backlight-LCD-Monitor-Overview",
+    "category": "",
+    "duration": 504,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "504",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "504",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/663238845-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/144p_7e01d_(02-23-2015)_ASUS_PB287Q_24-236-294.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:08:24"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

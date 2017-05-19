@@ -1,0 +1,103 @@
+{
+    "title": "Newegg DIY Garage: #UpgradeMyRig",
+    "description": "We teamed up with Intel to giveaway this epic $6,500 transformer PC in our #UpgradeMyrRig promo. Watch Carey Holzman build this ultimate gaming rig from start to finish and congratulate our lucky winner Kent M. who gets to keep this beastly system.",
+    "referenceId": "40504e080d2fd7a13c2b02477d3a7b44",
+    "date_created": "1464996298",
+    "date_modified": "1468452640",
+    "tags": "HOW TO Build, diy garage, carey holzman, intel, #upgrademyrig, core i7, asus rog maximus, intel 750 , ssd, g.skill, tridentz, in win, inwin, h-tower, corsair , wd black, hdd, h100I, watercooling, liquid cooling,  Newegg,Newegg.com,Newegg TV,NeweggTV,revie",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "shows_episodes",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "265",
+    "CVV_VI": "49",
+    "engagement_score": "3",
+    "conversion_score": "2",
+    "id": "66069674",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "65648623",
+    "titleTextEncoded": "Newegg-DIY-Garage-UpgradeMyRig",
+    "category": "",
+    "duration": 442,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "442",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "442",
+        "prettyDuration": "00:07:22",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/902128749-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069674\/78021\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069674\/78021\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069674\/78021\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069674\/78021\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069674\/78021\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069674\/78021\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069674\/78021\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

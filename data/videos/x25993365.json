@@ -1,0 +1,108 @@
+{
+    "title": "Seiki 40\" Smart HDTV Overview - Newegg Lifestyle",
+    "description": "Seiki has designed a smart LED HDTV with built in apps like Netflix, Pandora, and YouTube.  Check out the video for more info!",
+    "referenceId": "36ef07f1318edc5a09c206c845b756bb",
+    "date_created": "1453766400",
+    "date_modified": "1455806849",
+    "tags": "Seiki,1080p, 60Hz, LED, HDTV ,Streaming, Muse, apps, netflix, pandora,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "lifestyle",
+    "video_category": "tv",
+    "age_gate": "no",
+    "video_brand": "seiki",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "171",
+    "CVV_VI": "28",
+    "engagement_score": "2",
+    "conversion_score": "1",
+    "id": "25993365",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "65648629",
+    "titleTextEncoded": "Seiki-40-Smart-HDTV-Overview-Newegg-Lifestyle",
+    "category": "",
+    "duration": 134,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "134",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "134",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/767670500-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/144p_83341_Seiki_40__Smart_HDTV_Overview_-_Newegg_Lifestyle.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:02:14"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

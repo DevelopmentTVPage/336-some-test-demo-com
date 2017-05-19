@@ -1,0 +1,101 @@
+{
+    "title": "Razer Stealth Blade and Nabu - CES 2016",
+    "description": "Co-founder and president of Razer, Robert Krakoff gives us some insight on the new Razer Blade Stealth and the Razer Nabu watch. <\/br>\nThe Razer Blade Stealth has a 2,560x1,440 pixel resolution touchscreen display, a Core i7 processor, 8GB of memory and 128GB of solid-state storage.  <\/br>\nThe new Razer Nabu watch is a dual display that allows you to recieve notifications about text, calls, emails, and alerts from your smartphone. <\/br>",
+    "referenceId": "146d313c6cf63c217a32071e3fd8fc77",
+    "date_created": "1452124800",
+    "date_modified": "1455805964",
+    "tags": "razer, blade stealth, chroma, nabu, watch, smartwatch, consumer electronics,  CES2016, ces, ,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "laptops",
+    "age_gate": "no",
+    "video_brand": "razer",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "21",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25837981",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "12",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "Razer-Stealth-Blade-and-Nabu-CES-2016",
+    "category": "",
+    "duration": 366,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "366",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "366",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/566205864-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/03c09a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/03c09a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/03c09\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/03c09\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/03c09\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/03c09\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/144p_754f8_Razer_Stealth_Blade_and_Nabu_-_CES_2016.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:06:06"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

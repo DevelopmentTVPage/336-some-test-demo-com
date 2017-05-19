@@ -1,0 +1,109 @@
+{
+    "title": "Seagate NAS & SV Data Recovery Interview",
+    "description": "Here's the NAS HDD Internal Hard Drive + Rescue Data Recovery Services, made by Seagate. Check out the video for more info!<br \/>\n<br \/>\nSeagate NAS HDD ST4000VN003 4TB 64MB Cache SATA 6.0Gb\/s Internal Hard Drive + Rescue Data Recovery Services",
+    "referenceId": "7d6c4aa8b84bc626284e90b55b74baff",
+    "date_created": "1422835200",
+    "date_modified": "1455787415",
+    "tags": "seagate,nas,hdd,st4000vn003,4tb,64mb,cache,sata,6.0gb\/s,internet,hard,drive,rescue,data,recovery,services-oem,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,netv,seagate nas",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "networking",
+    "age_gate": "no",
+    "video_brand": "seagate",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "12",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638950",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "37",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "Seagate-NAS-SV-Data-Recovery-Interview",
+    "category": "",
+    "duration": 796,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "796",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "796",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/928769541-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638950\/a8432a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638950\/a8432a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638950\/a8432\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638950\/a8432\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638950\/a8432\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638950\/a8432\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638950\/a8432\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638950\/144p_3d1be_(02-02-2015)_Seagate_NAS_&_SV_Data_Recovery_Interview_v04.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:13:16"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

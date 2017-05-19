@@ -1,0 +1,108 @@
+{
+    "title": "COUGAR A-Series A760 CrossFire PSU Overview",
+    "description": "The 80 PLUS BRONZE certified COUGAR A-series enables you to enjoy the high performance while keeping your electricity cost low. Compatible with the latest PC-technology, the COUGAR A-series is a perfect solution to the power-hungry high end PC components by providing power separately to the GPU and the CPU with dynamic dual 12V. Enjoy the perfect cooling performance and silent operation brought by a silent 12cm fan as well as the aero-dynamical design.",
+    "referenceId": "2849706ae379e9cbabb91bba57431cf7",
+    "date_created": "1412553600",
+    "date_modified": "1455792110",
+    "tags": "cougar,a-series,a760,760w,atx12v,crossfire,80,plus,bronz,certified,ultra,quiet,power,supply,psu,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "power_supplies",
+    "age_gate": "no",
+    "video_brand": "cougar",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "8",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168517",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "100",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "COUGAR-A-Series-A760-CrossFire-PSU-Overview",
+    "category": "",
+    "duration": 143,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "143",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "143",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/644374790-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168517\/4370ca\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168517\/4370ca\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168517\/4370c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168517\/4370c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168517\/4370c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168517\/4370c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168517\/4370c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168517\/144p_61136_(10-06-2014)_Cougar_A760_PSU_17-553-010.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:02:23"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

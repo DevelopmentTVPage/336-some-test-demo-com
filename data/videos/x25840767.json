@@ -1,0 +1,101 @@
+{
+    "title": "EVGA Gaming Case - CES 2016",
+    "description": "EVGA showcases their new GAMING CASE prototype. This case is built for cooling with room for 3 front fans, 2 rear fans , 3 top fans and fan controller.",
+    "referenceId": "e0324447c2759a93eed02eb85c9f2db2",
+    "date_created": "1452384000",
+    "date_modified": "1455806115",
+    "tags": "CES2016, evga, gaming case, fans, liquid cooling, graphic card, video card, carey holzman, CES2016,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "computer_cases",
+    "age_gate": "no",
+    "video_brand": "evga",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "16",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25840767",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "EVGA-Gaming-Case-CES-2016",
+    "category": "",
+    "duration": 67,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "67",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "67",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/506502999-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/870c9a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/870c9a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/870c9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/870c9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/870c9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/870c9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/144p_73e93_EVGA_Gaming_Case_-_CES_2016_(1).mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:01:07"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

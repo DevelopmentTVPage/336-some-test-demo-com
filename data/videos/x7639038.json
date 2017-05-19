@@ -1,0 +1,109 @@
+{
+    "title": "Samsung 850 EVO mSATA & M.2 Overview",
+    "description": "Here's are internal SSDs, made by Samsung. Check out the video for more info!<br \/>\n<br \/>\n3D V-NAND Technology<br \/>\n<br \/>\nSamsung\u2019s innovative 3D V-NAND flash memory architecture breaksthrough density, performance, and endurance limitations of today\u2019s conventional planar NAND architecture. Samsung 3D V-NAND stacks 32 cell layers vertically resulting in higher density and better performance utilizing a smaller footprint.",
+    "referenceId": "1b1a8ce08cab7b8d4c9f9bd98f100e6a",
+    "date_created": "1429747200",
+    "date_modified": "1455790669",
+    "tags": "SAMSUNG,850,EVO,mSATA,m.2,m2,250GB,SATA,III,Internal,SSD,Single Unit Version,solid state disk,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "storage",
+    "age_gate": "no",
+    "video_brand": "samsung",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "53",
+    "CVV_VI": "11",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639038",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "51",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Samsung-850-EVO-mSATA-M-2-Overview",
+    "category": "",
+    "duration": 255,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "255",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "255",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/355514451-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639038\/f4c79a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639038\/f4c79a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639038\/f4c79\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639038\/f4c79\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639038\/f4c79\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639038\/f4c79\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639038\/f4c79\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639038\/144p_644fa_(04-23-2015)_Samsung_859_EVO_mSATA_&_M2_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:15"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

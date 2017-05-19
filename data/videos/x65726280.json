@@ -1,0 +1,103 @@
+{
+    "title": "HP ENVY Phoenix \u2013 Optimal VR Performance Desktop Overview",
+    "description": "With jaw-dropping speeds and stunning graphics, switch between designing spreadsheets, editing video and crushing your enemies on a PC that was redesigned with one goal in mind: to give you game-changing performance. Here's the new ENVY Phoenix, made by HP, Model: 860-140. Check out the video for more info!",
+    "referenceId": "d3404812a0bc17f061dcf71300fb951d",
+    "date_created": "1462830405",
+    "date_modified": "1476392127",
+    "tags": "Intel, Core i7 , 6700K,4.00 GHz,16 GB, DDR4, 2 TB ,HDD ,256 GB SSD,Windows 10,NVIDIA GeForce GTX 980 , HP, VR, VIRTUAL REALITY,envy,phoenix,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tou",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": "featured_yes",
+    "VV_VI": "29",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "65726280",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "HP-ENVY-Phoenix-Optimal-VR-Performance-Desktop-Overview",
+    "category": "",
+    "duration": 167,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "167",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "167",
+        "prettyDuration": "00:02:47",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/464195785-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

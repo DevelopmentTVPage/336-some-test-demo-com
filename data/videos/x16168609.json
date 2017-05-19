@@ -1,0 +1,108 @@
+{
+    "title": "Cooler Master HAF Stacker 935 Full Mod-Tower Computer Case Overview",
+    "description": "Introducing the HAF Stacker \"Mod-tower\" Case Series. The HAF Stacker Mod-tower is tuned to tackle the unique needs of enthusiast builders, hardcore gamers, and a wide spectrum of builders. Unique to the HAF Stacker 915F and 915R stacking system, massive home data storage, server, and farming become as easy as adding another unit on a whim. HAF Stacker Mod-towers open up a new world of possibilities. In HAF Stacker Mod-towers you can build whatever you can dream up. The only limitation is your imagination.",
+    "referenceId": "3856569a3a8ba966d6c6fc81d0332ce6",
+    "date_created": "1395964800",
+    "date_modified": "1455795697",
+    "tags": "Cooler,Master,HAF,Stacker,935,Full,Mod,Tower,Computer,Case,Windowed,Side,Panel,Modular,Dual,Compatible,bitcoin,mining,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "computer_cases",
+    "age_gate": "no",
+    "video_brand": "cooler_master",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "26",
+    "CVV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168609",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "165",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Cooler-Master-HAF-Stacker-935-Full-Mod-Tower-Computer-Case-Overview",
+    "category": "",
+    "duration": 835,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "835",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "835",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/796988722-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168609\/cb84da\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168609\/cb84da\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168609\/cb84d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168609\/cb84d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168609\/cb84d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168609\/cb84d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168609\/cb84d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168609\/144p_a6931_(03-28-2014)_Cooler_Master_HAF_Stacker_935_11-119-290.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:13:55"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

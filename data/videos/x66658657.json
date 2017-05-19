@@ -1,0 +1,103 @@
+{
+    "title": "Acer Predator",
+    "description": "Acer Predator",
+    "referenceId": "c8222f90da2910884120d51c958860fc",
+    "date_created": "1467822549",
+    "date_modified": "1467822932",
+    "tags": "acer, predator, g1, desktop",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "commercials",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": "acer",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "207",
+    "CVV_VI": "18",
+    "engagement_score": "2",
+    "conversion_score": "1",
+    "id": "66658657",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "65648624",
+    "titleTextEncoded": "Acer-Predator",
+    "category": "",
+    "duration": 127,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "127",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "127",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/845832059-021825953.JPG",
+        "uploadAsset": false,
+        "quality": "",
+        "prettyDuration": "00:02:07",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

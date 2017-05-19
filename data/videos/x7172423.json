@@ -1,0 +1,97 @@
+{
+    "title": "4K AIO PC - MSI @ PAX East 2015",
+    "description": "From MSI we take a look at some interesting USB ports on their Z97 Gaming 6 Motherboard and the world's first 4K all-in-one PC.",
+    "referenceId": "198df9c3d447572a6edecce19c165cfa",
+    "date_created": "1425772800",
+    "date_modified": "1457137654",
+    "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,MSI,MSI AG240 4K AIO,AG240 4K,4K Display,Z97 G",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": "msi",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7172423",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "56",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "4K-AIO-PC-MSI-PAX-East-2015",
+    "category": "",
+    "duration": 246,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "246",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "246",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/423529701-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/e149da\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/e149da\/media.m3u8",
+        "prettyDuration": "00:04:06",
+        "uploadAsset": true,
+        "quality": "720p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/e149d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/e149d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/e149d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/e149d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/144p_7dcea_(03-08-2015_PAX_East_2015_MSI_v04.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Netis WF2416 N150 Wireless Portable Router Overview",
+    "description": "The WF2416 Wireless N Portable Router has wireless N speed at 150Mbps and excellent signal range to create a highly efficient mobile office or entertainment network in no time. Small design suited to providing robust wireless networking to travelers, students, or anyone else for work or play. With a Wi-Fi Extender\/APR slide switch allows users to get wireless Internet access easily in different environment. Under Wi-Fi Extender mode, it's so easy to setup the wireless extender by pushing the WPS button.",
+    "referenceId": "1affa22b388d90042af6cd0893abaa47",
+    "date_created": "1397001600",
+    "date_modified": "1455796208",
+    "tags": "Netis,WF2416,N150,Wireless,Portable,Router,Access,Point,Range,Extender,WiFi,Hotspot,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "networking",
+    "age_gate": "no",
+    "video_brand": "netis",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168620",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "155",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Netis-WF2416-N150-Wireless-Portable-Router-Overview",
+    "category": "",
+    "duration": 167,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "167",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "167",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/477591621-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168620\/dd67fa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168620\/dd67fa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168620\/dd67f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168620\/dd67f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168620\/dd67f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168620\/dd67f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168620\/dd67f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168620\/144p_22f34_(04-09-2014)_Netis_WF2416_Router_33-389-039.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:02:47"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

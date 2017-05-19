@@ -1,0 +1,102 @@
+{
+    "title": "Tt eSPORTS CRONOS 3.5mm\/ USB Connector Headset Overview",
+    "description": "Featuring 40mm Neodymium Magnet drivers and a three-sectioned headband, the CRONOS gaming headset is designed for gaming enthusiasts who require high-quality sound and continuous comfort. What's more, this headset is optimized for both FPS gaming and mobile use. It comes with two removable headphone cables: one for use with PC gaming, and the other for use with mobile phones.",
+    "referenceId": "6da68f7d6e2e6f8635ed999f59d9e3ce",
+    "date_created": "1393977600",
+    "date_modified": "1455794903",
+    "tags": "Tt eSPORTS ,CRONOS, 3.5mm, USB, Connector ,Headset, newegg, newegg tv,",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "peripherals",
+    "age_gate": "no",
+    "video_brand": "thermaltake",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168591",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "178",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Tt-eSPORTS-CRONOS-3-5mm-USB-Connector-Headset-Overview",
+    "category": "",
+    "duration": 389,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "389",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "389",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/595288444-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168591\/cb7f1a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168591\/cb7f1a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168591\/cb7f1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168591\/cb7f1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168591\/cb7f1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168591\/cb7f1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168591\/cb7f1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168591\/144p_5aa84_(03-05-2014)_Tt_eSports_Chronos_0TH-004T-00006_26-254-045.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:06:29"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,1355 @@
+{
+    "pageNumber": 3,
+    "data": [
+        {
+            "id": "7172419",
+            "title": "Zotac Steam Box - PAX East 2015",
+            "date_created": "1425686400",
+            "loginId": "1758381",
+            "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,Zotac SN970,Zotac,Steam Box",
+            "description": "We get an early look at Zotac's SN970 Steam Box.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "196",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "196",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/580556794-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172419\/d5dfba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172419\/d5dfba\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172419\/d5dfb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172419\/d5dfb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172419\/d5dfb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172419\/d5dfb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172419\/144p_a4600_(03-07-2015)_PAX_East_2015_Zotac_v04.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:16"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/zotac-steam-box-pax-east-2015\/65648627-7172419"
+        },
+        {
+            "id": "7172414",
+            "title": "Star Trek Timelines - Disruptor Beam @ PAX East 2015",
+            "date_created": "1425600000",
+            "loginId": "1758381",
+            "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,Star Trek Timelines,Disruptor Beam",
+            "description": "CEO Jon details their upcoming game Star Trek Timelines.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "155",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "155",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/452275316-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172414\/6321ea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172414\/6321ea\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172414\/6321e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172414\/6321e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172414\/6321e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172414\/6321e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172414\/6321e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172414\/144p_2d639_(03-06-2015)_PAX_East_2015_Disrupter_Beam_-_ST_Timelines_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:35"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/star-trek-timelines-disruptor-beam-pax-east-2015\/65648627-7172414"
+        },
+        {
+            "id": "7172415",
+            "title": "Newegg\/Seagate Build-a-Rig Contest @ PAX East 2015",
+            "date_created": "1425600000",
+            "loginId": "1758381",
+            "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,Build-A-Rig,Build-A-Rig Contest,Seagate,ASUS,G",
+            "description": "Ryan and James battle it out to be declared the victor of the Seagate sponsored Build-a-Rig Contest. The object of the contest being to install select parts of a PC the fastest.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "190",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "190",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/216277835-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172415\/d02eea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172415\/d02eea\/media.m3u8",
+                "prettyDuration": "00:03:10",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172415\/d02ee\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172415\/d02ee\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172415\/d02ee\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172415\/d02ee\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172415\/d02ee\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172415\/144p_28425_(03-06-2015)_PAX_East_Build-A-Rig_Contest_v03.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/newegg-seagate-build-a-rig-contest-pax-east-2015\/65648627-7172415"
+        },
+        {
+            "id": "7172441",
+            "title": "Corsair 100R Series Cases, H110iGT Cooler, & HX1200i PSU - CES 2015",
+            "date_created": "1421020800",
+            "loginId": "1758381",
+            "tags": "Corsair,100R Series Cases,H110iGT,HX1200i,Cases,Liquid CPU Cooler,Power Supply,CES,CES 2015,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Corsair 100R Series Cases, H110iGT Cooler, & HX1200i PSU Product overview and demonstration at CES 2015",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "265",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "265",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/813770905-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172441\/e9481a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172441\/e9481a\/media.m3u8",
+                "prettyDuration": "00:04:25",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172441\/e9481\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172441\/e9481\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172441\/e9481\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172441\/e9481\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172441\/144p_adbaf_CES_2015_-_Corsair.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/corsair-100r-series-cases-h110igt-cooler-hx1200i-psu-ces-2015\/65648627-7172441"
+        },
+        {
+            "id": "7172442",
+            "title": "11th Annual Eggie Awards - CES 2015",
+            "date_created": "1421020800",
+            "loginId": "1758381",
+            "tags": "Eggies,Eggie Awards,CES 2015,CES,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "11th Annual Eggie Awards presented at CES 2015 in Las Vegas, NV.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "197",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "197",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/971928411-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172442\/51499a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172442\/51499a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172442\/51499\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172442\/51499\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172442\/51499\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172442\/51499\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172442\/51499\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172442\/144p_6a87f_CES_2015_-_Eggies_2015.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:17"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/11th-annual-eggie-awards-ces-2015\/65648627-7172442"
+        },
+        {
+            "id": "7172437",
+            "title": "4K ROG Swift & New IPS Gaming Monitor - ASUS CES 2015",
+            "date_created": "1421020800",
+            "loginId": "1758381",
+            "tags": "ROG Swift 4K,MGS89Q IPS Monitor,ROG Peripherals,CES,CES 2015,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "ASUS suite walk-through and product previews with Steve from NewEggTV and JJ from ASUS.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "748",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "748",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/788559103-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172437\/27cf7a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172437\/27cf7a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172437\/27cf7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172437\/27cf7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172437\/27cf7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172437\/27cf7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172437\/144p_a38e1_CES_2015_-_ASUS.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:12:28"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/4k-rog-swift-new-ips-gaming-monitor-asus-ces-2015\/65648627-7172437"
+        },
+        {
+            "id": "7172451",
+            "title": "MU-MIMO 802.11ac & 60GHz 802.11ad - Qualcomm CES 2015",
+            "date_created": "1420934400",
+            "loginId": "1758381",
+            "tags": "Qualcomm,802.11ac,802.11ad,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "MU-MIMO 802.11ac & 60GHz 802.11ad Qualcomm Wireless Networking from CES 2015",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "507",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "507",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/986663155-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172451\/86da1a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172451\/86da1a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172451\/86da1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172451\/86da1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172451\/86da1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172451\/86da1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172451\/144p_4b8ab_CES_2015_-_Qualcomm.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:08:27"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/mu-mimo-802-11ac-60ghz-802-11ad-qualcomm-ces-2015\/65648627-7172451"
+        },
+        {
+            "id": "7172438",
+            "title": "Silent Cases, Coolers, & Power Supplies - Be Quiet! CES 2015",
+            "date_created": "1420934400",
+            "loginId": "1758381",
+            "tags": "Be Quiet!,Silent Base 800,Cooler,CPU Cooler,Case,Computer Case,Power Supply,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Be Quiet! Suite walk-through and look at new CPU cooler technologies.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "252",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "252",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/656324508-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172438\/b7f18a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172438\/b7f18a\/media.m3u8",
+                "prettyDuration": "00:04:12",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172438\/b7f18\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172438\/b7f18\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172438\/b7f18\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172438\/b7f18\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172438\/144p_34468_CES_2015_-_Be_Quiet!.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/silent-cases-coolers-power-supplies-be-quiet-ces-2015\/65648627-7172438"
+        },
+        {
+            "id": "7172445",
+            "title": "X99 SOC Champion Motherboards & Laptops & Brix, Oh my! - Gigabyte CES 2015",
+            "date_created": "1420848000",
+            "loginId": "1758381",
+            "tags": "Gigabyte,X99,X99 SOC Champion,Motherboards,Laptops,Brix,Broadwell U,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Jenny and Leon give us the specs on Gigabyte laptops, X99 SOC Champion Motherboard and the Broadwell U Brix.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "701",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "701",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/331413261-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172445\/5061fa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172445\/5061fa\/media.m3u8",
+                "prettyDuration": "00:11:41",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172445\/5061f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172445\/5061f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172445\/5061f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172445\/5061f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172445\/144p_a5b3a_CES_2015_-_Gigabyte.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/x99-soc-champion-motherboards-laptops-brix-oh-my-gigabyte-ces-2015\/65648627-7172445"
+        },
+        {
+            "id": "7172447",
+            "title": "MSI Launches the GT80 Titan SLI & GT30 Shadow - CES 2015",
+            "date_created": "1420761600",
+            "loginId": "1758381",
+            "tags": "MSI,GT80 Titan SLI,GT30 Shadow,Laptops,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "We attend MSI's launch party for their newly released laptops, the GT80 Titan SLI and the GT30 Shadow.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "400",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "400",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/366816431-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172447\/d4b70a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172447\/d4b70a\/media.m3u8",
+                "prettyDuration": "00:06:40",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172447\/d4b70\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172447\/d4b70\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172447\/d4b70\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172447\/d4b70\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172447\/144p_e234b_CES_2015_-_MSI_Party.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/msi-launches-the-gt80-titan-sli-gt30-shadow-ces-2015\/65648627-7172447"
+        },
+        {
+            "id": "7172448",
+            "title": "NVIDIA Does Automotive - CES 2015",
+            "date_created": "1420761600",
+            "loginId": "1758381",
+            "tags": "NVIDIA,NVIDIA Drive CX,NVIDIA Drive PX,Automotive,Automotive Technology,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "NVIDIA Does Automotive - NVIDIA Drive, CES 2015",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "448",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "448",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/857386386-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172448\/17a43a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172448\/17a43a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172448\/17a43\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172448\/17a43\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172448\/17a43\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172448\/17a43\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172448\/144p_3ca6f_CES_2015_-_NVIDIA.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:07:28"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/nvidia-does-automotive-ces-2015\/65648627-7172448"
+        },
+        {
+            "id": "7172446",
+            "title": "Intel Participates in the Maker Movement & Advances RealSense Technology - CES 2015",
+            "date_created": "1420675200",
+            "loginId": "1758381",
+            "tags": "Intel,Maker Movement,3D Printing,Bioengineering,Prothetics,Robotics,Robotic Arm,RealSense Technology,Virtual Reality,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overvi",
+            "description": "Jenny provides a tour of some impressive technology at the Intel Booth.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "317",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "317",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/723634460-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172446\/0438ca\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172446\/0438ca\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172446\/0438c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172446\/0438c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172446\/0438c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172446\/0438c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172446\/144p_730ec_CES_2015_-_Intel.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:05:17"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/intel-participates-in-the-maker-movement-advances-realsense-technology-ces-2015\/65648627-7172446"
+        },
+        {
+            "id": "7172449",
+            "title": "CES 2015 - Patriot",
+            "date_created": "1420675200",
+            "loginId": "1758381",
+            "tags": "patriot, memory, fuel ion,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Saeed shows Steve their Viper DDR4 Memory and their Fuel Ion Charging solutions.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "538",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "538",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/777438121-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172449\/6b9bda\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172449\/6b9bda\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172449\/6b9bd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172449\/6b9bd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172449\/6b9bd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172449\/6b9bd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172449\/144p_e3df8_CES_2015_-_Patriot.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:08:58"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/ces-2015-patriot\/65648627-7172449"
+        },
+        {
+            "id": "7172453",
+            "title": "A Slimmed Down External HDD & Updated Logo for Seagate - CES 2015",
+            "date_created": "1420675200",
+            "loginId": "1758381",
+            "tags": "Seagate,Seven,External Hard Drive,HDD,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Jenny talks to John about Seven, their 7mm external HDD.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "243",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "243",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/104896710-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172453\/f7837a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172453\/f7837a\/media.m3u8",
+                "prettyDuration": "00:04:03",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172453\/f7837\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172453\/f7837\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172453\/f7837\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172453\/f7837\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172453\/144p_0497f_CES_2015_-_Seagate.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/a-slimmed-down-external-hdd-updated-logo-for-seagate-ces-2015\/65648627-7172453"
+        },
+        {
+            "id": "7172440",
+            "title": "Advancing CPU Cooling Technology - Cooler Master at CES 2015",
+            "date_created": "1420675200",
+            "loginId": "1758381",
+            "tags": "Cooler Master,Heat Sink,CoolChip Technologies,CPU,CPU Cooling,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Cooler Master and CoolChip Technologies showcase what they're doing to advance CPU cooling techniques.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "534",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "534",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/338864200-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846fa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846fa\/media.m3u8",
+                "prettyDuration": "00:08:54",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/144p_8ef7a_CES_2015_-_Cooler_Master.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/advancing-cpu-cooling-technology-cooler-master-at-ces-2015\/65648627-7172440"
+        },
+        {
+            "id": "7172443",
+            "title": "Graphics Card Cooling & Peripherals - EVGA at CES 2015",
+            "date_created": "1420588800",
+            "loginId": "1758381",
+            "tags": "EVGA,GTX 980,GTX 970 FTW+,Graphics Cooling,Graphics Card,Z10,Z10 Keyboard,Mouse,Mice,EVGA Mice,EVGA Keyboard,Peripherals,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,ov",
+            "description": "Jacob shows Steve what's new in graphics card cooling with the GTX 980 Kingpin Edition and GTX 970 FTW+ cards. As well as gives us a peek at their upcoming peripherals.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "357",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "357",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/443667936-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/bf847a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/bf847a\/media.m3u8",
+                "prettyDuration": "00:05:57",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/bf847\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/bf847\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/bf847\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/bf847\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/144p_bdc61_CES_2015_-_EVGA.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/graphics-card-cooling-peripherals-evga-at-ces-2015\/65648627-7172443"
+        },
+        {
+            "id": "7172450",
+            "title": "Plantronics BackBeat Pro Headphones - CES 2015",
+            "date_created": "1420588800",
+            "loginId": "1758381",
+            "tags": "Plantronics,BackBeat Pro,Headphones,Wireless,Bluetooth,NFC Wireless,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Get the specs on Plantronics' Wireless and Active Noise Canceling BackBeat Pro Headphones.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "115",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "115",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/927697277-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172450\/65837a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172450\/65837a\/media.m3u8",
+                "prettyDuration": "00:01:55",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172450\/65837\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172450\/65837\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172450\/65837\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172450\/65837\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172450\/144p_cbc5c_CES_2015_-_Plantronics.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/plantronics-backbeat-pro-headphones-ces-2015\/65648627-7172450"
+        },
+        {
+            "id": "7172452",
+            "title": "Samsung Curved Monitors, Portable SSDs, & Virtual Reality - CES 2015",
+            "date_created": "1420588800",
+            "loginId": "1758381",
+            "tags": "Samsung,SUHD TV,Curved TV,Curved Monitor,850 EVO,SSD,Solid State Drive,Samsung 850 EVO,mSATA,M.2,mSATA SSD,M.2 SSD,T1 SSD,Samsung T1 SSD,Portable SSD,VR Experience,VR,Virtual Reality,Gear VR Goggles,Samsung Gear VR,CES,CES 2015,Consumer Electronics Show,N",
+            "description": "Jenny details the highlights from the Samsung booth including their SUHD TV, curved monitors in multi-display, Samsung T1, and Gear VR goggles.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "418",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "418",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/604406675-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172452\/56750a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172452\/56750a\/media.m3u8",
+                "prettyDuration": "00:06:58",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172452\/56750\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172452\/56750\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172452\/56750\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172452\/56750\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172452\/144p_51c0c_CES_2015_-_Samsung.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/samsung-curved-monitors-portable-ssds-virtual-reality-ces-2015\/65648627-7172452"
+        },
+        {
+            "id": "7172444",
+            "title": "World Records Topped using Gigabyte X99 SOC Champion Motherboard - CES 2015",
+            "date_created": "1420502400",
+            "loginId": "1758381",
+            "tags": "Gigabyte,X99,Gigabyte X99,Gigabyte X99 SOC Champion,Motherboard,Enermax,Elaine Su,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "We got a glimpse of what's new from Gigabyte at their CES 2015 Press Day. They introduce a new motherboard, Brix, and in collaboration with Enermax, showcase a special build honoring the memory of Elaine Su.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "121",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "121",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/677763828-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dcea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dcea\/media.m3u8",
+                "prettyDuration": "00:02:01",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dce\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dce\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dce\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dce\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/144p_5a9e7_CES_2015_-_Gigabyte_Press_Day.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/world-records-topped-using-gigabyte-x99-soc-champion-motherboard-ces-2015\/65648627-7172444"
+        },
+        {
+            "id": "16198790",
+            "title": "We Own the Night! Blizzcon 2014 - Newegg TV",
+            "date_created": "1415577600",
+            "loginId": "1758381",
+            "tags": "Blizzcon,blizzcon 2014,2014,western digital,ocz,rosewill,omen,hp,ssd,gaming laptop,amd,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,radeon",
+            "description": "Steve covers Newegg's We Own the Night Party!!! Check out his interview with Team Dignitas and much more!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "169",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "169",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/659852608-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198790\/bbbb6a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198790\/bbbb6a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198790\/bbbb6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198790\/bbbb6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198790\/bbbb6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198790\/bbbb6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198790\/bbbb6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198790\/144p_663e7_(11-10-2014)_Blizzcon_2014_-_We_Own_the_Night_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:49"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/we-own-the-night-blizzcon-2014-newegg-tv\/65648627-16198790"
+        }
+    ]
+}

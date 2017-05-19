@@ -1,0 +1,97 @@
+{
+    "title": "Asus Z170 Motherboards and ROG Swift Monitor  - CES 2016",
+    "description": "Asus features a few new motherboards. <\/br>\nThe MAXIMUS VIII FORMULA motherboard has front back armor to protect from warping and RGB LEDs that are fully programable. <\/br>\nThe MAXIMUS VIII EXTREME ASSEMBLY edition. New colors and new accessories like the external dac.<\/br> \nDon'f forget the ASUS AMD 970 PRO GAMING which supports SLI & Crossfire. <\/br>\nSmall and compact, the Asus B150I PRO GAMING supports WiFi, M.2, and USB 3.1 support<\/br>. \nA few more boards from the Z170 line like the Sabertooth Z170S and Z170 Premium.<\/br>\nAsus presents a graphics card enclosure. Asus Radeon or GeForce compatible with a USB Type C .<\/br>\nLast but not least Asus releases the ROG SWIFT PG348Q curved monitor.",
+    "referenceId": "4921691ece53ad8421325da4f140b228",
+    "date_created": "1452384000",
+    "date_modified": "1457132535",
+    "tags": "CES2016,ASUS, AMD ,970 ,PRO GAMING, SLI, Crossfire,B150I ,WiFi, M.2,  USB 3.1, Sabertooth, Z170S , Radeon, GeForce, USB Type C,rog, monitor CES2016,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,produ",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "motherboards",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "30",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25840769",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "Asus-Z170-Motherboards-and-ROG-Swift-Monitor-CES-2016",
+    "category": "",
+    "duration": 504,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "504",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "504",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/374585087-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/5cc80a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/5cc80a\/media.m3u8",
+        "prettyDuration": "00:08:24",
+        "uploadAsset": true,
+        "quality": "720p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/5cc80\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/5cc80\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/5cc80\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/5cc80\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/144p_201b7_Asus_Z170_Motherboards_and_ROG_Swift_Monitor_-_CES_2016.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

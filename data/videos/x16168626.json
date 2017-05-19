@@ -1,0 +1,102 @@
+{
+    "title": "EVGA ACX Graphics Card Cooler Overview",
+    "description": "The GeForce GTX 780 Ti is designed with improvements in every aspect -- performance, power efficiency, stability, acoustics, and build quality -- to take your gaming experience to the next level. With 2880 CUDA Cores (25% more than its predecessor), a gigantic 3GB GDDR5 memory clocking at 7010MHz effective frequency, and exciting new technologies, the GeForce 780 Ti gives you the performance to play every title at ultra settings and max resolutions on today's highest-definition displays.",
+    "referenceId": "17a6e7c08cd8e7c75d28918b3642f1c2",
+    "date_created": "1398038400",
+    "date_modified": "1455796489",
+    "tags": "EVGA,ACX,Graphics,Card,Cooler,03G-P4-2888-KR,GeForce,GTX,780,Ti,Dual,Classified,3GB,384,bit,GDDR5,PCI,Express,3.0,SLI,Support,Video Card,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,com",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "graphics_cards",
+    "age_gate": "no",
+    "video_brand": "evga",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "8",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168626",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "149",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "EVGA-ACX-Graphics-Card-Cooler-Overview",
+    "category": "",
+    "duration": 682,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "682",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "682",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/212054277-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168626\/f58bda\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168626\/f58bda\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168626\/f58bd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168626\/f58bd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168626\/f58bd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168626\/f58bd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168626\/f58bd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168626\/144p_e00a2_(04-21-2014)_EVGA_ACX_Graphics_Card_Cooler.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:11:22"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

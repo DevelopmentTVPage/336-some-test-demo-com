@@ -1,0 +1,95 @@
+{
+    "title": "Antec CPU Coolers and Cases at CES 2014",
+    "description": "- Credits -\nPresenters: Kyle, Joanne\nProducer: Kyle\nCamera: Kyle, Joanne\nPost-Production: Kyle",
+    "referenceId": "ddc0c3c4198a88f4ff7217e47a67f2bd",
+    "date_created": "1389052800",
+    "date_modified": "1457049900",
+    "tags": "antec,computer case,chassis,cpu cooler,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "computer_cases",
+    "age_gate": "no",
+    "video_brand": "antec",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "10",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16198755",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "114",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "Antec-CPU-Coolers-and-Cases-at-CES-2014",
+    "category": "",
+    "duration": 931,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "931",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "931",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/370155191-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/bdb1aa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/bdb1aa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/bdb1a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/bdb1a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/bdb1a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/bdb1a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/144p_75bca_(01-07-2014)_Antec_CPU_Coolers_and_Cases_at_CES.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:15:31"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

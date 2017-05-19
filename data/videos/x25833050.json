@@ -1,0 +1,102 @@
+{
+    "title": "Interview: Dennis \"Svenskeren\" Johnsen on life as a pro League of Legends player",
+    "description": "In this interview from a recent visit to Logitech Gaming HQ, SoloMid Jungler Dennis \"Svenskeren\" Johnsen takes us through a day in the life of a pro gamer, and how companies like Logitech have contributed to the growth of e-sports.",
+    "referenceId": "fd155ff274fbe73d22b8f8e3a7d29ec8",
+    "date_created": "1450224000",
+    "date_modified": "1455805654",
+    "tags": "logitech,",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "gaming",
+    "age_gate": null,
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "19",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25833050",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "Interview-Dennis-Svenskeren-Johnsen-on-life-as-a-pro-League-of-Legends-player",
+    "category": "",
+    "duration": 271,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "271",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "271",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/501133239-0561416852.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833050\/fc0b8a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833050\/fc0b8a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833050\/fc0b8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833050\/fc0b8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833050\/fc0b8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833050\/fc0b8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833050\/fc0b8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833050\/144p_28a1c_Exclusive-Newegg-Dennis_Johnsen_-Team-SoloMid.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:31"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

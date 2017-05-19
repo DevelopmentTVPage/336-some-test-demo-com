@@ -1,0 +1,1370 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "85403739",
+            "title": "Engenius EWS1200-28T",
+            "date_created": "1487179213",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "EnGenius EWS1200-28T is a 24-Port Gigabit Layer 2 Managed Smart Switch with WLAN controller for simplified network configuration, monitoring, and management options plus ezMaster\u2122 Centralized Network Management Software, a robust, yet easy-to-use Web-based tool. Its enterprise-class features optimize network efficiency ensuring peak performance while reducing capital and operating expenses for cost-conscious SMB organizations.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "111",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "111",
+                "prettyDuration": "00:01:51",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/thumb-5f99f50eb2426d3482e5e8dff9fca1ff-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/engenius-router-v1-mp4\/65705815-85403739"
+        },
+        {
+            "id": "66858536",
+            "title": "The Guardian Series - Seagate's 10TB Hard-Drives",
+            "date_created": "1468943047",
+            "loginId": "1758381",
+            "tags": "seagate,harddrive,10tb,nas,surveillance,guardian series,barracuda,ironwolf,skyhawk,desktop,how to build,pc,newegg,gamecrate",
+            "description": "New from Seagate - the Guardian Series of 10TB hard drives with 3 different models. The BarraCuda Pro for standard desktop usage, the IronWolf for use in a NAS, and the SkyHawk for security and surveillance. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "149",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "149",
+                "prettyDuration": "00:02:29",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/321756265-021916922.JPG",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/the-guardian-series-seagate-s-10tb-hard-drives-mp4\/65705815-66858536"
+        },
+        {
+            "id": "66658657",
+            "title": "Acer Predator",
+            "date_created": "1467822549",
+            "loginId": "1758381",
+            "tags": "acer, predator, g1, desktop",
+            "description": "Acer Predator",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "127",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "127",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/845832059-021825953.JPG",
+                "uploadAsset": false,
+                "quality": "",
+                "prettyDuration": "00:02:07",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/acer-predator\/65705815-66658657"
+        },
+        {
+            "id": "66115476",
+            "title": "Nest Home Automation Overview ft. Nest Cam, Thermostat, and Smoke Alarm",
+            "date_created": "1465350111",
+            "loginId": "1758381",
+            "tags": "Nest ,Cam ,Indoor, 1080p ,HD ,Day,Night, 2-Way, Audio, Cloud ,Storage, Security Camera, T3007ES, Thermostat, Smoke , Carbon Monoxide ,Alarm, how to, tutorial, diy, hailey bright,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,de",
+            "description": "Nest Home Autoamtion products are built to make our lives easier and more convenient. Hailey tells us about the Nest Protect Smoke + Carbon Monoxide Alarm, Nest T3007ES Learning Thermostat, and Nest Cam Indoor 1080p HD Day \/ Night 2-Way Audio Cloud Storage Security Camera. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "298",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "298",
+                "prettyDuration": "00:04:58",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/388357301-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/nest-home-automation-overview-ft-nest-cam-thermostat-and-smoke-alarm\/65705815-66115476"
+        },
+        {
+            "id": "66069679",
+            "title": "GIGABYTE Radeon R9 380 Video Card Overview",
+            "date_created": "1464999810",
+            "loginId": "1758381",
+            "tags": "GIGABYTE ,Radeon R9 ,380, DirectX 12, GV-R938G1, GAMING-4GD ,4GB ,256-Bit, GDDR5 ,PCI Express ,HDCP ,ATX, Video Card, graphics,how to build,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tou",
+            "description": "Here's a video card, made by Gigabyte, Model: GV-R938G1 GAMING-4GD. This card is BIOS overclocked to 990MHz Core Clock (Standard: 970MHz) to extract more performance out of the box. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "206",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "206",
+                "prettyDuration": "00:03:26",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/345744924-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069679\/34679\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069679\/34679\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069679\/34679\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069679\/34679\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069679\/34679\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069679\/34679\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069679\/34679\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/gigabyte-radeon-r9-380-video-card-overview\/65705815-66069679"
+        },
+        {
+            "id": "66069678",
+            "title": "SAPPHIRE NITRO Radeon R9 390X Overview",
+            "date_created": "1464999793",
+            "loginId": "1758381",
+            "tags": "SAPPHIRE ,NITRO, Radeon, R9 ,390X ,8GB ,GDDR5, PCI ,Express ,OC,backplate ,UEFI, Video Card, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "The AMD Radeon R9 390X is a high-end video card built for exceptional 4K gaming and VR experience. Based on the latest generation of AMD GCN architecture, this card features 2816 Stream Processors and 8GB 512-bit GDDR5 memory, delivering new levels of performance and capability craved by serious gamers. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "184",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "184",
+                "prettyDuration": "00:03:04",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/429564453-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/sapphire-nitro-radeon-r9-390x-overview\/65705815-66069678"
+        },
+        {
+            "id": "66069677",
+            "title": "XFX Radeon R9 390X Overview",
+            "date_created": "1464999778",
+            "loginId": "1758381",
+            "tags": "XFX, Radeon ,R9, 390X ,R9-390X-8VR6 ,8GB, 512-Bit ,DDR5 ,CrossFireX, Video Card, AMD, graphics card, gpu, how to build,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's an video card, made by XFX, Model: R9-390X-8VR6. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "149",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "149",
+                "prettyDuration": "00:02:29",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/569795283-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/xfx-radeon-r9-390x-overview\/65705815-66069677"
+        },
+        {
+            "id": "65767098",
+            "title": "ZTE Axon Pro",
+            "date_created": "1463184783",
+            "loginId": "1758381",
+            "tags": "75-705-043, 75-705-042, 75-705-044, 75-705-034, 75-705-035, 75-705-036",
+            "description": "Beauty. And a total beast. Inspired by your suggestions, Axons super-simplified Android interface pairs full-bleed images with large, elegant type for a high-end look and feel. It also comes with 4GB memory and a large battery for all-around high performance under the hood. Your understated, yet instantly recognizable sense of style is all over Axon, including a sleek metallic body and signature grill design.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "281",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "281",
+                "prettyDuration": "00:04:41",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/727918098-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/zte-axon-pro\/65705815-65767098"
+        },
+        {
+            "id": "65767097",
+            "title": "ZTE AXON",
+            "date_created": "1463184749",
+            "loginId": "1758381",
+            "tags": "75-705-041, 75-705-040 , 75-705-039",
+            "description": "MORE THAN AN AWESOME NEW PHONE,\nIT\u2019S THE NERVE CENTER OF ALL THINGS YOU.<BR><\/BR>\n<BR><\/BR>\nWhere the latest in style and the features you asked for come together to connect you with your life more intuitively than ever. From its 4K video capabilities to its Hi-Fi audio performance, it\u2019s the phone made entirely with you in mind. It\u2019s all you.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "248",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "248",
+                "prettyDuration": "00:04:08",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/257264087-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767097\/9b626\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767097\/9b626\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767097\/9b626\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767097\/9b626\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767097\/9b626\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767097\/9b626\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767097\/9b626\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/zte-axon\/65705815-65767097"
+        },
+        {
+            "id": "65726280",
+            "title": "HP ENVY Phoenix \u2013 Optimal VR Performance Desktop Overview",
+            "date_created": "1462830405",
+            "loginId": "1758381",
+            "tags": "Intel, Core i7 , 6700K,4.00 GHz,16 GB, DDR4, 2 TB ,HDD ,256 GB SSD,Windows 10,NVIDIA GeForce GTX 980 , HP, VR, VIRTUAL REALITY,envy,phoenix,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tou",
+            "description": "With jaw-dropping speeds and stunning graphics, switch between designing spreadsheets, editing video and crushing your enemies on a PC that was redesigned with one goal in mind: to give you game-changing performance. Here's the new ENVY Phoenix, made by HP, Model: 860-140. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "167",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "167",
+                "prettyDuration": "00:02:47",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/464195785-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65726280\/498bb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/hp-envy-phoenix-optimal-vr-performance-desktop-overview\/65705815-65726280"
+        },
+        {
+            "id": "59963917",
+            "title": "AMD FX-8370 with Wraith Cooler Overview",
+            "date_created": "1459978218",
+            "loginId": "1758381",
+            "tags": "19-113-398,AMD ,FX-8370 , Wraith cooler, Vishera, 8-Core ,4.0 GHz, Socket ,+ 125W, Processor,cpu, diy pc,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a new CPU from AMD, Model: FX-8370. AMD\u2019s new Wraith Cooler generates less than one-tenth the noise of its predecessor, backlit illumination and an attractive fan shroud. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "172",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "172",
+                "prettyDuration": "00:02:52",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/992868822-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/amd-fx-8370-with-wraith-cooler-overview\/65705815-59963917"
+        },
+        {
+            "id": "59914898",
+            "title": "Elgato Game Capture HD60 Pro Overview",
+            "date_created": "1459461465",
+            "loginId": "1758381",
+            "tags": "15-131-031,elgato, Game Capture, HD60 ,Pro, Stream,record , Xbox, PlayStation,  Wii U ,gameplay , 1080p,60 fps, no lag, hailey bright,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,comp",
+            "description": "Here's a game capture card, made by Elgato, Model: 10025025. It allows you to stream and record your Xbox, Playstaion, or Wii U gameplay. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "213",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "213",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/889565838-021280719.jpg",
+                "uploadAsset": false,
+                "quality": "",
+                "prettyDuration": "00:03:33",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59914898\/c4962\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59914898\/c4962\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59914898\/c4962\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59914898\/c4962\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59914898\/c4962\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59914898\/c4962\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59914898\/c4962\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/elgato-game-capture-hd60-pro-overview\/65705815-59914898"
+        },
+        {
+            "id": "26115552",
+            "title": "NVIDIA Shield Tablet K1 Tutorial",
+            "date_created": "1455753600",
+            "loginId": "1758381",
+            "tags": "NVIDIA , Tegra ,K1, Memory , GB,Flash Storage,touchscreen ,SHIELD ,Tablet , Android, Lollipop , Marshmallow , Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "The new NVIDIA\u00ae SHIELD\u2122 tablet K1 is a high-performance tablet that brings ultimate entertainment to gamers. Together with the SHIELD controller and GeForce NOW\u2122 cloud gaming service, this Android tablet is instantly transformed into a powerful gaming system that can create the best experiences in the gaming world. <\/br>\nCheck out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "321",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "321",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/889480532-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/nvidia-shield-tablet-k1-tutorial\/65705815-26115552"
+        },
+        {
+            "id": "25898756",
+            "title": "ASUS ROG G752VT-DH72 G-Sync Gaming Laptop Overview",
+            "date_created": "1453075200",
+            "loginId": "1758381",
+            "tags": "ASUS,ROG,G752VT-DH72,G-Sync,Gaming,Laptop,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "WORLD DOMINATION. EVOLVED.<\/br>\n<\/br>\nThe all-new Republic of Gamers (ROG) G752 is here to show you the next evolution of mobile gaming with a revolutionary design finished in a new Armor Titanium and Plasma Copper color scheme. Also packed under its armor is a 6th-generation Intel\u00ae Core\u2122 i7 processor, newly designed dust-release thermal fan and a backlit anti-ghosting gaming keyboard with 30-key rollover to ensure high performance and smooth gameplay control in every battle.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "219",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "219",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/736681120-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/618aba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/618aba\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/618ab\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/618ab\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/618ab\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/618ab\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/144p_6e8be_ASUS_ROG_G752VT-DH72_G-Sync_Gaming_Laptop_Overview_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:39"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/asus-rog-g752vt-dh72-g-sync-gaming-laptop-overview\/65705815-25898756"
+        },
+        {
+            "id": "25898757",
+            "title": "ASUS ROG GL552 & GL752 Gaming Laptop Overview",
+            "date_created": "1453075200",
+            "loginId": "1758381",
+            "tags": "ASUS ROG GL552 & GL752 Gaming Laptop Overview - Newegg TV",
+            "description": "POWERFUL GAMING PERFORMANCE<\/br>\n<\/br>\nASUS ROG GL552VW is powered by a 6th generation Intel Core i7 quad-core processor, with a discrete NVIDIA GTX 960 graphics card with Full DirectX 12 support. SSD (available on select model only) gives GL552VW superior load times and faster data transfers.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "208",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "208",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/632736802-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898757\/fa8a1a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898757\/fa8a1a\/media.m3u8",
+                "prettyDuration": "00:03:28",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898757\/fa8a1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898757\/fa8a1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898757\/fa8a1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898757\/fa8a1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898757\/144p_b5db6_ASUS_ROG_GL552_%26_GL752_Gaming_Laptop_Overview_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/asus-rog-gl552-gl752-gaming-laptop-overview\/65705815-25898757"
+        },
+        {
+            "id": "9856228",
+            "title": "XFX Radeon R9 Fury Overview",
+            "date_created": "1448409600",
+            "loginId": "1758381",
+            "tags": "XFX ,Radeon R9, Fury, DirectX,4GB, 4096-Bit ,PCI Express,crossFireX , Triple Dissipation ,Video ,Card, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a new graphics card, made by XFX, Model: R9-FURY-4TF9. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "117",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "117",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/323870182-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177ea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177ea\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/144p_95a41_XFX_R9_Fury_14_150_757_Final_-_SITE.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:57"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/xfx-radeon-r9-fury-overview\/65705815-9856228"
+        },
+        {
+            "id": "7645177",
+            "title": "Corsair H100i GTX Hydro Liquid Cooler Overview",
+            "date_created": "1447632000",
+            "loginId": "1758381",
+            "tags": "Extreme performance,240mm radiator,Advanced SP120L PWM fans,Built-in Corsair Link,Corsair ,Hydro Series,H100i ,GTX , Water,Liquid ,CPU, Cooler, 240mm, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,pr",
+            "description": "The Hydro Series H100i GTX is an extreme performance, all-in-one liquid CPU cooler for cases with 240mm radiator mounts. The 240mm radiator and dual SP120L PWM fans provide the excellent heat dissipation you need for highly overclocked CPUs. Corsair Link is built in, so you can monitor temperatures, adjust cooling performance and customize LED lighting directly from your desktop.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "141",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "141",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/461022353-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/144p_bb0a3_Corsair_H100i_GTX_Hydro_Liquid_Cooler_Overview_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:21"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/corsair-h100i-gtx-hydro-liquid-cooler-overview\/65705815-7645177"
+        },
+        {
+            "id": "7639070",
+            "title": "Sapphire NITRO Radeon R9 390 Video Card Overview",
+            "date_created": "1444608000",
+            "loginId": "1758381",
+            "tags": "SAPPHIRE,NITRO,Radeon,R9 390,8GB,512-Bit,GDDR5,PCI Express 3.0,HDCP,Tri-X OC,Video Card,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "The new SAPPHIRE NITRO series is an evolution of our market-leading, award-winning, high-end graphics card technology. Designed from the ground up, we\u2019ve crammed in everything you need (and left out everything you don't) to maximize the gaming experience for your budget.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "161",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "161",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/139029393-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639070\/eeb63a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639070\/eeb63a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639070\/eeb63\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639070\/eeb63\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639070\/eeb63\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639070\/eeb63\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639070\/eeb63\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639070\/144p_091d4_(10-12-2015)_Sapphire_R9390_14-202-164_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:41"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/sapphire-nitro-radeon-r9-390-video-card-overview\/65705815-7639070"
+        },
+        {
+            "id": "7639071",
+            "title": "NVIDIA Shield Pro with GeForce Now Overview",
+            "date_created": "1444003200",
+            "loginId": "1758381",
+            "tags": "NVIDIA SHIELD,Pro,500 GB,SHIELD,controller,HDMI,4K,Android TV,Google Cast support,256-core NVIDIA processor,NVIDIA,gaming,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "The Nvidia Shield Pro now comes equipped with GeForce Now. Can this replace your current console? Let\u2019s find out! Check out the video for more info!<br \/>\n<br \/>\nNVIDIA Shield Pro with GeForce Now Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "284",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "284",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/110614947-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/144p_d9313_Nvidia_Shield_Pro_15-351-002_FINAL.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:44"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/nvidia-shield-pro-with-geforce-now-overview\/65705815-7639071"
+        },
+        {
+            "id": "7639069",
+            "title": "ECS LIVA X2 Mini-PC Overview",
+            "date_created": "1443657600",
+            "loginId": "1758381",
+            "tags": "LIVA,X2,Intel Braswell,DDR3L,64GB,M.2 SSD,ECS,windows 10,cortana,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a Mini-PC, made by ECS, Model: LIVA X2. Check out the video for more info!<br \/>\n<br \/>\nECS LIVA X2 Mini-PC Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "166",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "166",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/940985966-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639069\/25611a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639069\/25611a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639069\/25611\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639069\/25611\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639069\/25611\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639069\/25611\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639069\/25611\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639069\/144p_a24cb_(10-01-2015)_ECS_Liva_Mini_PC_56-501-013_14_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:46"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/ecs-liva-x2-mini-pc-overview\/65705815-7639069"
+        }
+    ]
+}

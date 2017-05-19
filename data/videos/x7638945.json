@@ -1,0 +1,95 @@
+{
+    "title": "What's New With NETGEAR ReadyNAS Interview",
+    "description": "It's time to get your NAS up and running! Steve talks to Matt from NetGear about what's new with Network Attached Storage.",
+    "referenceId": "af6be4758c370dd0bfd7becb1f1451b1",
+    "date_created": "1448928000",
+    "date_modified": "1455787232",
+    "tags": "netgear,nas,network attached storage,storage,network,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "reviewed",
+    "video_type": "interviews",
+    "video_category": "networking",
+    "age_gate": "no",
+    "video_brand": "netgear",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638945",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "What-s-New-With-NETGEAR-ReadyNAS-Interview",
+    "category": "",
+    "duration": 1162,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1162",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1162",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/202170127-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/144p_709d9_What's_New_With_NETGEAR_ReadyNAS_Interview_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:19:22"
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

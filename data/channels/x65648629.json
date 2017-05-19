@@ -1,0 +1,24 @@
+{
+    "title": "Tech Life",
+    "description": "Prepare yourself for some cutting edge tech that will blow your mind without blowing out your wallet. From speakers and charging stations to Segways, routers and printers, in Tech Life you'll find everything you need to trick your home out and live a truly modern life.",
+    "referenceId": null,
+    "date_created": "1462244068",
+    "date_modified": "1462580819",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "65648629",
+    "loginId": "1758381",
+    "entityType": "3",
+    "titleTextEncoded": "Tech-Life",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(\n RE::videos(\n  RE::condition()\n   ->order('dateCreated')\n )\n   ->channel(6934757)\n);"
+    },
+    "transcripts": null
+}

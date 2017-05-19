@@ -1,0 +1,102 @@
+{
+    "title": "Thermaltake Core V71 Extreme Full Tower Chassis Overview",
+    "description": "Experience the epitome of chassis designs! Thermaltake introduces a one of a kind concept for more versatility and adaptability to any configuration. The Core V71 full-tower E-ATX case gives PC enthusiasts flexible installation options and keeps the system cool. Users can modify for superior liquid cooling or superb airflow through seamless operation. This new chassis is the ultimate powerhouse suitable for any type of PC enthusiast -- no matter liquid cooling or extreme airflow.",
+    "referenceId": "4a2e1c51276040cf1d833d06a917ed72",
+    "date_created": "1394582400",
+    "date_modified": "1455795180",
+    "tags": "Thermaltake,Core,V71,Extreme,Full,Tower,Chassis,Compatible,Liquid,Cooling,Builds,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "computer_cases",
+    "age_gate": "no",
+    "video_brand": "thermaltake",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "17",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168597",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "176",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Thermaltake-Core-V71-Extreme-Full-Tower-Chassis-Overview",
+    "category": "",
+    "duration": 939,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "939",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "939",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/568604339-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168597\/3736ea\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168597\/3736ea\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168597\/3736e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168597\/3736e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168597\/3736e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168597\/3736e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168597\/3736e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168597\/144p_a623e_(03-12-2014)_Thermaltake_Core_V71_11-133-244.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:15:39"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

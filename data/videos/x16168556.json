@@ -1,0 +1,102 @@
+{
+    "title": "Enermax TwisterOdio CP008 16\" Aluminum Surface Speaker Notebook Cooling Pad Overview",
+    "description": "The TWISTERODIO 16 CP008 Notebook Cooler not only lowers your notebook's temperature, but also provides fantastic stereo sound. The two built-in satellite drivers are powered by the DreamBass sound chip for a full-surround sound experience with deep bass. Now, your notebook cooler can do more. It is compatible with notebooks of up to 16 inches in size.",
+    "referenceId": "e16ea5a63c43c6079326818dab4998c6",
+    "date_created": "1390176000",
+    "date_modified": "1455793641",
+    "tags": "Enermax,TwisterOdio,CP008,16,Aluminum,Surface,Speaker,Notebook,Cooling,Pad,DreamBass,Soundchip,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "computer_accessories",
+    "age_gate": "no",
+    "video_brand": "enermax",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168556",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "202",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Enermax-TwisterOdio-CP008-16-Aluminum-Surface-Speaker-Notebook-Cooling-Pad-Overview",
+    "category": "",
+    "duration": 189,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "189",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "189",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/624205138-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168556\/588eaa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168556\/588eaa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168556\/588ea\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168556\/588ea\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168556\/588ea\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168556\/588ea\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168556\/588ea\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168556\/144p_f5319_(01-20-2014)_Enermax_Twister_Odio_34-959-007_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:09"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

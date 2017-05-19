@@ -1,0 +1,102 @@
+{
+    "title": "Seagate Backup Plus Fast 4TB HDD Overview",
+    "description": "Your data is more essential than ever: movies, music, photos, professional projects and more. The Backup Plus Fast Portable Drive has the highest capacity of any 2.5-inch portable drive on the market, so you can take your entire digital library with you\u2014wherever.",
+    "referenceId": "a4e82bab43e073c25d4b59ffd5330e66",
+    "date_created": "1397606400",
+    "date_modified": "1455796317",
+    "tags": "Seagate,Backup,Plus,Fast,4TB,USB,3.0,High,Performance,Portable,Hard,Drive,STDA4000100,Black,external,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "storage",
+    "age_gate": "no",
+    "video_brand": "seagate",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168624",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "151",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Seagate-Backup-Plus-Fast-4TB-HDD-Overview",
+    "category": "",
+    "duration": 394,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "394",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "394",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/568829270-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168624\/2f8b7a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168624\/2f8b7a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168624\/2f8b7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168624\/2f8b7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168624\/2f8b7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168624\/2f8b7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168624\/2f8b7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168624\/144p_a1c2f_(04-16-2014)_Seagate_BackupPlus_Fast_HDD_22-178-449.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:06:34"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

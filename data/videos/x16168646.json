@@ -1,0 +1,102 @@
+{
+    "title": "Netgear Family of Routers Overview",
+    "description": "Here's Netgear's Family of Routers. Check out the video for more info!<\/br>\n<\/br>\nNetgear N450-100NAS N450 Wireless Gigabit Router + High Speed Cable Modem -- DOCSIS 3.0<\/br>\nsku: 0B1-00MV-00003<\/br>\n<\/br>\nNetgear C3000 N300 WiFi Docsis 3.0 Cable Modem Router 2 In 1<\/br>\nsku: 25-124-008<\/br>\n<\/br>\nNetgear C3700 N600 WiFi Docsis 3.0 Cable Modem Router 2 In 1<\/br>\nsku: 25-124-009",
+    "referenceId": "60fa47986e4d82f9ec3a97d5931b1834",
+    "date_created": "1400716800",
+    "date_modified": "1455797388",
+    "tags": "Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,lifestyle,Netgear,N450-100NAS,N450,Wireless,Gigabit,Router,High,Speed,Cable,Modem,DOCSIS,3.0,WiFi,Download,speeds,340,Mbps,Internet",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "networking",
+    "age_gate": "no",
+    "video_brand": "netgear",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168646",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "135",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Netgear-Family-of-Routers-Overview",
+    "category": "",
+    "duration": 631,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "631",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "631",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/649784828-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168646\/2da03a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168646\/2da03a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168646\/2da03\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168646\/2da03\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168646\/2da03\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168646\/2da03\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168646\/2da03\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168646\/144p_5ab18_(05-22-2014)_Netgear_Routers_Family_25-124-008.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:10:31"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

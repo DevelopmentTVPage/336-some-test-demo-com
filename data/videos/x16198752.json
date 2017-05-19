@@ -1,0 +1,95 @@
+{
+    "title": "MSI Motherboards @ CES 2014",
+    "description": "- Credits -\nPresenters: Paul\nProducer: Lam\nCamera: Kyle\nPost-Production: Anna",
+    "referenceId": "d2c12294dce3b2dc12caac0962ae0f0a",
+    "date_created": "1388966400",
+    "date_modified": "1455803096",
+    "tags": "MSI,Motheboard,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "motherboards",
+    "age_gate": "no",
+    "video_brand": "msi",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "18",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16198752",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "117",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "MSI-Motherboards-CES-2014",
+    "category": "",
+    "duration": 713,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "713",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "713",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/269762885-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/6d137a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/6d137a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/6d137\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/6d137\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/6d137\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/6d137\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/144p_cc213_(01-06-2014)_CES_2014_MSI_#3_-_Motherboards.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:11:53"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

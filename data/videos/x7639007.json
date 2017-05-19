@@ -1,0 +1,103 @@
+{
+    "title": "ASUS Zenfone 2",
+    "description": "http:\/\/www.newegg.com | ASUS: \n\nRED\nhttp:\/\/bit.ly\/1F0og5W\nsku: 75-220-010\n\nGOLD\nhttp:\/\/bit.ly\/1KfEeA3\nSku:75-220-009\n\nBLACK\nhttp:\/\/bit.ly\/1BQ1ihN\nSku:75-220-003\n\nSILVER\nhttp:\/\/bit.ly\/1dkkQF7\nSku:75-220-004\n\nHere's the new Zenfone 2 made by ASUS. Check out the video for more info! \n\n\nNeweggTV is growing! We're expanding to other channels to bring you even more content -- from the latest in computer hardware, to snazzy consumer electronics, and even video game overviews -- you can check it all out at the channel links below: \n\nCan't get enough cool tech? | subscribe to http:\/\/www.youtube.com\/newegg\n\nWant consumer electronics? | subscribe to http:\/\/www.youtube.com\/newegglifestyle\n\nInterested in gaming? | subscribe to http:\/\/youtube.com\/neweggarcade\n\nFor everything else, check out http:\/\/youtube.com\/neweggproducts\n\n\n\nFor a more in-depth view of Newegg behind the scenes, check out Newegg Unscrambled, The Official Newegg Blog! http:\/\/bit.ly\/W44W5o\n\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2015 Newegg Inc. All rights reserved.",
+    "referenceId": "32cae68c09314a6ce62b7a9c7293bdfd",
+    "date_created": "1433462400",
+    "date_modified": "1455789853",
+    "tags": "asus,zenfone,zenfone 2,dual sim,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "reviewed",
+    "video_type": null,
+    "video_category": "smartphones",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639007",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "12",
+    "entityIdParent": "65648629",
+    "titleTextEncoded": "ASUS-Zenfone-2",
+    "category": "",
+    "duration": 126,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "126",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "126",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/thumb-32cae68c09314a6ce62b7a9c7293bdfd-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036fa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036fa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/144p_79cd3_ASUS_Zenfone_2_Promo_v08.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:02:06"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

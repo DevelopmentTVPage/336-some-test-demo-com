@@ -1,0 +1,1423 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "66352341",
+            "title": "AMD Radeon\u2122 RX 480",
+            "date_created": "1467219178",
+            "loginId": "1758381",
+            "tags": "amd , graphics card , gpu, rx 480",
+            "description": "AMD Radeon\u2122 RX 480",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "29",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "29",
+                "prettyDuration": "00:00:29",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/196133597-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66352341\/e178e\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66352341\/e178e\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66352341\/e178e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66352341\/e178e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66352341\/e178e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66352341\/e178e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66352341\/e178e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/amd-radeon-rx-480\/65648629-66352341"
+        },
+        {
+            "id": "66658657",
+            "title": "Acer Predator",
+            "date_created": "1467822549",
+            "loginId": "1758381",
+            "tags": "acer, predator, g1, desktop",
+            "description": "Acer Predator",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "127",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "127",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/845832059-021825953.JPG",
+                "uploadAsset": false,
+                "quality": "",
+                "prettyDuration": "00:02:07",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/acer-predator\/65648629-66658657"
+        },
+        {
+            "id": "26206165",
+            "title": "Adaptive Sound Technologies Sound Sleep Therapy Systems Overview",
+            "date_created": "1456769897",
+            "loginId": "1758381",
+            "tags": "Adaptive Sound Technologies, AST, Sleep, Sound, Therapy, Sleep+Sound, Mini, LectroFan, Systems, White, Noise, Sounds, Speaker, High-definition, Real-Time, Timer, Relaxation, meditation, rain, ocean, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,v",
+            "description": "SOUND+SLEEP Features:<\/br>\n-Patented Adaptive Sound listens and responds to your environment<\/br>\n-Real-time compositions utilizing high-definition sound recordings producing ultra high-quality masking sounds<\/br>\n-Small, sleek and stylish functional design ideal for the nightstand<\/br>\n-Upward-facing digital filter-compensated speaker for full-room sound<\/br>\n-Display lights can be turned on or off for easy nighttime operation<\/br>\n-4-level Sleep Timer can be for gradual gentle turn off in 30, 60, 90 or 120 minutes, or left on for all-night continuous play<\/br>\n-Sound Richness control for deeper, more complex sound profiles<\/br>\n-Easy one-touch volume control<\/br>",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "204",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "204",
+                "prettyDuration": "00:03:24",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/281333310-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/media.m3u8",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/adaptive-sound-technologies-sound-sleep-therapy-systems-overview\/65648629-26206165"
+        },
+        {
+            "id": "25993365",
+            "title": "Seiki 40\" Smart HDTV Overview - Newegg Lifestyle",
+            "date_created": "1453766400",
+            "loginId": "1758381",
+            "tags": "Seiki,1080p, 60Hz, LED, HDTV ,Streaming, Muse, apps, netflix, pandora,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Seiki has designed a smart LED HDTV with built in apps like Netflix, Pandora, and YouTube.  Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "134",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "134",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/767670500-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/aa5d4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25993365\/144p_83341_Seiki_40__Smart_HDTV_Overview_-_Newegg_Lifestyle.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:14"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/seiki-40-smart-hdtv-overview-newegg-lifestyle\/65648629-25993365"
+        },
+        {
+            "id": "25898750",
+            "title": "Asus ZenFone 2 Laser Overview",
+            "date_created": "1451347200",
+            "loginId": "1758381",
+            "tags": "Laser,Unlocked,GSM Dual SIM,LTE,Android 5.0,64-bit,Quad-Core,Intel Z3580,4G RAM,5.5,full HD,Gorilla Glass,Asus,ZenFone 2,Smartphone,2.3GHz,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,c",
+            "description": "Here's the new ZenFone 2 Laser, made by ASUS, Model: ZE551KL-15-3G32GN-SR.<\/br>\n <\/br>\n- Unlocked GSM, Dual SIM with 4G LTE<\/br>\n-64-bit Qualcomm Snapdragon 615 MSM8939 with 3GB RAM and 32GB Storage<\/br>\n- 550 MHz Adreno 405 GPU<\/br>\n- 5.5-inch IPS full HD display<\/br>\n- Laser Auto Focus<\/br>\nCheck out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "205",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "205",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/798678006-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/f9682a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/f9682a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/f9682\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/f9682\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/f9682\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/f9682\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/144p_73580_Asus_ZenFone_2_Laser_Overview_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:25"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/asus-zenfone-2-laser-overview\/65648629-25898750"
+        },
+        {
+            "id": "25898751",
+            "title": "ASUS Zenfone 2 Deluxe Overview",
+            "date_created": "1451260800",
+            "loginId": "1758381",
+            "tags": "Unlocked,GSM Dual SIM,LTE,Android 5.0,64-bit,Quad-Core,Intel Z3580,4G RAM,128G Storage,5.5,full HD,Gorilla Glass,Asus,ZenFone 2,Deluxe,Smartphone,2.3GHz,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,",
+            "description": "Here's the new Zenfone 2 Deluxe, made by ASUS, Model: \nZE551ML-23-4G128G-SE. <\/br>\n- Unlocked GSM Dual SIM with LTE, Android 5.0<\/br>\n- 64-bit Quad-Core Intel Z3580 with 4G RAM and 128G Storage<\/br>\n- 5.5\" IPS full HD display Gorilla Glass 3<\/br>\nCheck out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "230",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "230",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/462813858-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/26734a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/26734a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/26734\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/26734\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/26734\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/26734\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/144p_07f04_ASUS_Zenfone_2_Deluxe_Overview_-_Newegg_Lifestyle.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:50"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/asus-zenfone-2-deluxe-overview\/65648629-25898751"
+        },
+        {
+            "id": "7639004",
+            "title": "Sennheiser CX686G Sports Headphones Overview",
+            "date_created": "1443657600",
+            "loginId": "1758381",
+            "tags": "Sennheiser,CX686G,Sports Headphones,Galaxy,Android,Sweat,water resistant,mic compatible,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here are the new sweat and water-resistant headphones, made by Sennheiser, Model: CX686G. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "121",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "121",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/265663372-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/144p_08746_(10-01-2015)_Sennheiser_CX686_Headphones_23-106-782_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:01"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/sennheiser-cx686g-sports-headphones-overview\/65648629-7639004"
+        },
+        {
+            "id": "7639005",
+            "title": "Sennheiser MX686 Headphones Overview",
+            "date_created": "1443657600",
+            "loginId": "1758381",
+            "tags": "Sennheiser,MX686G,Sports Headphones,Galaxy,Android,dynamic sound,Sweat,water resistant,e smart remote,mic compatible,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here are Sennheiser's in-ear sports series headphones, Model: MX686. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "110",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "110",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/617834230-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/144p_c5ea1_(10-01-2015)_Sennheiser_MX686_Headphones_23-106-781_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:50"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/sennheiser-mx686-headphones-overview\/65648629-7639005"
+        },
+        {
+            "id": "7639002",
+            "title": "Sennheiser OCX686i Headphones Overview",
+            "date_created": "1443052800",
+            "loginId": "1758381",
+            "tags": "Sennheiser,OCX 686i,3.5mm,Connector,SPORTS,Ultra-lightweight,sports headset,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here are some new in-ear headphones, made by Sennheiser, Model:  OCX686i. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "128",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "128",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/728595264-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639002\/1c2d9a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639002\/1c2d9a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639002\/1c2d9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639002\/1c2d9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639002\/1c2d9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639002\/1c2d9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639002\/1c2d9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639002\/144p_07a7d_(09-24-2015)_Sennheiser_OCX686i_Headphones_26-106-784_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:08"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/sennheiser-ocx686i-headphones-overview\/65648629-7639002"
+        },
+        {
+            "id": "7639003",
+            "title": "Sennheiser PMX686i Sports Headphones Overview",
+            "date_created": "1443052800",
+            "loginId": "1758381",
+            "tags": "Sennheiser,PMX686i,Sports Headphones,iOS Devices,android,durable,neckband,sweat resistant,water resistant,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here are some new in-ear sweat and water-resistant headphones, made by Sennheiser, Model: PMX686i. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "126",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "126",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/795458649-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70ea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70ea\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/144p_4daa9_(09-24-2015)_Sennheiser_PMX686i_Headphones_23-106-786_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:06"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/sennheiser-pmx686i-sports-headphones-overview\/65648629-7639003"
+        },
+        {
+            "id": "7639023",
+            "title": "Smart Home Overview",
+            "date_created": "1441152000",
+            "loginId": "1758381",
+            "tags": "arlo,home automation,nest,surveillance,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,skybell,hue,onhub,tp-link,smart home,security",
+            "description": "Introducing our new Smart Home store which puts you in control of your home security, energy usage, and more! Stay tuned, we have plenty of Smart Home updates coming soon!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "380",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "380",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/705496800-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639023\/b970aa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639023\/b970aa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639023\/b970a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639023\/b970a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639023\/b970a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639023\/b970a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639023\/b970a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639023\/144p_1232e_(09-02-2015)_Home_Automation_Final_-_SITE.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:06:20"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/smart-home-overview\/65648629-7639023"
+        },
+        {
+            "id": "7639021",
+            "title": "Ninebot-E Personal Transportation Robot",
+            "date_created": "1435104000",
+            "loginId": "1758381",
+            "tags": "Hands-free,operation,Dual 1350W,brushless motors,12 mile range,12mph,top speed,Self-balancing,Ninebot,Two Wheel,Transporter,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a personal transportation robot, made by Ninebot, Model: Ninebot-E. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "168",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "168",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/811207197-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1da\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1da\/media.m3u8",
+                "prettyDuration": "00:02:48",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/144p_8dea0_(06-24-2015)_NineBot_-_Lifestyle_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/ninebot-e-personal-transportation-robot\/65648629-7639021"
+        },
+        {
+            "id": "7639007",
+            "title": "ASUS Zenfone 2",
+            "date_created": "1433462400",
+            "loginId": "1758381",
+            "tags": "asus,zenfone,zenfone 2,dual sim,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "http:\/\/www.newegg.com | ASUS: \n\nRED\nhttp:\/\/bit.ly\/1F0og5W\nsku: 75-220-010\n\nGOLD\nhttp:\/\/bit.ly\/1KfEeA3\nSku:75-220-009\n\nBLACK\nhttp:\/\/bit.ly\/1BQ1ihN\nSku:75-220-003\n\nSILVER\nhttp:\/\/bit.ly\/1dkkQF7\nSku:75-220-004\n\nHere's the new Zenfone 2 made by ASUS. Check out the video for more info! \n\n\nNeweggTV is growing! We're expanding to other channels to bring you even more content -- from the latest in computer hardware, to snazzy consumer electronics, and even video game overviews -- you can check it all out at the channel links below: \n\nCan't get enough cool tech? | subscribe to http:\/\/www.youtube.com\/newegg\n\nWant consumer electronics? | subscribe to http:\/\/www.youtube.com\/newegglifestyle\n\nInterested in gaming? | subscribe to http:\/\/youtube.com\/neweggarcade\n\nFor everything else, check out http:\/\/youtube.com\/neweggproducts\n\n\n\nFor a more in-depth view of Newegg behind the scenes, check out Newegg Unscrambled, The Official Newegg Blog! http:\/\/bit.ly\/W44W5o\n\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2015 Newegg Inc. All rights reserved.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "126",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "126",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/thumb-32cae68c09314a6ce62b7a9c7293bdfd-00002.png",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036fa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036fa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/3036f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639007\/144p_79cd3_ASUS_Zenfone_2_Promo_v08.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:06"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/asus-zenfone-2\/65648629-7639007"
+        },
+        {
+            "id": "7639009",
+            "title": "HP Office Jet 8610 Multifunction Color Printer Overview",
+            "date_created": "1419984000",
+            "loginId": "1758381",
+            "tags": "HP,8610,Print Speed,4800 x 1200 dpi,Color Print,Thermal,Inkjet,Color,Printer,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a Printer, made by HP, Model: 8610. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "136",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "136",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/957186850-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639009\/083b9a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639009\/083b9a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639009\/083b9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639009\/083b9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639009\/083b9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639009\/083b9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639009\/083b9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639009\/144p_9f652_HP_Office_Jet_8610_Multifunction_Color_Printer_Overview_-_Newegg_Lifestyle.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:16"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/hp-office-jet-8610-multifunction-color-printer-overview\/65648629-7639009"
+        },
+        {
+            "id": "7639019",
+            "title": "XYZprinting daVinci 2.0 3D Printer Overview",
+            "date_created": "1419897600",
+            "loginId": "1758381",
+            "tags": "XYZprinting,daVinci,2.0,3D,Printer,dual extruder,3d printing,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "sku: 28-840-014<\/br>\n<\/br>\nHere's an 3D Printer, made by XYZ, Model: da Vinci 2.0. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "332",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "332",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/318165001-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/144p_0ac4f_XYZprinting_daVinci_2.0_3D_Printer_Overview_-_Newegg_Lifestyle.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:05:32"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/xyzprinting-davinci-2-0-3d-printer-overview\/65648629-7639019"
+        },
+        {
+            "id": "16168723",
+            "title": "Patriot Memory FUEL iON Magnetic Charging Base PCGDS",
+            "date_created": "1416528000",
+            "loginId": "1758381",
+            "tags": "Patriot ,FUEL, iON ,Magnetic ,Charging, Base, PCGDS, newegg, newegg tv, neweggtv",
+            "description": "When used in tandem with the FUEL iON Case for iPhone\u00ae 5\/5S and Galaxy S4*, the FUEL iON Charge Base provides a revolutionary way to charge your phone without the hassle of constantly plugging and unplugging power cords. The FUEL iON Charge Base magnetically connects with FUEL iONs case* to charge wirelessly.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "41",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "41",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/415009956-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168723\/cf89ea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168723\/cf89ea\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168723\/cf89e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168723\/cf89e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168723\/cf89e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168723\/cf89e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168723\/cf89e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168723\/144p_62016_(11-21-2014)_Fuel_Ion_Base.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:00:41"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/patriot-memory-fuel-ion-magnetic-charging-base-pcgds\/65648629-16168723"
+        },
+        {
+            "id": "7639017",
+            "title": "Wacom Intuos Tablet Overview",
+            "date_created": "1413504000",
+            "loginId": "1758381",
+            "tags": "wacom,intuos,pro,active,area,usb,pen,and,tablet,small,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here\u2019s a Graphics Tablets, made by Wacom, Model: CTL480. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "822",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "822",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/935372329-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033fa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033fa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/144p_47eaf_Wacom_Intuos_Tablet_Overview_-_Newegg_Lifestyle.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:13:42"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/wacom-intuos-tablet-overview\/65648629-7639017"
+        },
+        {
+            "id": "7639006",
+            "title": "ASUS S1 LED Projector Overview",
+            "date_created": "1409616000",
+            "loginId": "1758381",
+            "tags": "ASUS,S1,WVGA,Lumens,HDMI,MHL,Inputs,Portable,LED,Projector,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a Projector, made by Asus, Model: S1. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "846",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "846",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/346962317-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16a\/media.m3u8",
+                "prettyDuration": "00:14:06",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/144p_33622_ASUS_S1_LED_Projector_Overview_-_Newegg_Lifestyle.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/asus-s1-led-projector-overview\/65648629-7639006"
+        },
+        {
+            "id": "7639015",
+            "title": "Startech Thunderbolt Laptop Docking Station Overview",
+            "date_created": "1408406400",
+            "loginId": "1758381",
+            "tags": "Startech,Thunderbolt,Laptop,Notebook,Docking,Station,HDMI,Mini,DisplayPort,USB,3.0,GbE,Cable,Model,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a Docking Station, made by STARTECH, Model: TBDOCKHDPBC. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "256",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "256",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/706494536-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639015\/f03d3a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639015\/f03d3a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639015\/f03d3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639015\/f03d3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639015\/f03d3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639015\/f03d3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639015\/f03d3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639015\/144p_37ac7_Startech_Thunderbolt_Laptop_Docking_Station_Overview_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:16"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/startech-thunderbolt-laptop-docking-station-overview\/65648629-7639015"
+        },
+        {
+            "id": "7639016",
+            "title": "Targus Universal USB 3.0 Docking Station Overview",
+            "date_created": "1406764800",
+            "loginId": "1758381",
+            "tags": "Targus,Universal,USB,3.0,Docking,Station,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's an SuperSpeed Dual Video Docking Station, made by Targus, Model: ACP71USZ. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "486",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "486",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/170831569-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639016\/4f8b9a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639016\/4f8b9a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639016\/4f8b9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639016\/4f8b9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639016\/4f8b9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639016\/4f8b9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639016\/4f8b9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639016\/144p_1ceef_Targus_Universal_USB_3.0_Docking_Station_Overview_-_Newegg_Lifestyle.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:08:06"
+            },
+            "parentId": "65648629",
+            "url": "\/tech-life\/targus-universal-usb-3-0-docking-station-overview\/65648629-7639016"
+        }
+    ]
+}

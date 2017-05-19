@@ -1,0 +1,102 @@
+{
+    "title": "NVIDIA Jetson TK1 Interview",
+    "description": "NVIDIA's own Jesse joins us to discuss the Jetson TK1, NVIDIA's brand new Developer board.  Although you might think it's the same as other  Arduino based Dev Boards out there, you would be quite surprised to find out that it has a lot more packed inside. Check out the video to find out more.",
+    "referenceId": "a3c51e8f1548a46dbac5a7ae84266ccb",
+    "date_created": "1398729600",
+    "date_modified": "1455800534",
+    "tags": "NVIDIA,Tegra,K1,Mobile,Processor,Quad,core,Plus,ARM,Cortex,A15,MPCore,processor,NEON,technology,Low,power,Kepler,based,GeForce,graphics,Newegg,Newegg.com,Newegg TV,NeweggTV,review,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "motherboards",
+    "age_gate": "no",
+    "video_brand": "nvidia",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "17",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168748",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "74",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "NVIDIA-Jetson-TK1-Interview",
+    "category": "",
+    "duration": 767,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "767",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "767",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/118797594-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/144p_785b3_(04-29-2014)_NVIDIA_Jetson_TK1_Interview.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:12:47"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

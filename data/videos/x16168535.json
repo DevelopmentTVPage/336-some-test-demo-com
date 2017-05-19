@@ -1,0 +1,108 @@
+{
+    "title": "SAMSUNG U32D970Q Widescreen Monitor Overview",
+    "description": "32-Inch 970 Series UHD Professional Monitor U32D970Q  32-inch diagonal display with Ultra High Definition (3840x2160) resolution Mega Dynamic Contrast Ratio and 16-bit look-up table 11 color calibration modes, including Adobe RGB and sRGB Connections for USB 3.0, HDMI, Dual-Link DVI, DisplayPorts, and 3.5mm cords Screen tilts, pivots, and swivels on a height-adjustable stand",
+    "referenceId": "2787d22bfba1151297f911dd7ca90d71",
+    "date_created": "1415923200",
+    "date_modified": "1455792607",
+    "tags": "samsung,u32d970q,black,31.5,8ms,hdmi,widescreen,led,backlight,lcd,monitor,280,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "monitors",
+    "age_gate": "no",
+    "video_brand": "samsung",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "12",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168535",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "87",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "SAMSUNG-U32D970Q-Widescreen-Monitor-Overview",
+    "category": "",
+    "duration": 365,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "365",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "365",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/107296096-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102fa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102fa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/144p_e245e_(11-14-2014)_Samsung_UD970_Monitor_24-022-020.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:06:05"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

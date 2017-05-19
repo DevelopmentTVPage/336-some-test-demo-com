@@ -1,0 +1,108 @@
+{
+    "title": "LSI MegaRAID SAS 9361-8i 3.0 x8 Low Profile SATA RAID Controller (Kit) Overview",
+    "description": "Here's an LSI, made by PCI-Express 3.0 x8 Low Profile SATA \/ SAS High Performance Eight-Port 12Gb\/s RAID Controller, Model:  MegaRAID SAS 9361-8i. Check out the video for more info!",
+    "referenceId": "e95133676da943d21b4be1178539a064",
+    "date_created": "1392076800",
+    "date_modified": "1455794259",
+    "tags": "LSI,MegaRAID,SAS,9361-8i,LSI00416,PCI-Express,3.0,x8,Low,Profile,SATA,High,Performance,Eight-Port,12Gb\/s,RAID,Controller,Kit,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "graphics_cards",
+    "age_gate": "no",
+    "video_brand": "lsi",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "9",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168573",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "195",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "LSI-MegaRAID-SAS-9361-8i-3-0-x8-Low-Profile-SATA-RAID-Controller-Kit-Overview",
+    "category": "",
+    "duration": 295,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "295",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "295",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/665198725-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168573\/d7944a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168573\/d7944a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168573\/d7944\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168573\/d7944\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168573\/d7944\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168573\/d7944\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168573\/d7944\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168573\/144p_440e6_(02-11-2014)_LSI_Megaraid_SAS_9361-8i_16-118-231.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:55"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "title": "MSI GT72 Dominator Pro G-Sync Gaming Laptop - Computex 2015",
+    "description": "Here's the MSI GT72 Dominator Pro G-Sync Gaming Laptop. Check out the video for more info!",
+    "referenceId": "a395498ea05697ea6f1fe584d230406d",
+    "date_created": "1433548800",
+    "date_modified": "1455784047",
+    "tags": "MSI,GT,GT72,Dominator,Pro G-1438,G-sync,Gaming Laptop,Intel Core i7,5700HQ,2.70GHz,16GB,1TB,HDD,SSD,NVIDIA,GeForce,GTX 980M,GDDR5,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "laptops",
+    "age_gate": "no",
+    "video_brand": "msi",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "8",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7172408",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "34",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "MSI-GT72-Dominator-Pro-G-Sync-Gaming-Laptop-Computex-2015",
+    "category": "",
+    "duration": 64,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "64",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "64",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/635392608-0219201074.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172408\/692c1a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172408\/692c1a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172408\/692c1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172408\/692c1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172408\/692c1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172408\/692c1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172408\/144p_c5297_MSI_GT72_GSync-_Computex_2015.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:01:04"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

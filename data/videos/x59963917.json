@@ -1,0 +1,103 @@
+{
+    "title": "AMD FX-8370 with Wraith Cooler Overview",
+    "description": "Here's a new CPU from AMD, Model: FX-8370. AMD\u2019s new Wraith Cooler generates less than one-tenth the noise of its predecessor, backlit illumination and an attractive fan shroud. Check out the video for more info!",
+    "referenceId": "bbe5befcf365a52bbd586f413c3373e2",
+    "date_created": "1459978218",
+    "date_modified": "1459989029",
+    "tags": "19-113-398,AMD ,FX-8370 , Wraith cooler, Vishera, 8-Core ,4.0 GHz, Socket ,+ 125W, Processor,cpu, diy pc,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "cpus",
+    "age_gate": "no",
+    "video_brand": "AMD",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "77",
+    "CVV_VI": "7",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "59963917",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "AMD-FX-8370-with-Wraith-Cooler-Overview",
+    "category": "",
+    "duration": 172,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "172",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "172",
+        "prettyDuration": "00:02:52",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/992868822-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/59963917\/45587\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

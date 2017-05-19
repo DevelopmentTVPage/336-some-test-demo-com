@@ -1,0 +1,104 @@
+{
+    "title": "Intel Iris Pro Graphics Interview",
+    "description": "Hernan from Intel brought in a brand new Zotac ZBox and a Gigabyte Brix Pro, both with Intel Iris Pro graphics.  We discuss the reasons you might want to add one of these potent & extremely portable systems to your gaming arsenal.",
+    "referenceId": "e7e64e99127399fe9bd1306dbc4a25dd",
+    "date_created": "1398038400",
+    "date_modified": "1456963703",
+    "tags": "Intel,iris,pro,graphics,cpu,brix,gigabyte,ultra,compact,zotec,zbox,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "cpus",
+    "age_gate": "no",
+    "video_brand": "intel",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "11",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168747",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "68",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "Intel-Iris-Pro-Graphics-Interview",
+    "category": "",
+    "duration": 997,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "997",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "997",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/420765602-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261a\/media.m3u8",
+        "prettyDuration": "00:16:37",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/144p_aa025_(04-21-2014)_Intel_Iris_Pro_Interview_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

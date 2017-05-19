@@ -1,0 +1,103 @@
+{
+    "title": "Adaptive Sound Technologies Sound Sleep Therapy Systems Overview",
+    "description": "SOUND+SLEEP Features:<\/br>\n-Patented Adaptive Sound listens and responds to your environment<\/br>\n-Real-time compositions utilizing high-definition sound recordings producing ultra high-quality masking sounds<\/br>\n-Small, sleek and stylish functional design ideal for the nightstand<\/br>\n-Upward-facing digital filter-compensated speaker for full-room sound<\/br>\n-Display lights can be turned on or off for easy nighttime operation<\/br>\n-4-level Sleep Timer can be for gradual gentle turn off in 30, 60, 90 or 120 minutes, or left on for all-night continuous play<\/br>\n-Sound Richness control for deeper, more complex sound profiles<\/br>\n-Easy one-touch volume control<\/br>",
+    "referenceId": "a6a0953e41440aef5c2d81f8b308ebc6",
+    "date_created": "1456769897",
+    "date_modified": "1456774207",
+    "tags": "Adaptive Sound Technologies, AST, Sleep, Sound, Therapy, Sleep+Sound, Mini, LectroFan, Systems, White, Noise, Sounds, Speaker, High-definition, Real-Time, Timer, Relaxation, meditation, rain, ocean, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,v",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "lifestyle",
+    "video_category": "speakers_audio",
+    "age_gate": "no",
+    "video_brand": "ast",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "133",
+    "CVV_VI": "16",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "26206165",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "65648624",
+    "titleTextEncoded": "Adaptive-Sound-Technologies-Sound-Sleep-Therapy-Systems-Overview",
+    "category": "",
+    "duration": 204,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "204",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "204",
+        "prettyDuration": "00:03:24",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/281333310-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/media.m3u8",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

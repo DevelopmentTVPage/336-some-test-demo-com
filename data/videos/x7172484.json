@@ -1,0 +1,104 @@
+{
+    "title": "Grey Goo Tips for Beginners",
+    "description": "Real-time strategy games can have a pretty steep learning curve. Often, you have to focus on multiple things at once like defending your base, managing your economy, and coordinating attacks. Grey Goo is no exception, which is why we made the following video going over the basics of getting started with the latest RTS game to hit the shelves.",
+    "referenceId": "dbb1d04531882baadef3fa6c6fa67812",
+    "date_created": "1422835200",
+    "date_modified": "1470188580",
+    "tags": "grey goo, gaming, pc, newegg, gamecrate, how to, tips for beginners",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "gaming",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7172484",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "18",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "Grey-Goo-Tips-for-Beginners",
+    "category": "",
+    "duration": 1216,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1216",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1216",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172484\/thumb-dbb1d04531882baadef3fa6c6fa67812-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172484\/ec8bca\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172484\/ec8bca\/media.m3u8",
+        "prettyDuration": "00:20:16",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172484\/ec8bc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172484\/ec8bc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172484\/ec8bc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172484\/ec8bc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172484\/ec8bc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172484\/144p_a5ab9_(02-02-2015)_Let's_Play_Grey_Goo_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

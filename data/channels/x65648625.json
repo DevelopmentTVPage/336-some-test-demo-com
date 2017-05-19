@@ -1,0 +1,24 @@
+{
+    "title": "Builds",
+    "description": "Let the Newegg team take you by the hand and guide you through the ins, outs, ups and downs (and few sideways) of putting together a computer from scratch. You'll be amazed to discover how cool, easy and awesome it is to build your own PC.",
+    "referenceId": null,
+    "date_created": "1462243827",
+    "date_modified": "1462580860",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "65648625",
+    "loginId": "1758381",
+    "entityType": "3",
+    "titleTextEncoded": "Builds",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(\n RE::videos(\n  RE::condition()\n   ->order('dateCreated')\n )\n   ->channel(6934756)\n);"
+    },
+    "transcripts": null
+}

@@ -1,0 +1,108 @@
+{
+    "title": "SENNHEISER G4ME ZERO 2 x 3.5 mm Connector Circumaural Gaming Headset Overview",
+    "description": "Hear every nuance with the Sennheiser G4ME ZERO headset. The G4ME ZERO is the first-ever gaming headset to feature multiple layers of fitted ear padding. This design delivers the ultimate in sound leakage blocking from inside and out, so you can hear every detail of your game while not disturbing others in the proximity. German-engineered speaker technology and a top-notch noise-cancelling microphone deliver outstanding hi-fi performance that lets you focus on the game, not your headset. The microphone can be muted by simply rotating the boom out of the way. Along with the volume control integrated on the right ear cup, you can quickly crank up or down without missing any action.",
+    "referenceId": "2b23cbab4db49675c381ad3ddc78b14e",
+    "date_created": "1390262400",
+    "date_modified": "1455794019",
+    "tags": "SENNHEISER,G4ME,ZERO,3.5,mm,Connector,Circumaural,Premium,Closed,Acoustic,Gaming,Headset,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "peripherals",
+    "age_gate": "no",
+    "video_brand": "sennheiser",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "5",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168563",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "200",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "SENNHEISER-G4ME-ZERO-2-x-3-5-mm-Connector-Circumaural-Gaming-Headset-Overview",
+    "category": "",
+    "duration": 332,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "332",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "332",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/864366637-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168563\/62dfba\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168563\/62dfba\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168563\/62dfb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168563\/62dfb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168563\/62dfb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168563\/62dfb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168563\/62dfb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168563\/144p_8a0ba_(01-21-2014)_Sennheiser_G4ME_Zero_26-106-686.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:05:32"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

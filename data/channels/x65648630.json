@@ -1,0 +1,24 @@
+{
+    "title": "GameCrate",
+    "description": "Grab a crowbar and open up GameCrate to find all the latest news and views you can use. Inside you'll find pro tips, new and old school interviews, product reviews, game releases, live battles, tutorialls, editorial features, celebrity walkthroughs, and tons moremore... these guys live for this stuff.",
+    "referenceId": null,
+    "date_created": "1462244109",
+    "date_modified": "1462580801",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "65648630",
+    "loginId": "1758381",
+    "entityType": "3",
+    "titleTextEncoded": "GameCrate",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(\n RE::videos(\n  RE::condition()\n   ->order('dateCreated')\n )\n   ->channel(6934753)\n);"
+    },
+    "transcripts": null
+}

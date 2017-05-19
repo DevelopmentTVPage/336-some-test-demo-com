@@ -1,0 +1,108 @@
+{
+    "title": "Newegg DIY Garage: Gigabyte Xtreme Gaming Graphics Cards",
+    "description": "Introducing the brand new line of Xtreme Gaming Graphics Cards from Gigabyte. In this video, Carey and Tom discuss how to choose a graphics card, power consumption, optimization, and some very surprising benchmarks.",
+    "referenceId": "51ec50073e0ed4ac121c972e52eacb5b",
+    "date_created": "1451433600",
+    "date_modified": "1455805622",
+    "tags": "do it yourself, diy, garage, carey, holzman, gigabyte, graphics cards, benchmarks, GIGABYTE ,GeForce ,GTX ,980, Ti, DirectX , GDDR5, PCI Express , ATX,XTREME,intel, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxi",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "shows_episodes",
+    "video_category": "graphics_cards",
+    "age_gate": "no",
+    "video_brand": "gigabyte",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "232",
+    "CVV_VI": "39",
+    "engagement_score": "3",
+    "conversion_score": "2",
+    "id": "25833049",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "14",
+    "entityIdParent": "65648623",
+    "titleTextEncoded": "Newegg-DIY-Garage-Gigabyte-Xtreme-Gaming-Graphics-Cards",
+    "category": "",
+    "duration": 478,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "478",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "478",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/154386609-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833049\/90c66a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833049\/90c66a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833049\/90c66\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833049\/90c66\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833049\/90c66\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833049\/90c66\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833049\/90c66\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833049\/144p_b1343_Newegg_DIY_Garage__Gigabyte_Xtreme_Gaming_Graphics_Cards.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:07:58"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

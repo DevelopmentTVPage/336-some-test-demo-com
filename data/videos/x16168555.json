@@ -1,0 +1,108 @@
+{
+    "title": "Enermax AeroOdio 17\" Speaker Notebook Cooling Pad w\/ 220mm Fan Overview",
+    "description": "The AeroOdio CP006 Cooling Pad is designed to keep your notebook running cool and sounding great. This cooling pad features a 22cm powerful fan with manual speed control, as well as a dock set with two external speakers. The integrated DreamBass sound chip equipped with the speakers provides premium full-surround sound with deep bass and crystal-clear highs. Moreover, the AeroOdio CP006 also features smart cable management system to assort various types of cables for your laptop and peripherals.",
+    "referenceId": "9502ec941a6116e6bbcaced0e0184b51",
+    "date_created": "1390176000",
+    "date_modified": "1455793617",
+    "tags": "Enermax,AeroOdio,CP006,17,Speaker,Notebook,Cooling,Pad,220mm,Fan,DreamBass,Soundchip,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "computer_accessories",
+    "age_gate": "no",
+    "video_brand": "enermax",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "5",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168555",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "201",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Enermax-AeroOdio-17-Speaker-Notebook-Cooling-Pad-w-220mm-Fan-Overview",
+    "category": "",
+    "duration": 249,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "249",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "249",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/972264849-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168555\/204f2a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168555\/204f2a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168555\/204f2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168555\/204f2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168555\/204f2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168555\/204f2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168555\/204f2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168555\/144p_7c581_(01-20-2014)_Enermax_Aero_Odio_Laptop_Cooler_34-959-010_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:09"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

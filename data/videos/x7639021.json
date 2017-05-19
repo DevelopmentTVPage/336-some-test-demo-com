@@ -1,0 +1,111 @@
+{
+    "title": "Ninebot-E Personal Transportation Robot",
+    "description": "Here's a personal transportation robot, made by Ninebot, Model: Ninebot-E. Check out the video for more info!",
+    "referenceId": "8349c00f550774f6402c8cb2560aafd4",
+    "date_created": "1435104000",
+    "date_modified": "1456961574",
+    "tags": "Hands-free,operation,Dual 1350W,brushless motors,12 mile range,12mph,top speed,Self-balancing,Ninebot,Two Wheel,Transporter,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "commercials",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": "ninebot",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "100",
+    "CVV_VI": "9",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "7639021",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "65648624",
+    "titleTextEncoded": "Ninebot-E-Personal-Transportation-Robot",
+    "category": "",
+    "duration": 168,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "168",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "168",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/811207197-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1da\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1da\/media.m3u8",
+        "prettyDuration": "00:02:48",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/144p_8dea0_(06-24-2015)_NineBot_-_Lifestyle_Final.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

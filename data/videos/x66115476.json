@@ -1,0 +1,103 @@
+{
+    "title": "Nest Home Automation Overview ft. Nest Cam, Thermostat, and Smoke Alarm",
+    "description": "Nest Home Autoamtion products are built to make our lives easier and more convenient. Hailey tells us about the Nest Protect Smoke + Carbon Monoxide Alarm, Nest T3007ES Learning Thermostat, and Nest Cam Indoor 1080p HD Day \/ Night 2-Way Audio Cloud Storage Security Camera. Check out the video for more info!",
+    "referenceId": "fa90cf1d459de093bec73b785f4cde45",
+    "date_created": "1465350111",
+    "date_modified": "1476391945",
+    "tags": "Nest ,Cam ,Indoor, 1080p ,HD ,Day,Night, 2-Way, Audio, Cloud ,Storage, Security Camera, T3007ES, Thermostat, Smoke , Carbon Monoxide ,Alarm, how to, tutorial, diy, hailey bright,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,de",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "smart_home",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": "featured_yes",
+    "VV_VI": "122",
+    "CVV_VI": "2",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "66115476",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Nest-Home-Automation-Overview-ft-Nest-Cam-Thermostat-and-Smoke-Alarm",
+    "category": "",
+    "duration": 298,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "298",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "298",
+        "prettyDuration": "00:04:58",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/388357301-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66115476\/96a7e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

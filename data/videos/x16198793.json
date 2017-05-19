@@ -1,0 +1,97 @@
+{
+    "title": "ASUS ROG PCs - BlizzCon 2015",
+    "description": "ASUS Republic of Gamers has some gaming PCs to showcase, the ROG G752 Gaming Laptop and the ROG G11 Gaming System.",
+    "referenceId": "83e280db1abee949185d6798bee29479",
+    "date_created": "1446940800",
+    "date_modified": "1457132400",
+    "tags": "ASUS,ASUS ROG,ASUS Republic of Gamers,ROG,Republic of Gamers,Gaming PC,Gaming,Gaming Laptop,Gaming System,ASUS ROG G752,ASUS ROG G753 Laptop,ASUS ROG G11,ASUS ROG G11 PC,ASUS ROG G11 System,BlizzCon,BlizzCon 2015,Blizzard,Newegg,Newegg.com,Newegg TV,Neweg",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "13",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16198793",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "15",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "ASUS-ROG-PCs-BlizzCon-2015",
+    "category": "",
+    "duration": 110,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "110",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "110",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/552805674-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/ee6eba\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/ee6eba\/media.m3u8",
+        "prettyDuration": "00:01:50",
+        "uploadAsset": true,
+        "quality": "720p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/ee6eb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/ee6eb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/ee6eb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/ee6eb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/144p_128d1_BlizzCon_2015_ASUS_V03.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

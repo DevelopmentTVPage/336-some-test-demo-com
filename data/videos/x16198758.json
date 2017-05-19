@@ -1,0 +1,95 @@
+{
+    "title": "Corsair Cherry MX RGB Keyboard, Raptor K40, Raptor M45 @ CES 2014",
+    "description": "- Credits -\nPresenters: Paul\nProducer: Lam\nCamera: Rachel\nPost-Production: Anna",
+    "referenceId": "e93e51e2324d76d733f7b5cfe2b68e2d",
+    "date_created": "1389052800",
+    "date_modified": "1455803297",
+    "tags": "Corsair,Raptor K40,Raptor M45,Cherry MX RGB,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "peripherals",
+    "age_gate": "no",
+    "video_brand": "corsair",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16198758",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "101",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "Corsair-Cherry-MX-RGB-Keyboard-Raptor-K40-Raptor-M45-CES-2014",
+    "category": "",
+    "duration": 737,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "737",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "737",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/311392228-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/9b1b4a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/9b1b4a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/9b1b4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/9b1b4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/9b1b4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/9b1b4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/144p_c64c2_(01-07-2014)_CES_2014_Corsair_#1_-_Keyboards_&_Mice.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:12:17"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

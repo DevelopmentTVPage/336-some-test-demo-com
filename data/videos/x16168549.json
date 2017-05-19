@@ -1,0 +1,108 @@
+{
+    "title": "Nanoxia NXDS2B Black Steel \/ Plastic ATX Mid Tower Computer Case",
+    "description": "The Deep Silence 2 Mid Tower Case by Nanoxia, an ingenious Germany manufacturer, delivers an exciting combination of performance, features, and quality. Its minimalist design concept, featuring simple lines and a brushed front panel, conveys an understated aesthetic. Common controls are inconspicuously integrated into the exterior surface, maintaining the linear design flow.",
+    "referenceId": "d78bbfa3c179d095b287f72c03637bdb",
+    "date_created": "1389744000",
+    "date_modified": "1455793382",
+    "tags": "Nanoxia,NXDS2B,Black,Steel,Plastic,ATX,Mid,Tower,Computer,Case,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "computer_cases",
+    "age_gate": "no",
+    "video_brand": "nanoxia",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "6",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168549",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "209",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Nanoxia-NXDS2B-Black-Steel-Plastic-ATX-Mid-Tower-Computer-Case",
+    "category": "",
+    "duration": 732,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "732",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "732",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/589823364-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168549\/55736a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168549\/55736a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168549\/55736\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168549\/55736\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168549\/55736\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168549\/55736\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168549\/55736\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168549\/144p_6813a_(01-15-2013)_Nanoxia_Deep_Silence_2_11-281-002.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:12:12"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

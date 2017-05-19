@@ -1,0 +1,108 @@
+{
+    "title": "Ergotech Triple Desk Stand With Telescoping Wings Overview",
+    "description": "Ergotech Monitor Desk Stands are designed with the user in mind. Constructed with steel and aluminum, Ergotech Desk Stands are lightweight AND strong. With the patented Quick Release Pivots, installation and removal of monitors is quick and easy and requires no tools. Once mounted, the Height Adjustable Pivots provide effortless monitor positioning for left\/right\/up\/down movement, as well as both landscape and portrait views. With the addition of telescoping wings, which give an extra 5 inches on each side, Ergotech's Monitor Desk Stands can hold up to 27\" monitors! All Ergotech Desk Stands are free-standing and can upgrade to hold up to six monitors with just a few extra parts.",
+    "referenceId": "4efc90de7ff81eb71c97037aa956d6af",
+    "date_created": "1396396800",
+    "date_modified": "1455795901",
+    "tags": "Ergotech,Triple,Desk,Stand,Telescopic,Wings,100-D16-B02,Dual,Horizontal,LCD,Arm,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "computer_accessories",
+    "age_gate": "no",
+    "video_brand": "ergotech",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "5",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168613",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "162",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Ergotech-Triple-Desk-Stand-With-Telescoping-Wings-Overview",
+    "category": "",
+    "duration": 353,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "353",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "353",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/665216375-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168613\/f168ea\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168613\/f168ea\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168613\/f168e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168613\/f168e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168613\/f168e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168613\/f168e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168613\/f168e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168613\/144p_a2feb_(04-02-2014)_Ergotech_Triple_Monitor_Desk_Stand_9SIA24G15W8582.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:05:53"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "title": "MSI GeForce GTX960 GAMING 2G Video Card Overview",
+    "description": "Here's a Video Card, made by MSI, Model: GTX 960 GAMING 2G. Check out the video for more info!<br \/>\n<br \/>\nMSI GeForce GTX960 GAMING 2G Video Card",
+    "referenceId": "c38574a7d3b6fdade86acda11ba49484",
+    "date_created": "1421625600",
+    "date_modified": "1455791181",
+    "tags": "MSI,GeForce,GTX,960,GAMING,2G,Video,Card,2GB,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "unboxing",
+    "video_category": "graphics_cards",
+    "age_gate": null,
+    "video_brand": "msi",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "12",
+    "CVV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639072",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "77",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "MSI-GeForce-GTX960-GAMING-2G-Video-Card-Overview",
+    "category": "",
+    "duration": 306,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "306",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "306",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/928176348-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bba\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bba\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/144p_75ddd_(01-19-15)_MSI_GTX_960_Gaming_2G.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:05:06"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

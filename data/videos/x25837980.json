@@ -1,0 +1,95 @@
+{
+    "title": "Huawei Honor 5X - CES 2016",
+    "description": "Huawei announces the new Honor 5X. <\/br>\nUnlocked Dual SIM LTE smartphone with three card slots. Supports nano-sim, micro-SIM, and a microSD card up to 128GB. Works with AT&T and T-Mobile Networks.<\/br>\nSleek, robust housing crafted from aircraft-grade aluminum made with four metal finishing processes.<\/br>\nAn accurate fast fingerprint sensor improves with time and unlocks in 0.5 Seconds. Set your fingers as shortcuts to call contacts and take photos.<\/br>\nPowered by Android 5.1 Lollipop with 16GB Internal memory and 2 GB RAM. A Qualcomm 64-bit Octa-Core Processor renders a smooth, responsive experience.",
+    "referenceId": "ff61cdd1ab8203ec38ee0e8095c8b618",
+    "date_created": "1452124800",
+    "date_modified": "1455805946",
+    "tags": "honor 5x, huawei, phone, unlocked, dual sim, smartphone, CES2016, ces, ,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "smartphones",
+    "age_gate": "no",
+    "video_brand": "huawei",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "9",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25837980",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "11",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "Huawei-Honor-5X-CES-2016",
+    "category": "",
+    "duration": 148,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "148",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "148",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/652530294-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/736dda\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/736dda\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/736dd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/736dd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/736dd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/736dd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/144p_98551_Huawei_Honor_5X_-_CES_2016.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:02:28"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

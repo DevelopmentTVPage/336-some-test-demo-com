@@ -1,0 +1,108 @@
+{
+    "title": "D-Link Wireless AC750 Dual Band Cloud Router Overview",
+    "description": "The DIR-816L Wireless AC750 Dual Band Cloud Router is an affordable yet powerful wireless solution that combines the latest high-speed 802.11ac Wi-Fi - which is up to three times faster than existing wireless.  Design with dual band technology and wired network ports to deliver a seamless networking experience.",
+    "referenceId": "6c33ebae0a5e3502713dde2555023fa9",
+    "date_created": "1391731200",
+    "date_modified": "1455794193",
+    "tags": "D-Link,Wireless,AC750,Dual,Band,Cloud,Router,2x 5dBi,Antennas,DIR-816L,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "networking",
+    "age_gate": "no",
+    "video_brand": "d-link",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "7",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168571",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "196",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "D-Link-Wireless-AC750-Dual-Band-Cloud-Router-Overview",
+    "category": "",
+    "duration": 221,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "221",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "221",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/747958542-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168571\/ecba5a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168571\/ecba5a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168571\/ecba5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168571\/ecba5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168571\/ecba5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168571\/ecba5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168571\/ecba5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168571\/144p_81bb0_(02-07-2014)_D-Link_DIR-816L_33-127-537_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:41"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

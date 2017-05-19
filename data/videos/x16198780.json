@@ -1,0 +1,97 @@
+{
+    "title": "Rosewill Legacy Cases, Blackhawk V2, & Apollo Series Keyboards @ CES 2014",
+    "description": "Paul catches up with Buu from Rosewill to discuss anywhere between Legacy cases to Apollo keyboards @ CES 2014!",
+    "referenceId": "2629b4cab3fddad801db981238eac300",
+    "date_created": "1389139200",
+    "date_modified": "1457050344",
+    "tags": "Rosewill,Legacy Cases,Blackhawk V2,Apollo Series Keyboards,Cases,Computer Case,Blackhawk,Apollo Keyboard,Keyboards,Apollo Series,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unb",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "computer_cases",
+    "age_gate": "no",
+    "video_brand": "rosewill",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16198780",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "96",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "Rosewill-Legacy-Cases-Blackhawk-V2-Apollo-Series-Keyboards-CES-2014",
+    "category": "",
+    "duration": 492,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "492",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "492",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/893039873-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198780\/bc066a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198780\/bc066a\/media.m3u8",
+        "prettyDuration": "00:08:12",
+        "uploadAsset": true,
+        "quality": "720p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198780\/bc066\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198780\/bc066\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198780\/bc066\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198780\/bc066\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198780\/144p_2b59a_(01-08-2014)_CES_2014_Rosewill.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

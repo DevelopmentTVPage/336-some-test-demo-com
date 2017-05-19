@@ -1,0 +1,97 @@
+{
+    "title": "Global Distribution Partner of the Year",
+    "description": "Global Distribution Partner of the Year",
+    "referenceId": "c9a97df09f40d2fcda19ab459c5e1431",
+    "date_created": "1455806231",
+    "date_modified": "1469834762",
+    "tags": "Eggies, Awards, Ingram",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "archived",
+    "video_type": null,
+    "video_category": null,
+    "age_gate": null,
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25842939",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "22",
+    "entityIdParent": "25841682",
+    "titleTextEncoded": "Global-Distribution-Partner-of-the-Year",
+    "category": "",
+    "duration": 63,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "63",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "63",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/446196449-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842939\/65856a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842939\/65856a\/media.m3u8",
+        "prettyDuration": "00:01:03",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842939\/65856\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842939\/65856\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842939\/65856\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842939\/65856\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842939\/65856\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842939\/144p_3ad69_14_-_Global_Dist_Partner_-_Ingram.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

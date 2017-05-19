@@ -1,0 +1,101 @@
+{
+    "title": "ASUS Zenfone 2 Deluxe Overview",
+    "description": "Here's the new Zenfone 2 Deluxe, made by ASUS, Model: \nZE551ML-23-4G128G-SE. <\/br>\n- Unlocked GSM Dual SIM with LTE, Android 5.0<\/br>\n- 64-bit Quad-Core Intel Z3580 with 4G RAM and 128G Storage<\/br>\n- 5.5\" IPS full HD display Gorilla Glass 3<\/br>\nCheck out the video for more info!",
+    "referenceId": "cde32ce0f105a66e007525237360c864",
+    "date_created": "1451260800",
+    "date_modified": "1455806604",
+    "tags": "Unlocked,GSM Dual SIM,LTE,Android 5.0,64-bit,Quad-Core,Intel Z3580,4G RAM,128G Storage,5.5,full HD,Gorilla Glass,Asus,ZenFone 2,Deluxe,Smartphone,2.3GHz,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "smartphones",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "44",
+    "CVV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25898751",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "65648629",
+    "titleTextEncoded": "ASUS-Zenfone-2-Deluxe-Overview",
+    "category": "",
+    "duration": 230,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "230",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "230",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/462813858-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/26734a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/26734a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/26734\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/26734\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/26734\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/26734\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898751\/144p_07f04_ASUS_Zenfone_2_Deluxe_Overview_-_Newegg_Lifestyle.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:50"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

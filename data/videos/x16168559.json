@@ -1,0 +1,108 @@
+{
+    "title": "WD Black\u00b2 Dual Drive 2.5\" 120 GB SSD + 1 TB HDD Kit  Tutorial",
+    "description": "WD has redefined the PC with the next big thing in ultra-fast performance storage. Introducing WD Black\u00b2, the world's first 2.5-inch dual drive storage solution. The WD Black\u00b2 dual drive is a completely new approach in a compromised solid-state and hybrid storage market. Finally you can have the speed of an SSD that you want and the capacity of a hard drive that you need in your notebook or all-in-one PC.",
+    "referenceId": "a02b015eb894257eb7fa2780567e8a64",
+    "date_created": "1390176000",
+    "date_modified": "1455793749",
+    "tags": "WD,Black\u00b2,Dual,Drive,2.5,120,GB,SSD,TB,HDD,Kit,WD1001X06XDTL,Solid,State,Hard,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "howtos",
+    "video_category": "storage",
+    "age_gate": "no",
+    "video_brand": "western_digital",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "13",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168559",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "205",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "WD-Black\u00b2-Dual-Drive-2-5-120-GB-SSD-1-TB-HDD-Kit-Tutorial",
+    "category": "",
+    "duration": 872,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "872",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "872",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/818850421-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168559\/131c4a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168559\/131c4a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168559\/131c4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168559\/131c4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168559\/131c4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168559\/131c4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168559\/131c4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168559\/144p_3857d_(01-20-2014)_WD_Black2_Tutorial_22-236-642.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:14:32"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

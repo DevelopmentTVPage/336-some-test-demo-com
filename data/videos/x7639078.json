@@ -1,0 +1,103 @@
+{
+    "title": "ECS Liva X 4GB\/64GB Mini PC Overview",
+    "description": "Intel\u00ae Inside Featuring Intel\u00ae Bay Trail-M \/ Bay Trail-I SoC processors, LIVA X is provided with 64-bit dual-core performance up to 2.25GHz on Intel's advanced 22nm architecture. So Cool Low-power consumption LIVA X with fan-less design stays cool while eliminating inflow of debris which might harm the system. <br \/>Silence is Gold When you eliminate the fan, you eliminate the noise. Fanless LIVA X delivers 0dB silence to extend lifespan and provide better acoustic performance. Power Saving LIVA X consumes only approximately 1\/10 the energy traditional of PCs and brings the most efficient performance.",
+    "referenceId": "a65a3685f8e391d2efe1666544f48e82",
+    "date_created": "1423699200",
+    "date_modified": "1455791360",
+    "tags": "ec,liva,4gb\/64gb,mini,pc,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "minipcs",
+    "age_gate": "no",
+    "video_brand": "ecs",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "12",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639078",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "70",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "ECS-Liva-X-4GB-64GB-Mini-PC-Overview",
+    "category": "",
+    "duration": 204,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "204",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "204",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/368781992-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/144p_ef384_(02-12-2015)_Liva_Mini_PC_56-501-010.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:24"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

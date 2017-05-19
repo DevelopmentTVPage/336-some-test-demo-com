@@ -1,0 +1,102 @@
+{
+    "title": "GameCrate Hollywood: Straight Outta Compton's Marlon Yates battles GameCrate editor in Madden NFL 15",
+    "description": "Straight Outta Compton's Marlon Yates challenges GameCrate editor Q. Salazar to a game of Madden NFL 15. We also talked to Yates about what it was like portraying rapper The D.O.C. in Straight Outta Compton and how it was transitioning from a modeling career into an acting career.<br \/>\n<br \/>\nOur new series, GameCrate Hollywood, pits some of Hollywood's upcoming and established stars against GameCrate editors in current and classic games plus the latest about their work and upcoming projects.",
+    "referenceId": "dd2adfc8d3c64599bd26f5066a81b689",
+    "date_created": "1439337600",
+    "date_modified": "1455784956",
+    "tags": "marlon yates, straight outta compton, nfl, madded, gamecrate, newegg, pc, console",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "gaming",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "9",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7172469",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "GameCrate-Hollywood-Straight-Outta-Compton-s-Marlon-Yates-battles-GameCrate-editor-in-Madden-NFL-15",
+    "category": "",
+    "duration": 371,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "371",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "371",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172469\/thumb-dd2adfc8d3c64599bd26f5066a81b689-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172469\/399afa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172469\/399afa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172469\/399af\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172469\/399af\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172469\/399af\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172469\/399af\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172469\/399af\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172469\/144p_2ea80_(08-12-2015)_GameCrate_-_Marlon_Yates_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:06:11"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

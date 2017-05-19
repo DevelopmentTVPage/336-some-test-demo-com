@@ -1,0 +1,109 @@
+{
+    "title": "Samsung S34E790C Curved Monitor Overview",
+    "description": "Here's an Curved Monitor, made by Samsung, Model: S34E790C. Check out the video for more info!",
+    "referenceId": "0d0ffddc9df425c1c2015a6a645313b8",
+    "date_created": "1431043200",
+    "date_modified": "1455790684",
+    "tags": "Samsung,S34E790C,34,Curved,WQHD,Cinema Wide,HDMI,LED,Backlight,LCD,Monitor,DCR Mega Infinity,3000:1,Dual Speakers,High Adjustable,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "monitors",
+    "age_gate": "no",
+    "video_brand": "samsung",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "35",
+    "CVV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639039",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "50",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Samsung-S34E790C-Curved-Monitor-Overview",
+    "category": "",
+    "duration": 203,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "203",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "203",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/202682143-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639039\/db421a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639039\/db421a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639039\/db421\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639039\/db421\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639039\/db421\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639039\/db421\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639039\/db421\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639039\/144p_90ed1_(05-08-2015)_Samsung_S34E790C_Curved_Monitor_v03.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:23"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

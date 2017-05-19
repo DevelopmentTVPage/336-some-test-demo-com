@@ -1,0 +1,109 @@
+{
+    "title": "DELL S2716DG Gaming Monitor Interview - Newegg TV",
+    "description": "Hailey checks out a new gaming monitor with special guest Jenny from Dell. Want more info on this gaming monitor with G-Sync? Check out the video!<br \/>\n<br \/>\nCrystal clear motion: Experience sharp and undistorted moving images with NVIDIA G-SyncTM  and the fastest refresh rate at 144 Hz for sharp, jitter-free graphics that drastically reduce motion blur. <br \/>\nLeave lag time behind: Enjoy incredibly swift and responsive gameplay with minimum input lag at an extremely rapid 1ms panel response time. <br \/>\nBask in every detail: Enjoy vivid edge-to-edge gameplay with the new Dell 27 Gaming Monitor, equipped with crisp QHD resolution (2560 x 1440)\u2013 that\u2019s 3.68 million pixels \u2013 giving you close to two times more details on screen than Full HD.<br \/>\n<br \/>\nDELL S2716DG Gaming Monitor Interview",
+    "referenceId": "20412ba7fb147232a593a54bd1148b1d",
+    "date_created": "1444608000",
+    "date_modified": "1455788477",
+    "tags": "DELL,S2716DG,Gaming Monitor,WQHD,2560 x 1440 Resolution,144Hz,NVIDIA G-Sync,16:9,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "displays",
+    "age_gate": "no",
+    "video_brand": "dell",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "108",
+    "CVV_VI": "18",
+    "engagement_score": "1",
+    "conversion_score": "1",
+    "id": "7638985",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "12",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "DELL-S2716DG-Gaming-Monitor-Interview-Newegg-TV",
+    "category": "",
+    "duration": 258,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "258",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "258",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/572296195-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6ca\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6ca\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/144p_f8143_(10-12-2015)_Dell_Monitor_Interview_Final.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:18"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

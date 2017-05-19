@@ -1,0 +1,102 @@
+{
+    "title": "EVGA GeForce GTX 750, 750 SC, 750 Ti SC, 750 Ti FTW Video Cards",
+    "description": "Here's an GeForce GTX 750 Superclocked Video Card \n, made by EVGA, Model: 01G-P4-2753-KR. Check out the video for more info!",
+    "referenceId": "104d067192b1b73b9226de90e5792039",
+    "date_created": "1392336000",
+    "date_modified": "1455794386",
+    "tags": "EVGA,GeForce,GTX,750,01G-P4-2751-KR,Video,Card,512,CUDA,Cores,1GB,128-Bit,GDDR5,PCI,Express,3.0,Superclocked,01G-P4-2753-KR,Ti,02G-P4-3753-KR,640,2GB,02G-P4-3757-KR,FTW,ACX,Cooling,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,d",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "graphics_cards",
+    "age_gate": "no",
+    "video_brand": "evga",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168576",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "192",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "EVGA-GeForce-GTX-750-750-SC-750-Ti-SC-750-Ti-FTW-Video-Cards",
+    "category": "",
+    "duration": 616,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "616",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "616",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/614046869-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168576\/678daa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168576\/678daa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168576\/678da\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168576\/678da\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168576\/678da\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168576\/678da\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168576\/678da\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168576\/144p_d9df7_(02-14-2014)_EVGA_GTX_750&750Ti-.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:10:16"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

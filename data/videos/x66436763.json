@@ -1,0 +1,103 @@
+{
+    "title": "Newegg DIY Garage: MSI Aegis Barebone System",
+    "description": "Meet the Aegis: The next generation gaming barebone desktop PC. Designed from scratch and built from the ground up, the Aegis is the perfect platform to build your next gaming powerhouse. Check out the video for more info!",
+    "referenceId": "cf149f6633c507ede7f65e24089ecb76",
+    "date_created": "1467416070",
+    "date_modified": "1471882283",
+    "tags": "6th Gen, Intel , DirectX 12,gaming rig, NVIDIA GTX 980Ti,600W ,80+ Silver Power Supply ,PCI-E , carey holzman,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer, how to build a gam",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "shows_episodes",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": "msi",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "1333",
+    "CVV_VI": "144",
+    "engagement_score": "18",
+    "conversion_score": "8",
+    "id": "66436763",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "65648623",
+    "titleTextEncoded": "Newegg-DIY-Garage-MSI-Aegis-Barebone-System",
+    "category": "",
+    "duration": 721,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "721",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "721",
+        "prettyDuration": "00:12:01",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/849026480-0419201077.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66436763\/a4598\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66436763\/a4598\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66436763\/a4598\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66436763\/a4598\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66436763\/a4598\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66436763\/a4598\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66436763\/a4598\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

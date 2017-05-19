@@ -1,0 +1,100 @@
+{
+    "title": "Newegg DIY Garage: A Box Better Than Chocolates",
+    "description": "Show your loved one how much you really care with a box better than chocolates. Check out this build featuring the Crucial SSD. The CPU we used is Intel's Core i7-6700 however you can select any socket 1151 CPU that fits your needs, as well as any amount of DDR4 RAM from any manufacturer (in pairs of course). As for the video card, it's your choice, AMD or NVIDIA. You can also choose any hard drive, solid state drive or m.2 drive or any combination thereof, however we chose Crucials BX200 2.5\" 480GB SSD.",
+    "referenceId": "d273f6d089e3bfb475415b3fdc26daf3",
+    "date_created": "1454457600",
+    "date_modified": "1455807136",
+    "tags": "crucial, ssd, corsair, intel, core i7-6700, gigabyte z170, microsoft, tp link, dual band wireless, vengeance, memory, ram, cpu, psu, video card, evga,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,p",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "builds",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "322",
+    "CVV_VI": "75",
+    "engagement_score": "4",
+    "conversion_score": "4",
+    "id": "26062007",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "65648623",
+    "titleTextEncoded": "Newegg-DIY-Garage-A-Box-Better-Than-Chocolates",
+    "category": "",
+    "duration": 1281,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1281",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1281",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/684393325-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26062007\/46c4ca\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26062007\/46c4ca\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26062007\/46c4c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26062007\/46c4c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26062007\/46c4c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26062007\/46c4c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26062007\/46c4c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

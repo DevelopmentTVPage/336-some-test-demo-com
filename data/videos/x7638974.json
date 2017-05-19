@@ -1,0 +1,109 @@
+{
+    "title": "ASUS Z170-A & Z170-Deluxe Motherboards Interview",
+    "description": "Here's are new motherboards, made by Asus, Models: Z170-DELUXE and Z170-A . Check out the video for more info!<br \/>\n<br \/>\n5-Way Optimization at your disposal it takes just one click to tune complex settings \u2014 for instant, highly-controllable performance boosts! Our exclusive technology dynamically optimizes essential aspects of your system based on real-time use, so you get superb CPU performance, everyday energy savings, ultra-stable digital power, cool and quiet fans and even networking and audio settings that are tailored for the apps that you are using. In short, 5-Way Optimization ensures that your PC is perfect for gaming, entertainment, productivity or just about anything else!<br \/>\n<br \/>\n\nASUS Z170-A & Z170-Deluxe Motherboards Interview",
+    "referenceId": "d54bff31079714b5657536b389c7fb1d",
+    "date_created": "1437609600",
+    "date_modified": "1455788112",
+    "tags": "ASUS,MAXIMUS VIII GENE,hero,Intel,Z170,HDMI,SATA,6Gb\/s,USB 3.1,USB 3.0,ATX Intel Motherboard,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,skylake",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "motherboards",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "19",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638974",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "19",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "ASUS-Z170-A-Z170-Deluxe-Motherboards-Interview",
+    "category": "",
+    "duration": 892,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "892",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "892",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/237781580-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36aa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36aa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/144p_35191_(07-23-2015)_ASUS_Skylake_Mainstream_Interview_Final.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:14:52"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

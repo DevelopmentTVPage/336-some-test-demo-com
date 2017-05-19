@@ -1,0 +1,108 @@
+{
+    "title": "EVGA Hadron Hydro Case & Cooling Kit Overview",
+    "description": "Why sacrifice appearance and size when choosing a performance rig? The EVGA Hadron Mini ITX chassis was designed for full performance and no compromises. At a mere 6 2\/3 inches (169mm) wide and 13 3\/4 inches (350mm) high, the EVGA Hadron chassis is extremely small, but capable of holding the latest and best hardware.",
+    "referenceId": "9ce55f422bb9b5ef2ce165e72b0b1b57",
+    "date_created": "1398038400",
+    "date_modified": "1455796585",
+    "tags": "EVGA,Hadron,Hydro,Case,Cooling,Kit,Overview,Mini,ITX,Chassis,Black,500W,80Plus,Gold,Power,Supply,110-MW-1002-K1,100-WC-S201-BR,Watercooling,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "computer_cases",
+    "age_gate": "no",
+    "video_brand": "evga",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "3",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168627",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "150",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "EVGA-Hadron-Hydro-Case-Cooling-Kit-Overview",
+    "category": "",
+    "duration": 955,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "955",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "955",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/793306855-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168627\/9029fa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168627\/9029fa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168627\/9029f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168627\/9029f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168627\/9029f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168627\/9029f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168627\/9029f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168627\/144p_82e66_(04-21-2014)_EVGA_Hadron_Hydro_Case_&_Kit_11-205-012_35-288-005.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:15:55"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

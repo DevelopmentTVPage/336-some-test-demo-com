@@ -1,0 +1,111 @@
+{
+    "title": "ASUS Chromebook C100 Interview",
+    "description": "Here's are Chromebooks, made by Asus, Models: C100PA-DB01 and C100PA-DB02 . Check out the video for more info!<br \/>\n<br \/>\nIntroducing the all-new ASUS Chromebook Flip C100, a touchscreen Chromebook featuring a 360-degree hinge that enables it to function in a variety of modes, including traditional notebook, tablet, stand and tent. From note taking in class to sharing videos with friends at a local coffee shop to pulling all-nighters, the ASUS Chromebook C100 lets you communicate, share and play in a variety of ways.<br \/>\n<br \/>\nAsus Chromebook C100 Interview",
+    "referenceId": "35e0f996b57f09f94aa7063ea61e6299",
+    "date_created": "1438041600",
+    "date_modified": "1477948808",
+    "tags": "ASUS,C100,chromebook,Rockchip,RK3288,1.80GHz,4GB,Memory,16 GB,eMMC,SSD,Touchscreen,Chrome OS,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "tablets",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": "featured_yes",
+    "VV_VI": "30",
+    "CVV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638977",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "17",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "ASUS-Chromebook-C100-Interview",
+    "category": "",
+    "duration": 285,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "285",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "285",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/608105193-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43a\/media.m3u8",
+        "prettyDuration": "00:04:45",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/144p_84e71_(07-28-2015)_ASUS_Chromebook_C100_Interview_Final.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

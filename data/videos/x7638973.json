@@ -1,0 +1,103 @@
+{
+    "title": "BenQ XR3501 Curved Monitor Interview",
+    "description": "Here's a curved monitor, made by BenQ, Model: XR3501. Check out the video for more info!<br \/>\n<br \/>\nDiscover a truly immersive viewing experience while working and playing with the BenQ XR3501 35\" curved monitor. Designed and optimized for gaming especially the racing gaming, the XR3501 boasts a curvature of 2000R - the most of any monitor released yet, and an ultra-wide 21:9 aspect ratio. These together deliver immersive and panoramic viewing that covers your natural field of vision down to the periphery. It features 2560 x 1080 resolution, plus 144Hz refresh rate that render smooth and crisp images even in the fastest action scene.<br \/>\n<br \/>\nBenQ XR3501 Curved Monitor Interview",
+    "referenceId": "7b1a830f43aa78a4205ed5626fc7ac15",
+    "date_created": "1436745600",
+    "date_modified": "1455788044",
+    "tags": "144Hz Refresh Rate,AMVA Curved,Black eQualizer,Zero flicker,HDMI1.4x2,Headphone jack,Mic jack,BenQ,XR3501,21:9,Ultra Wide Curve,LED,Backlight,Gaming Professional Monitor,game mode,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,de",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": "benq",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "8",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638973",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "22",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "BenQ-XR3501-Curved-Monitor-Interview",
+    "category": "",
+    "duration": 423,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "423",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "423",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/738704381-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638973\/fd578a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638973\/fd578a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638973\/fd578\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638973\/fd578\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638973\/fd578\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638973\/fd578\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638973\/fd578\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638973\/144p_9bfce_(07-13-2015)_BenQ_XR3501_Monitor_Interivew_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:07:03"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

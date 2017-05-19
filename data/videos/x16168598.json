@@ -1,0 +1,102 @@
+{
+    "title": "Creative Sound Blaster Recon3D Omega Wireless Gaming Headset Overview",
+    "description": "Powered by the revolutionary Sound Core3D quad-core sound and voice processor, the Sound Blaster Recon3D Omega Wireless audio system heralds the beginning of a new era in gaming audio. It packs amazing audio processing power previously available only in internal PC audio card solutions into a stylish and powerful wireless gaming audio system for your Xbox 360, Playstation 3, PC or Mac. Hardware accelerated THX TruStudio Pro technologies greatly enhance ordinary gaming audio leaving standard 5.1 and 7.1 audio systems in the dust. Once you've experienced the power of Sound Core3D hardware accelerated gaming audio, you'll never settle for anything less. Join the legion of 400 million Sound Blaster users and prepare yourself for truly legendary quality gaming audio.",
+    "referenceId": "304da0870c8771e15ee86acfb35602cf",
+    "date_created": "1394755200",
+    "date_modified": "1455795252",
+    "tags": "Creative ,Sound, Blaster ,Recon3D, Omega, Wireless ,Gaming, Headset, newegg, neweggtv, newegg tv",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "peripherals",
+    "age_gate": null,
+    "video_brand": "creative",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168598",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "174",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Creative-Sound-Blaster-Recon3D-Omega-Wireless-Gaming-Headset-Overview",
+    "category": "",
+    "duration": 750,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "750",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "750",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/584943484-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168598\/306eba\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168598\/306eba\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168598\/306eb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168598\/306eb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168598\/306eb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168598\/306eb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168598\/306eb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168598\/144p_e4a63_(03-14-2014)_Creative_Sound_Blaster_Recon_3D_74-789-002.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:12:30"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

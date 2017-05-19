@@ -1,0 +1,109 @@
+{
+    "title": "BenQ Free Sync Gaming Monitor Interview",
+    "description": "Ron from BenQ stops by to talk to Steve about Gaming Monitors!<br \/>\n<br \/>\nNew standards have been set for the finest, smoothest and fastest gameplay experience. The new XL2730Z incorporates perfect motion, fast gaming features, QHD resolution, 144Hz refresh rate, 1ms GTG response time and VESA Standard Adaptive-Sync technology with the most powerful gaming gears for precise control, intuitive set-up and gaming eye care to empower professional gamers and gaming enthusiasts to dominate every gameplay.\n<br \/>\nBenQ Free Sync Gaming Monitor Interview - Newegg TV",
+    "referenceId": "ff5408193f0c1294db78233f1670dcbe",
+    "date_created": "1427241600",
+    "date_modified": "1455787698",
+    "tags": "BenQ,gaming monitors,free sync,gaming,monitor,XL2730Z,Widescreen,2560x1440,Adaptive-Sync,Auto Game Modes,Ergonomic,Professional,No Lag Streaming,ben q,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,pr",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": "benq",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "7",
+    "CVV_VI": "16",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638961",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "30",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "BenQ-Free-Sync-Gaming-Monitor-Interview",
+    "category": "",
+    "duration": 883,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "883",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "883",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/789564812-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638961\/e2499a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638961\/e2499a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638961\/e2499\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638961\/e2499\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638961\/e2499\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638961\/e2499\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638961\/e2499\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638961\/144p_e6763_(03-25-2015)_BenQ_Monitors_Interview_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:14:43"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

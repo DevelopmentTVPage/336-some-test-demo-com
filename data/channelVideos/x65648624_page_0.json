@@ -1,0 +1,705 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "66658657",
+            "title": "Acer Predator",
+            "date_created": "1467822549",
+            "loginId": "1758381",
+            "tags": "acer, predator, g1, desktop",
+            "description": "Acer Predator",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "127",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "127",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/845832059-021825953.JPG",
+                "uploadAsset": false,
+                "quality": "",
+                "prettyDuration": "00:02:07",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66658657\/b0aa0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648624",
+            "url": "\/what-the-tech\/acer-predator\/65648624-66658657"
+        },
+        {
+            "id": "26206165",
+            "title": "Adaptive Sound Technologies Sound Sleep Therapy Systems Overview",
+            "date_created": "1456769897",
+            "loginId": "1758381",
+            "tags": "Adaptive Sound Technologies, AST, Sleep, Sound, Therapy, Sleep+Sound, Mini, LectroFan, Systems, White, Noise, Sounds, Speaker, High-definition, Real-Time, Timer, Relaxation, meditation, rain, ocean, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,v",
+            "description": "SOUND+SLEEP Features:<\/br>\n-Patented Adaptive Sound listens and responds to your environment<\/br>\n-Real-time compositions utilizing high-definition sound recordings producing ultra high-quality masking sounds<\/br>\n-Small, sleek and stylish functional design ideal for the nightstand<\/br>\n-Upward-facing digital filter-compensated speaker for full-room sound<\/br>\n-Display lights can be turned on or off for easy nighttime operation<\/br>\n-4-level Sleep Timer can be for gradual gentle turn off in 30, 60, 90 or 120 minutes, or left on for all-night continuous play<\/br>\n-Sound Richness control for deeper, more complex sound profiles<\/br>\n-Easy one-touch volume control<\/br>",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "204",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "204",
+                "prettyDuration": "00:03:24",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/281333310-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/media.m3u8",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26206165\/8fc09\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648624",
+            "url": "\/what-the-tech\/adaptive-sound-technologies-sound-sleep-therapy-systems-overview\/65648624-26206165"
+        },
+        {
+            "id": "7639003",
+            "title": "Sennheiser PMX686i Sports Headphones Overview",
+            "date_created": "1443052800",
+            "loginId": "1758381",
+            "tags": "Sennheiser,PMX686i,Sports Headphones,iOS Devices,android,durable,neckband,sweat resistant,water resistant,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here are some new in-ear sweat and water-resistant headphones, made by Sennheiser, Model: PMX686i. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "126",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "126",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/795458649-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70ea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70ea\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/ec70e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639003\/144p_4daa9_(09-24-2015)_Sennheiser_PMX686i_Headphones_23-106-786_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:06"
+            },
+            "parentId": "65648624",
+            "url": "\/what-the-tech\/sennheiser-pmx686i-sports-headphones-overview\/65648624-7639003"
+        },
+        {
+            "id": "7639057",
+            "title": "Sennheiser 2nd Gen Momentum On Ear Wireless Headphones Overview",
+            "date_created": "1441152000",
+            "loginId": "1758381",
+            "tags": "Sennheiser,Momentum,Around-Ear,Headphone,iOS Devices,circumaural,noise isolation,16Hz-22KHz,18 ohms,Microphone,100Hz-10KHz,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Sennheiser continues to find the perfect balance of design, comfort, and quality. Join Tom as he overviews the Sennheiser 2nd Gen Momentum On Ear Wireless Headphones - which come with a number of fantastic accessories for travel.<br \/>\n<br \/>\nSennheiser 2nd Gen Momentum On Ear Wireless Headphones Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "102",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "102",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/722951881-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/144p_6ee12_(09-02-2015)_Sennheiser_Final_-_SITE.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:42"
+            },
+            "parentId": "65648624",
+            "url": "\/what-the-tech\/sennheiser-2nd-gen-momentum-on-ear-wireless-headphones-overview\/65648624-7639057"
+        },
+        {
+            "id": "7639021",
+            "title": "Ninebot-E Personal Transportation Robot",
+            "date_created": "1435104000",
+            "loginId": "1758381",
+            "tags": "Hands-free,operation,Dual 1350W,brushless motors,12 mile range,12mph,top speed,Self-balancing,Ninebot,Two Wheel,Transporter,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a personal transportation robot, made by Ninebot, Model: Ninebot-E. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "168",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "168",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/811207197-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1da\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1da\/media.m3u8",
+                "prettyDuration": "00:02:48",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/b1a1d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639021\/144p_8dea0_(06-24-2015)_NineBot_-_Lifestyle_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648624",
+            "url": "\/what-the-tech\/ninebot-e-personal-transportation-robot\/65648624-7639021"
+        },
+        {
+            "id": "7172440",
+            "title": "Advancing CPU Cooling Technology - Cooler Master at CES 2015",
+            "date_created": "1420675200",
+            "loginId": "1758381",
+            "tags": "Cooler Master,Heat Sink,CoolChip Technologies,CPU,CPU Cooling,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Cooler Master and CoolChip Technologies showcase what they're doing to advance CPU cooling techniques.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "534",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "534",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/338864200-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846fa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846fa\/media.m3u8",
+                "prettyDuration": "00:08:54",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/144p_8ef7a_CES_2015_-_Cooler_Master.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648624",
+            "url": "\/what-the-tech\/advancing-cpu-cooling-technology-cooler-master-at-ces-2015\/65648624-7172440"
+        },
+        {
+            "id": "7172443",
+            "title": "Graphics Card Cooling & Peripherals - EVGA at CES 2015",
+            "date_created": "1420588800",
+            "loginId": "1758381",
+            "tags": "EVGA,GTX 980,GTX 970 FTW+,Graphics Cooling,Graphics Card,Z10,Z10 Keyboard,Mouse,Mice,EVGA Mice,EVGA Keyboard,Peripherals,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,ov",
+            "description": "Jacob shows Steve what's new in graphics card cooling with the GTX 980 Kingpin Edition and GTX 970 FTW+ cards. As well as gives us a peek at their upcoming peripherals.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "357",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "357",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/443667936-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/bf847a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/bf847a\/media.m3u8",
+                "prettyDuration": "00:05:57",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/bf847\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/bf847\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/bf847\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/bf847\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172443\/144p_bdc61_CES_2015_-_EVGA.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648624",
+            "url": "\/what-the-tech\/graphics-card-cooling-peripherals-evga-at-ces-2015\/65648624-7172443"
+        },
+        {
+            "id": "7172444",
+            "title": "World Records Topped using Gigabyte X99 SOC Champion Motherboard - CES 2015",
+            "date_created": "1420502400",
+            "loginId": "1758381",
+            "tags": "Gigabyte,X99,Gigabyte X99,Gigabyte X99 SOC Champion,Motherboard,Enermax,Elaine Su,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "We got a glimpse of what's new from Gigabyte at their CES 2015 Press Day. They introduce a new motherboard, Brix, and in collaboration with Enermax, showcase a special build honoring the memory of Elaine Su.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "121",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "121",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/677763828-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dcea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dcea\/media.m3u8",
+                "prettyDuration": "00:02:01",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dce\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dce\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dce\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dce\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/144p_5a9e7_CES_2015_-_Gigabyte_Press_Day.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648624",
+            "url": "\/what-the-tech\/world-records-topped-using-gigabyte-x99-soc-champion-motherboard-ces-2015\/65648624-7172444"
+        },
+        {
+            "id": "7639019",
+            "title": "XYZprinting daVinci 2.0 3D Printer Overview",
+            "date_created": "1419897600",
+            "loginId": "1758381",
+            "tags": "XYZprinting,daVinci,2.0,3D,Printer,dual extruder,3d printing,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "sku: 28-840-014<\/br>\n<\/br>\nHere's an 3D Printer, made by XYZ, Model: da Vinci 2.0. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "332",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "332",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/318165001-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/144p_0ac4f_XYZprinting_daVinci_2.0_3D_Printer_Overview_-_Newegg_Lifestyle.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:05:32"
+            },
+            "parentId": "65648624",
+            "url": "\/what-the-tech\/xyzprinting-davinci-2-0-3d-printer-overview\/65648624-7639019"
+        },
+        {
+            "id": "7639017",
+            "title": "Wacom Intuos Tablet Overview",
+            "date_created": "1413504000",
+            "loginId": "1758381",
+            "tags": "wacom,intuos,pro,active,area,usb,pen,and,tablet,small,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here\u2019s a Graphics Tablets, made by Wacom, Model: CTL480. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "822",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "822",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/935372329-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033fa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033fa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/6033f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639017\/144p_47eaf_Wacom_Intuos_Tablet_Overview_-_Newegg_Lifestyle.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:13:42"
+            },
+            "parentId": "65648624",
+            "url": "\/what-the-tech\/wacom-intuos-tablet-overview\/65648624-7639017"
+        }
+    ]
+}

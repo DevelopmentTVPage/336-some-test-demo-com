@@ -1,0 +1,102 @@
+{
+    "title": "RND Wall Power Station Overview",
+    "description": "RND Power Solutions smartphone power station provides exceptional convenience for your daily charging tasks. RND Power Solutions charging station boasts three outlets and 2 USB ports. Allowing you to charge your laptop cell phone camera USB powered tablet and MP3 player all from a single power outlet so all of your digital devices are in one convenient location. RND Power Solutions charging station features a 2-port hub capable of charging 2 USB-powered devices at the same time. A total of 2.1 amps for fast charging of iPad and tablets. RND Power Solutions charging station also has built-in protection against power spikes protecting you devices from burning out. RND Power Solutions charging station securely mounts to any 2-socket outlet or plug in any outlet space. RND Power Solutions charging station includes 2 slide-out holders for your Smartphone. The holder work best with phones that have their cable attach at the bottom like the Apple iPhone and Samsung Galaxy phones.",
+    "referenceId": "f089c26c460eef64a339d8a97e117c95",
+    "date_created": "1392854400",
+    "date_modified": "1455798980",
+    "tags": "RND,Wall,Power,Station,AC,Plugs,USB,ports,Surge,Protection,slide-out,holders,Smartphone,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "lifestyle",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": "rnd",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "9",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168700",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "34",
+    "entityIdParent": "65648629",
+    "titleTextEncoded": "RND-Wall-Power-Station-Overview",
+    "category": "",
+    "duration": 143,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "143",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "143",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/978637131-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168700\/bc2d7a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168700\/bc2d7a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168700\/bc2d7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168700\/bc2d7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168700\/bc2d7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168700\/bc2d7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168700\/bc2d7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168700\/144p_8855f_(02-20-2014)_RND_Power_Solutions_9SIA10RWZ511.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:02:23"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

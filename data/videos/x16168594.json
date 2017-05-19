@@ -1,0 +1,108 @@
+{
+    "title": "Cooler Master Nepton 140XL CPU Liquid Water Cooling System Overview",
+    "description": "The Nepton 140XL brings water cooling to the next level. It features a CM exclusive designed pump and a highly effective waterblock for the best water flow. Dual JetFlo 140 fans supply powerful air pressure, while a 140mm aluminum radiator efficiently cools your system with heat dissipation. The Nepton 140XL also includes robust and extra thick FEB tubing to prevent moisture absorption while maintaining sufficient water flow for performance cooling. Cool your CPU with the Nepton 140XL, so you can overclock it and push performance to the max!",
+    "referenceId": "e1be8688cf32221c77baf8efded67fd7",
+    "date_created": "1394496000",
+    "date_modified": "1455795011",
+    "tags": "Cooler,Master,Nepton,140XL,Push-Pull,CPU,Liquid,Water,Cooling,System,140mm,Radiator,JetFlo,Fans,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": "cooler_master",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "12",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168594",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "177",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Cooler-Master-Nepton-140XL-CPU-Liquid-Water-Cooling-System-Overview",
+    "category": "",
+    "duration": 390,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "390",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "390",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/317668402-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168594\/a7918a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168594\/a7918a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168594\/a7918\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168594\/a7918\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168594\/a7918\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168594\/a7918\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168594\/a7918\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168594\/144p_36d78_(03-11-2014)_Cooler_Master_Nepton_140_XL_35-181-032.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:06:30"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

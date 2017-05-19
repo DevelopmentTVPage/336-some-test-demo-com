@@ -1,0 +1,108 @@
+{
+    "title": "DEEPCOOL CAPTAIN CPU Liquid Cooler Overview",
+    "description": "DEEPCOOL CAPTAIN 240 CPU Cooler The Captain Series is the innovative, high quality CPU liquid cooler design from Gamer Storm, DEEPCOOL. Innovated by DEEPCOOL's Steam Castle Design, the Captain has a Steam Punk style, built with a visible liquid flow and LED lighting. You'll be overjoyed not only because of your CPU cooling but also your aesthetics. The Captain Series with its side window is sure to be your ultimate choice for a computer case.",
+    "referenceId": "7af4d130e8be8f9e8982ebdaa81de84a",
+    "date_created": "1416441600",
+    "date_modified": "1455792746",
+    "tags": "deepcool,gamer,storm,captain,240,cpu,liquid,cooler,aio,water,cool,ceramic,bear,pump,visual,flow,with,dual120mm,fdb,pwm,fan,rubber,coat,deep,silent,support,lga,2011-v3,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,over",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": "deepcool",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "13",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168538",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "86",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "DEEPCOOL-CAPTAIN-CPU-Liquid-Cooler-Overview",
+    "category": "",
+    "duration": 564,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "564",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "564",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/835215334-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797aa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797aa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/144p_9d103_(11-20-2014)_DeepCool_Gamerstorm_Captain_35-856-022_-023_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:09:24"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

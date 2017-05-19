@@ -1,0 +1,101 @@
+{
+    "title": "Deepcool Gamer Storm - CES 2016",
+    "description": "DEEPCOOL shows off their new Gamer Storm Genome case with closed loop liquid cooling built right in. If that isn't cool enough for you, Deepcool also offers their new Liquid Cooling PSU! The Gamer Storm Liquid Cooling PSU is in development with an open loop cooling system so you can hook up your GPU, CPU, and PSU.",
+    "referenceId": "4432dcd87b2e0eb607c1bcca3067c1da",
+    "date_created": "1452297600",
+    "date_modified": "1455806050",
+    "tags": "CES2016, liquid cooling, psu, cpu, gpu, gamer storm, closed loop, open loop, chassis, deepcool,   CES2016, ces, ,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": "deepcool",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "20",
+    "CVV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25839086",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "Deepcool-Gamer-Storm-CES-2016",
+    "category": "",
+    "duration": 168,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "168",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "168",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/987827763-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/f9afba\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/f9afba\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/f9afb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/f9afb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/f9afb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/f9afb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/144p_909ae_Deepcool_Gamer_Storm_-_CES_2016.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:02:48"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

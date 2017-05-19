@@ -1,0 +1,109 @@
+{
+    "title": "Corsair H100i GTX Hydro Liquid Cooler Overview",
+    "description": "The Hydro Series H100i GTX is an extreme performance, all-in-one liquid CPU cooler for cases with 240mm radiator mounts. The 240mm radiator and dual SP120L PWM fans provide the excellent heat dissipation you need for highly overclocked CPUs. Corsair Link is built in, so you can monitor temperatures, adjust cooling performance and customize LED lighting directly from your desktop.",
+    "referenceId": "8300d37cab8572450e0d3107338b05c4",
+    "date_created": "1447632000",
+    "date_modified": "1455791780",
+    "tags": "Extreme performance,240mm radiator,Advanced SP120L PWM fans,Built-in Corsair Link,Corsair ,Hydro Series,H100i ,GTX , Water,Liquid ,CPU, Cooler, 240mm, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,pr",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "cpus",
+    "age_gate": "no",
+    "video_brand": "corsair",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "74",
+    "CVV_VI": "11",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "7645177",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "16",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Corsair-H100i-GTX-Hydro-Liquid-Cooler-Overview",
+    "category": "",
+    "duration": 141,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "141",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "141",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/461022353-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/9b329\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7645177\/144p_bb0a3_Corsair_H100i_GTX_Hydro_Liquid_Cooler_Overview_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:02:21"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

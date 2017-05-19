@@ -1,0 +1,102 @@
+{
+    "title": "GameCrate Hollywood: Armani Jackson (Grey's Anatomy, Cooties) joins us for some Call of Duty",
+    "description": "For this episode of GameCrate Hollywood, actor Armani Jackson joins for some Call of Duty: Advanced Warfare Exo-Survival plus we talk about his new film 'Cooties,' his work on 'Grey's Anatomy,' and his upcoming film 'Nowhere Ever After.'",
+    "referenceId": "3236055ba0057b0b7f0748a01a481c74",
+    "date_created": "1444176000",
+    "date_modified": "1455785014",
+    "tags": "call of duty, advanced warfare, xbox, cooties, armani jackson, gamecrate, newegg, pc, console, gaming",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "gaming",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "7",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7172470",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "GameCrate-Hollywood-Armani-Jackson-Grey-s-Anatomy-Cooties-joins-us-for-some-Call-of-Duty",
+    "category": "",
+    "duration": 383,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "383",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "383",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172470\/thumb-3236055ba0057b0b7f0748a01a481c74-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172470\/61361a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172470\/61361a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172470\/61361\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172470\/61361\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172470\/61361\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172470\/61361\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172470\/61361\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172470\/144p_4cd2f_(10-07-2015)_GameCrate_Hollywood_-_Armani_Jackson_v03.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:06:23"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

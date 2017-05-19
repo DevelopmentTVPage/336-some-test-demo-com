@@ -1,0 +1,108 @@
+{
+    "title": "Gigabyte AMD AM1 & FM2+ Motherboards Interview",
+    "description": "Leon from Gigabyte joins us for an overview and some Q&A about Gigabyte's AM1 & FM2+ motherboards for AMD APUs. Enjoy!",
+    "referenceId": "6ff24cc2a1597e093039b1dad9727869",
+    "date_created": "1397520000",
+    "date_modified": "1455800346",
+    "tags": "gigabyte,amd,AM1,kabini,FM2+,gaming,overclocking,kaveri,richland,trinity,computer,build,tech,Newegg (Business Operation),Newegg,Newegg.com,Newegg TV,NeweggTV,video,technology,electronics,deals,shop,PC,Gigabyte Technology (Business Operation),Socket FM2,Mo",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "motherboards",
+    "age_gate": "no",
+    "video_brand": "gigabyte",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "6",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168746",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "69",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "Gigabyte-AMD-AM1-FM2-Motherboards-Interview",
+    "category": "",
+    "duration": 780,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "780",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "780",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/769345622-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/144p_f2ee0_(04-15-2014)_Gigabyte_AMD_AM1_&_FM2+_Interview.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:13:00"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

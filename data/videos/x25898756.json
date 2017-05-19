@@ -1,0 +1,101 @@
+{
+    "title": "ASUS ROG G752VT-DH72 G-Sync Gaming Laptop Overview",
+    "description": "WORLD DOMINATION. EVOLVED.<\/br>\n<\/br>\nThe all-new Republic of Gamers (ROG) G752 is here to show you the next evolution of mobile gaming with a revolutionary design finished in a new Armor Titanium and Plasma Copper color scheme. Also packed under its armor is a 6th-generation Intel\u00ae Core\u2122 i7 processor, newly designed dust-release thermal fan and a backlit anti-ghosting gaming keyboard with 30-key rollover to ensure high performance and smooth gameplay control in every battle.",
+    "referenceId": "9a2580057ef629a82ffb996923c160b3",
+    "date_created": "1453075200",
+    "date_modified": "1455806646",
+    "tags": "ASUS,ROG,G752VT-DH72,G-Sync,Gaming,Laptop,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "laptops",
+    "age_gate": null,
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "80",
+    "CVV_VI": "6",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "25898756",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "ASUS-ROG-G752VT-DH72-G-Sync-Gaming-Laptop-Overview",
+    "category": "",
+    "duration": 219,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "219",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "219",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/736681120-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/618aba\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/618aba\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/618ab\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/618ab\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/618ab\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/618ab\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898756\/144p_6e8be_ASUS_ROG_G752VT-DH72_G-Sync_Gaming_Laptop_Overview_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:39"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

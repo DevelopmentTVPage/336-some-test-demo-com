@@ -1,0 +1,1091 @@
+{
+    "pageNumber": 3,
+    "data": [
+        {
+            "id": "16168765",
+            "title": "MSI Z97 Motherboard Interview",
+            "date_created": "1399507200",
+            "loginId": "1758381",
+            "tags": "msi,z97,motherboards,mobos,steve,gaming,overclocking,MPOWER,Max,AC,LGA,1150,Intel,HDMI,SATA,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Steve gets a chance to interview with David from MSI. Check out the video to learn more about the newest MSI Z97 Gaming Motherboards!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "832",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "832",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/927202576-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168765\/24ac3a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168765\/24ac3a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168765\/24ac3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168765\/24ac3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168765\/24ac3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168765\/24ac3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168765\/24ac3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168765\/144p_4c3b6_(05-08-2014)_MSI_Z97_Motherboard_Interview.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:13:52"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/msi-z97-motherboard-interview\/65648628-16168765"
+        },
+        {
+            "id": "16168761",
+            "title": "Gigabyte Z97 Series Motherboards Interview",
+            "date_created": "1399420800",
+            "loginId": "1758381",
+            "tags": "gigabyte,z97,motherboards,interview,black,edition,series,paul,overclocking,devils,canyon,haswell,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Leon from Gigatyte was waiting to provide an overview of their newest 9-series motherboards. These Gaming, Performance, OC, and Black Edition motherboards feature the Z97 chipset as well as socket 1150 compatibility for Intel's 4th Generation Core CPUs, including \"Haswell Refresh\" and \"Devil's Canyon\" variants.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "980",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "980",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/536989098-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168761\/94b05a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168761\/94b05a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168761\/94b05\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168761\/94b05\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168761\/94b05\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168761\/94b05\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168761\/94b05\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168761\/144p_ee54a_(05-07-2014)_Gigabyte_Z97_Motherboards_Interview.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:16:20"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/gigabyte-z97-series-motherboards-interview\/65648628-16168761"
+        },
+        {
+            "id": "16168762",
+            "title": "Gigabyte Z97 UEFI Demo Interview",
+            "date_created": "1399420800",
+            "loginId": "1758381",
+            "tags": "over,clocking,overclocking,motherboard,gigabyte,z97,uefi,apps,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Leon from Gigabyte joins Paul in the studio to Demo the newest in Gigabyte Z97 Series Motherboards.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1058",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1058",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/159962226-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168762\/a752da\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168762\/a752da\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168762\/a752d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168762\/a752d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168762\/a752d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168762\/a752d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168762\/a752d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168762\/144p_864a2_(05-07-2014)_Gigabyte_Z97_UEFI_Demo_Interview.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:17:38"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/gigabyte-z97-uefi-demo-interview\/65648628-16168762"
+        },
+        {
+            "id": "16168750",
+            "title": "ASUS Z97 5 way Optimization Demo Interview",
+            "date_created": "1399248000",
+            "loginId": "1758381",
+            "tags": "asus,motherboard,intel,haswell,refresh,z97,paul,jj,j.j.,overclocking,over,clock,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "The new ASUS Z97 Mainstream series of motherboards feature 5-way optimization -- but what does that even mean? It means you can automatically overclock your CPU, optimize your power delivery and power saving features, tune all of your system fans, and set up application-specific profiles that will engage OC settings when you launch specific programs. J.J. is here to demonstrate and explain!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1435",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1435",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/353632533-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168750\/92ab2a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168750\/92ab2a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168750\/92ab2\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168750\/92ab2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168750\/92ab2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168750\/92ab2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168750\/92ab2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168750\/144p_fd067_(05-05-2014)_ASUS_Z97_5-WAY_Optimization_Demo_Interview.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:23:55"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/asus-z97-5-way-optimization-demo-interview\/65648628-16168750"
+        },
+        {
+            "id": "16168751",
+            "title": "ASUS Z97 Deluxe Motherboard Interview",
+            "date_created": "1399248000",
+            "loginId": "1758381",
+            "tags": "z97,haswell,refresh,motherboard,overclocking,deluxe,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Paul and J.J. discuss the newest high-end offering from the ASUS Z97 Mainstream series: the Z97 Deluxe. If you're looking for the most feature-packed and future-proof motherboard outside of ASUS RoG, this is the board to buy.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "972",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "972",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/145284223-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146aa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146aa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/144p_8d873_(05-05-2014)_ASUS_Z97_Deluxe_Motherboard_Interview.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:16:12"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/asus-z97-deluxe-motherboard-interview\/65648628-16168751"
+        },
+        {
+            "id": "16168755",
+            "title": "ASUS Z97 Pro Motherboard Interview with J.J.",
+            "date_created": "1399248000",
+            "loginId": "1758381",
+            "tags": "Asus,Motherboards,mobo,pro,z97,wifi,haswell,refresh,devils,canyon,paul,interview,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "We know our viewers can't get enough of the extensive knowledge that J.J. from ASUS brings to the table, so we decided to bring him out to the studio for a look at their newest Z97 motherboards. Here's the ASUS Z97 Pro, featuring an updated color scheme and compatibility with Intel's 4th Generation Core CPUs, including the \"Haswell Refresh\" and \"Devil's Canyon\" models.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1506",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1506",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/208187789-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168755\/5f3bea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168755\/5f3bea\/media.m3u8",
+                "prettyDuration": "00:25:06",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168755\/5f3be\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168755\/5f3be\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168755\/5f3be\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168755\/5f3be\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168755\/5f3be\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168755\/144p_61994_(05-05-2014)_ASUS_Z97_Pro_Motherboard_Interview.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/asus-z97-pro-motherboard-interview-with-j-j\/65648628-16168755"
+        },
+        {
+            "id": "16168756",
+            "title": "ASUS Z97 ROG Gene Motherboard Interview",
+            "date_created": "1399248000",
+            "loginId": "1758381",
+            "tags": "asus,motherboard,over,clocking,overclocking,gaming,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "J.J. from ASUS talks about the newest Z97 motherboards. Here's the ASUS Z97 Maximus 7 Gene, featuring an updated color scheme and compatibility with Intel's 4th Generation Core CPUs, including the \"Haswell Refresh\" and \"Devil's Canyon\" models.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1895",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1895",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/383734875-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168756\/d197da\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168756\/d197da\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168756\/d197d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168756\/d197d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168756\/d197d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168756\/d197d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168756\/d197d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168756\/144p_978f8_(05-05-2014)_ASUS_Z97_ROG_Gene_Motherboard_Interview.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:31:35"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/asus-z97-rog-gene-motherboard-interview\/65648628-16168756"
+        },
+        {
+            "id": "16168757",
+            "title": "ASUS Z97 Sabertooth Motherboard Interview",
+            "date_created": "1399248000",
+            "loginId": "1758381",
+            "tags": "asus,motherboard,over,clocking,overclocking,gaming,z97,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "J.J. from ASUS talks about the newest Z97 motherboards. Here's the ASUS Z97 Sabertooth, featuring an updated color scheme and compatibility with Intel's 4th Generation Core CPUs, including the \"Haswell Refresh\" and \"Devil's Canyon\" models.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1442",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1442",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/859573885-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168757\/f254ca\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168757\/f254ca\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168757\/f254c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168757\/f254c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168757\/f254c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168757\/f254c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168757\/f254c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168757\/144p_cfd5f_(05-05-2014)_ASUS_Z97_Sabertooth_Motherboard_Interview.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:24:02"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/asus-z97-sabertooth-motherboard-interview\/65648628-16168757"
+        },
+        {
+            "id": "16168747",
+            "title": "Intel Iris Pro Graphics Interview",
+            "date_created": "1398038400",
+            "loginId": "1758381",
+            "tags": "Intel,iris,pro,graphics,cpu,brix,gigabyte,ultra,compact,zotec,zbox,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Hernan from Intel brought in a brand new Zotac ZBox and a Gigabyte Brix Pro, both with Intel Iris Pro graphics.  We discuss the reasons you might want to add one of these potent & extremely portable systems to your gaming arsenal.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "997",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "997",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/420765602-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261a\/media.m3u8",
+                "prettyDuration": "00:16:37",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/4c261\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168747\/144p_aa025_(04-21-2014)_Intel_Iris_Pro_Interview_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/intel-iris-pro-graphics-interview\/65648628-16168747"
+        },
+        {
+            "id": "16168746",
+            "title": "Gigabyte AMD AM1 & FM2+ Motherboards Interview",
+            "date_created": "1397520000",
+            "loginId": "1758381",
+            "tags": "gigabyte,amd,AM1,kabini,FM2+,gaming,overclocking,kaveri,richland,trinity,computer,build,tech,Newegg (Business Operation),Newegg,Newegg.com,Newegg TV,NeweggTV,video,technology,electronics,deals,shop,PC,Gigabyte Technology (Business Operation),Socket FM2,Mo",
+            "description": "Leon from Gigabyte joins us for an overview and some Q&A about Gigabyte's AM1 & FM2+ motherboards for AMD APUs. Enjoy!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "780",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "780",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/769345622-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/2cb92\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168746\/144p_f2ee0_(04-15-2014)_Gigabyte_AMD_AM1_&_FM2+_Interview.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:13:00"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/gigabyte-amd-am1-fm2-motherboards-interview\/65648628-16168746"
+        },
+        {
+            "id": "16168745",
+            "title": "WD Sentinel S Series Storage Plus Server Interview",
+            "date_created": "1393977600",
+            "loginId": "1758381",
+            "tags": "WD,WDBWVL0080KBK-NESN,WDBWVL0120KBK-NESN,WDBWVL0160KBK-NESN,Sentinel,S Series,Storage Plus Server,server,NAS,storage,Western Digital (Business Operation),hard drive,hdd,Interview,Computer,Hard Disk Drive (Invention),tech,Newegg (Business Operation),Newegg",
+            "description": "Today Steve interviews Matt from WD to find out some details about their new MyCloud EX4 4-Bay Personal Cloud Storage device.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1487",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1487",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/879009220-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168745\/e590ba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168745\/e590ba\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168745\/e590b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168745\/e590b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168745\/e590b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168745\/e590b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168745\/e590b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168745\/144p_8dc0a_(03-05-2014)_WD_Sentinel_S-Series_Storage_Plus_Server_Interview.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:24:47"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/wd-sentinel-s-series-storage-plus-server-interview\/65648628-16168745"
+        },
+        {
+            "id": "16168744",
+            "title": "AMD Radeon R7 Series Video Cards Interview",
+            "date_created": "1393200000",
+            "loginId": "1758381",
+            "tags": "AMD,Radeon,R7,240,250,260,260X,Series,Video,Cards,Interview,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "AMD Radeon R7 Series Video Cards",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "322",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "322",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/406504917-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168744\/61607a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168744\/61607a\/media.m3u8",
+                "prettyDuration": "00:05:22",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168744\/61607\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168744\/61607\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168744\/61607\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168744\/61607\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168744\/61607\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168744\/144p_66696_(02-24-2014)_AMD_Interview_-_Roy.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/amd-radeon-r7-series-video-cards-interview\/65648628-16168744"
+        },
+        {
+            "id": "16168741",
+            "title": "Gigabyte Brix Pro Iris Pro Graphics Interview",
+            "date_created": "1390262400",
+            "loginId": "1758381",
+            "tags": "Gigabyte Brix Pro,Brix Pro,Brix Pro 4K,4K,Brix,Intel Iris Pro Graphics,Intel Iris Pro,Intel,Iris Pro Graphics,Iris Pro,Iris Graphics,iGPU,iGPU Iris Pro,iGPU Iris,Brix Pro with Iris Pro,Battlefield 4 on Brix,Leon from Gigabyte,Leon,small form factor PC,Pau",
+            "description": "Leon brought in the new Brix Pro with Intel's Iris Pro Graphics.  Paul plays Battlefield 4 while Leon explains the importance of performance in a small form factor. See the video for more information.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "707",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "707",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/679578414-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168741\/3e202a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168741\/3e202a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168741\/3e202\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168741\/3e202\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168741\/3e202\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168741\/3e202\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168741\/3e202\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168741\/144p_908f7_(01-21-2014)_Gigabyte_Brix_Pro_Iris_Pro_Graphics_Interview.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:11:47"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/gigabyte-brix-pro-iris-pro-graphics-interview\/65648628-16168741"
+        },
+        {
+            "id": "16168759",
+            "title": "ASUS Z97-WS Motherboard Interview",
+            "date_created": "1399248000",
+            "loginId": "1758381",
+            "tags": "asus,motherboard,intel,haswell,refresh,z97,paul,jj,j.j.,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's an Z97 WorkStation, made by ASUS, Model: Z97-WS. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1492",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1492",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/122829914-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168759\/086d4a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168759\/086d4a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168759\/086d4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168759\/086d4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168759\/086d4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168759\/086d4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168759\/086d4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168759\/144p_ab115_(05-05-2014)_ASUS_Z97_WS_Motherboards_Interview_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:24:52"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/asus-z97-ws-motherboard-interview\/65648628-16168759"
+        },
+        {
+            "id": "16168748",
+            "title": "NVIDIA Jetson TK1 Interview",
+            "date_created": "1398729600",
+            "loginId": "1758381",
+            "tags": "NVIDIA,Tegra,K1,Mobile,Processor,Quad,core,Plus,ARM,Cortex,A15,MPCore,processor,NEON,technology,Low,power,Kepler,based,GeForce,graphics,Newegg,Newegg.com,Newegg TV,NeweggTV,review,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "NVIDIA's own Jesse joins us to discuss the Jetson TK1, NVIDIA's brand new Developer board.  Although you might think it's the same as other  Arduino based Dev Boards out there, you would be quite surprised to find out that it has a lot more packed inside. Check out the video to find out more.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "767",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "767",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/118797594-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/33906\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168748\/144p_785b3_(04-29-2014)_NVIDIA_Jetson_TK1_Interview.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:12:47"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/nvidia-jetson-tk1-interview\/65648628-16168748"
+        }
+    ]
+}

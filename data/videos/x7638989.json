@@ -1,0 +1,109 @@
+{
+    "title": "ASUS X99 Deluxe Motherboard Interview",
+    "description": "Here's a Motherboard, made by Asus, Model: X99 Deluxe . Check out the video for more info!<br \/>\n<br \/>\nX99-DELUXE\/U3.1<br \/>\n<br \/>\nFully loaded for unmatched performance, with 3x3 802.11ac Wi-Fi, ultra-fast USB 3.1 Type-A Card (Dual), and Fan Extension Card for your extreme X99 build.<br \/>\n<br \/>\nEasy-fit 10Gb\/s USB 3.1 Type-A Card (Dual) bundled<br \/>\nPatent Pending OC Socket \u2013 Drive CPU and DDR4 performance beyond all expectations!<br \/>\n5-Way Optimization by Dual Intelligent Processors 5 \u2013 One click overclock and cooling, done!<br \/>\n3x3(3T3R) 802.11ac Wi-Fi - Fastest onboard Wi-Fi up to 1300Mb\/s<br \/>\nFan Extension Card - Powerful cooling with flexible installation & detailed control<br \/>\nDual 32Gb\/s ultrafast M.2 x4 (onboard and PCIE add-in card)<br \/>\n<br \/>\nFind out more on GameCrate:http:\/\/bit.ly\/1pR5fQD",
+    "referenceId": "049c754903336c89c2a880bec2cd2730",
+    "date_created": "1409270400",
+    "date_modified": "1455788869",
+    "tags": "ASUS,X99-DELUXE,Intel,Motherboard,X99,DDR4,3200,OC,deluxe,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "motherboards",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "17",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638989",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "46",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "ASUS-X99-Deluxe-Motherboard-Interview",
+    "category": "",
+    "duration": 1604,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1604",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1604",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/182327933-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638989\/5e7dba\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638989\/5e7dba\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638989\/5e7db\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638989\/5e7db\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638989\/5e7db\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638989\/5e7db\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638989\/5e7db\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638989\/144p_94ea0_ASUS_X99_Deluxe_Motherboard_Interview_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:26:44"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

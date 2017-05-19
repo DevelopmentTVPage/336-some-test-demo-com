@@ -1,0 +1,100 @@
+{
+    "title": "Lenovo Ideacentre Y900 Gaming Desktop Interview",
+    "description": "Erik from Lenovo joins Carey in the studio to talk about the new line of Y900 gaming desktops. These come equipped with dual harddrives, DDR4 memory and dedicated graphics to take your gaming to the next level. Check out the video for more info!",
+    "referenceId": "f1d708e1c0ed79ea2839c89b7bacc28d",
+    "date_created": "1456185600",
+    "date_modified": "1455920488",
+    "tags": "Lenovo, Desktop Computer, Y900,Intel Core, i7 6700K ,4.00 GHz, 16 GB DDR4 ,2 TB HDD , 8 GB SSHD , 256 GB SSD ,NVIDIA ,GeForce GTX 980 , Windows 10,ideacentre, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,ove",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": "lenovo",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "2317",
+    "CVV_VI": "326",
+    "engagement_score": "31",
+    "conversion_score": "18",
+    "id": "26115660",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "Lenovo-Ideacentre-Y900-Gaming-Desktop-Interview",
+    "category": "",
+    "duration": 387,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "387",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "387",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/642199442-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

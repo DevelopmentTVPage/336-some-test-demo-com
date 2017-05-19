@@ -1,0 +1,102 @@
+{
+    "title": "Tek Republic TUD-3000 USB 3.0 Dual Display Docking Station Overview",
+    "description": "The Tek-Republic Universal USB 3.0 Dual Display Docking Station offers a full range of features including dual video ports (one DVI-I, one HDMI, one VGA) to connect two monitors and three USB 3.0 ports for your USB 3.0 peripherals. The docking station also includes a Gigabit Ethernet port, audio In\/Out ports and a security lock slot to help secure the dock. A 4A AC adapter and 3-foot USB 3.0 cable are also included to connect your devices for it to become a complete workstation -- including a mouse, a keyboard, and other peripherals you may need to connect with by simply docking your laptop.",
+    "referenceId": "ec4e28c842723ac79523320e83217b33",
+    "date_created": "1395878400",
+    "date_modified": "1455799161",
+    "tags": "Tek,Republic,TUD-3000,USB,3.0,Dual,Display,Docking,Station,Productivity,HDMI,VGA,Monitors,1080p,DVI-I,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "computer_accessories",
+    "age_gate": "no",
+    "video_brand": "tek republic",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168705",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "167",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Tek-Republic-TUD-3000-USB-3-0-Dual-Display-Docking-Station-Overview",
+    "category": "",
+    "duration": 197,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "197",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "197",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/538088678-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168705\/d909da\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168705\/d909da\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168705\/d909d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168705\/d909d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168705\/d909d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168705\/d909d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168705\/d909d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168705\/144p_1be66_(03-11-2014)_Tek_Republic_Docking_Station_34-980-089.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:17"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "title": "Logitech Z623 200 w 2.1 Speaker System Overview",
+    "description": "Logitech's Z623 delivers 200 watts (RMS) of power in a THX-Certified 2.1 speaker system for big, bold audio. Multiple inputs let you connect your music, movie, and gaming devices.",
+    "referenceId": "2236f1452928e5d709339e3f1c1ebbb4",
+    "date_created": "1388620800",
+    "date_modified": "1457131986",
+    "tags": "Logitech,Z623,200w,2.1,Speaker,System,THX-Certified,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "lifestyle",
+    "video_category": "speakers_audio",
+    "age_gate": "no",
+    "video_brand": "logitech",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "92",
+    "CVV_VI": "4",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "16168725",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "36",
+    "entityIdParent": "65648629",
+    "titleTextEncoded": "Logitech-Z623-200-w-2-1-Speaker-System-Overview",
+    "category": "",
+    "duration": 463,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "463",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "463",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/599156802-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168725\/20cf1a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168725\/20cf1a\/media.m3u8",
+        "prettyDuration": "00:07:43",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168725\/20cf1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168725\/20cf1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168725\/20cf1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168725\/20cf1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168725\/20cf1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168725\/144p_37010_(01-02-2014)_Logitech_Z623_36-121-048.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

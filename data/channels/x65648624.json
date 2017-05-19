@@ -1,0 +1,24 @@
+{
+    "title": "What The Tech?",
+    "description": "You don't need an over-sized brain to check out our product overviews, interviews, demos, tips & tricks and more. You might wind up with one when you're done watching, though.",
+    "referenceId": null,
+    "date_created": "1462243788",
+    "date_modified": "1462580939",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "65648624",
+    "loginId": "1758381",
+    "entityType": "3",
+    "titleTextEncoded": "What-The-Tech",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(\n RE::videos(\n  RE::condition()\n   ->order('dateCreated')\n )\n   ->channel(6934752)\n);"
+    },
+    "transcripts": null
+}

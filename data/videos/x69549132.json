@@ -1,0 +1,103 @@
+{
+    "title": "Newegg DIY Garage: ASUS Z170 Pro Gaming AURA Motherboard",
+    "description": "J.J. from ASUS joins Carey in the studio to talk about the first 3D-printing-friendly motherboard from  ASUS, the AURA Z170 Pro Gaming Motherboard. Check out the video for more info!",
+    "referenceId": "41e9cfd279d4d712f2a27d420b690d7d",
+    "date_created": "1475854298",
+    "date_modified": "1480459895",
+    "tags": "asus,aura,z170,newegg tv,carey holzman,pc,diy,newegg.com,newegg,motherboard,pro gaming,setting up asus aura,how to,led headers",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "shows_episodes",
+    "video_category": "motherboards",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": "test seo description",
+    "featured_category": "featured_yes",
+    "VV_VI": "524",
+    "CVV_VI": "48",
+    "engagement_score": "7",
+    "conversion_score": "2",
+    "id": "69549132",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "65648623",
+    "titleTextEncoded": "Newegg-DIY-Garage-ASUS-Z170-Pro-Gaming-AURA-Motherboard-mp4",
+    "category": "",
+    "duration": "1167",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1167",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1167",
+        "prettyDuration": "00:19:27",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/1920\/1077\/170772285-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/69549132\/fccb7\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/69549132\/fccb7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/69549132\/fccb7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/69549132\/fccb7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/69549132\/fccb7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/69549132\/fccb7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/69549132\/fccb7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

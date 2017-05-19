@@ -1,0 +1,88 @@
+{
+    "title": "ROCCAT Ryos TKL Pro Keyboard & Kave XTD 5.1 Analog Headset @ CES 2014",
+    "description": "- Credits -\nPresenters: Paul\nProducer: Lam\nCamera: Rachel\nPost-Production: Anna",
+    "referenceId": "b9df053da64f518b77d0f3cbcbfb6450",
+    "date_created": "1389052800",
+    "date_modified": "1455803472",
+    "tags": "ROCCAT,Ryos TKL Pro,Kave XD 5.1 Analog,Ryos TKL,Kave XTD 5.1 Digital,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "peripherals",
+    "age_gate": "no",
+    "video_brand": "roccat",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16198763",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "106",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "ROCCAT-Ryos-TKL-Pro-Keyboard-Kave-XTD-5-1-Analog-Headset-CES-2014",
+    "category": "",
+    "duration": 497,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "497",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "497",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/989879486-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/bbeb1a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/bbeb1a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/bbeb1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/bbeb1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/bbeb1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/bbeb1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/144p_bdef4_(01-07-2014)_CES_2014_Roccat.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:08:17"
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

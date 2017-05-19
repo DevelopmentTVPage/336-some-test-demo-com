@@ -1,0 +1,100 @@
+{
+    "title": "Lenovo Y700 Gaming Laptop Interview",
+    "description": "Erik from Lenovo joins Carey in the studio to talk about the new Y700 Gaming Laptops. The Y700 notebook delivers all you need for an intense mobile gaming experience. With discrete graphics, stunning sound, HD displays and maximum mobility, it\u2019s never been easier to get your gaming fix on the go.\n<\/BR>Check out the video for more info!",
+    "referenceId": "a2a30265e8e4aa41710c8b671221a332",
+    "date_created": "1455840000",
+    "date_modified": "1455917923",
+    "tags": "Lenovo ,IdeaPad ,Y700, Gaming, Laptop, 6th Generation ,Intel ,Core i7, 6700HQ,2.60 GHz, 8 GB Memory, 1 TB HDD, NVIDIA GeForce ,GTX 960M , GDDR5 ,amd, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,pro",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "laptops",
+    "age_gate": "no",
+    "video_brand": "lenovo",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "929",
+    "CVV_VI": "228",
+    "engagement_score": "12",
+    "conversion_score": "12",
+    "id": "26115558",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "Lenovo-Y700-Gaming-Laptop-Interview",
+    "category": "",
+    "duration": 447,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "447",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "447",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/158656751-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

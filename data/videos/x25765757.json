@@ -1,0 +1,102 @@
+{
+    "title": "Blue Lola Headphones: Flash Review",
+    "description": "We offer our early impressions of the new Lola headphones from Blue, a lighter follow-up to Blue's Mo-Fi. Overall, the Blue Lola headphones with closed back design and gimbal head strap are some of the best around at the $249 price point and will likely be a bigger seller than the more expensive Blue Mo-Fi headphones.",
+    "referenceId": "dc8daa687dead8edce3e5f9a74b8ac40",
+    "date_created": "1448582400",
+    "date_modified": "1455805572",
+    "tags": "blue lola, blue audio, blue microphones,",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": null,
+    "video_category": "peripherals",
+    "age_gate": null,
+    "video_brand": "blue",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "9",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25765757",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "Blue-Lola-Headphones-Flash-Review",
+    "category": "",
+    "duration": 130,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "130",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "130",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765757\/d2847\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765757\/d2847\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765757\/d2847\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765757\/d2847\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765757\/d2847\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765757\/144p_bbd9b_gamecrate-blue-lola-headphone-review-1.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765757\/thumb-dc8daa687dead8edce3e5f9a74b8ac40-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765757\/d2847a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765757\/d2847a\/media.m3u8",
+        "prettyDuration": "00:02:10"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

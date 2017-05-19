@@ -1,0 +1,109 @@
+{
+    "title": "Linksys Open WRT Interview",
+    "description": "The founder of Open WRT, Imre Kaloz, joins us in the studio. Check out the video to find out more!<br \/>\n<br \/>\nThe Linksys WRT1200AC was designed with OpenWRT, an open source, Linux-based operating system that allows modification and customization for advanced users. While Linksys fully embraces the open source community and is providing open source use capabilities, they do not offer technical support on using open source firmware. Installing 3rd party firmware is done at your own risk and replacing factory-installed firmware with OpenWRT firmware will void your warranty. Please always seek the advice of more experienced users via open source community forums if you\u2019re unsure.",
+    "referenceId": "965a90924a77985763e9de2bb9684cb2",
+    "date_created": "1438128000",
+    "date_modified": "1455788302",
+    "tags": "linksys,open wrt,routers,hot stop,vlans,wan,dual wan,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "networking",
+    "age_gate": "no",
+    "video_brand": "linksys",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "12",
+    "CVV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638979",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "16",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "Linksys-Open-WRT-Interview",
+    "category": "",
+    "duration": 309,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "309",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "309",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/650383984-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/144p_7ffcc_(07-29-2015)_Linksys_Open_WRT_Final.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:05:09"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

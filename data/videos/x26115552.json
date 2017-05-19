@@ -1,0 +1,100 @@
+{
+    "title": "NVIDIA Shield Tablet K1 Tutorial",
+    "description": "The new NVIDIA\u00ae SHIELD\u2122 tablet K1 is a high-performance tablet that brings ultimate entertainment to gamers. Together with the SHIELD controller and GeForce NOW\u2122 cloud gaming service, this Android tablet is instantly transformed into a powerful gaming system that can create the best experiences in the gaming world. <\/br>\nCheck out the video for more info!",
+    "referenceId": "d248b4fe6333fde3c06e4c39bce8ce0b",
+    "date_created": "1455753600",
+    "date_modified": "1455848161",
+    "tags": "NVIDIA , Tegra ,K1, Memory , GB,Flash Storage,touchscreen ,SHIELD ,Tablet , Android, Lollipop , Marshmallow , Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "howtos",
+    "video_category": "tablets",
+    "age_gate": "no",
+    "video_brand": "nvidia",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "2146",
+    "CVV_VI": "120",
+    "engagement_score": "29",
+    "conversion_score": "6",
+    "id": "26115552",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "12",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "NVIDIA-Shield-Tablet-K1-Tutorial",
+    "category": "",
+    "duration": 321,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "321",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "321",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/889480532-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115552\/d6713\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}
