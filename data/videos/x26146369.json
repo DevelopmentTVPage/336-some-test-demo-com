@@ -1,0 +1,102 @@
+{
+    "title": "ASUS Z170-WS Motherboard Interview",
+    "description": "JJ  from Asus presents the Z170-WS Motherboard. This workstation can support up to four video cards and is built with 12K rated capacitors. Check out the video for more info!",
+    "referenceId": "8da8dbdf535228d94729809ddf1dd6d5",
+    "date_created": "1456265141",
+    "date_modified": "1456878691",
+    "tags": "ASUS, Z170-WS, Intel ,Z170, HDMI ,SATA,USB,ATX,  Motherboard, work station, gaming, editing, pc, diy,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "motherboards",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "63",
+    "CVV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "26146369",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "ASUS-Z170-WS-Motherboard-Interview",
+    "category": "",
+    "duration": 747,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "747",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "747",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/828134933-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/media.m3u8",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

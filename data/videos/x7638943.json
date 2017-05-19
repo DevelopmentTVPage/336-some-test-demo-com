@@ -1,0 +1,109 @@
+{
+    "title": "WD My Passport Wireless Interview",
+    "description": "Travel much? Check out the new WD My Passport Wireless! Matt takes Jenny on safari as he shows us what the new Wireless Passport can do!<br \/>\n<br \/>\nThis is the one wireless drive for all your devices. Save images and files from your devices to this single portable drive. Free up space on your tablet and smartphone. Backup or transfer your photos and videos from your SD card to keep on shooting. It's wireless. Portable. It's one drive with no boundaries.",
+    "referenceId": "ea9716d0a14ce1829c17637cdaa62b58",
+    "date_created": "1450396800",
+    "date_modified": "1455787083",
+    "tags": "http:\/\/www.newegg.com | Wireless Attached Storage:http:\/\/bit.ly\/1sMJnJP N82E16822236780 http:\/\/bit.ly\/1sMJnK4 N82E16822236773  Travel much? Check out the new WD My Passport Wireless! Matt takes Jenny on safari as he shows us what the new Wireless Passport",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "storage",
+    "age_gate": "no",
+    "video_brand": "western_digital",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "63",
+    "CVV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638943",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "WD-My-Passport-Wireless-Interview",
+    "category": "",
+    "duration": 684,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "684",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "684",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/425471196-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406faa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406faa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406fa\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406fa\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406fa\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406fa\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406fa\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/144p_dd5ed_WD_My_Passport_Wireless_Interview_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:11:24"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "title": "SAPPHIRE NITRO Radeon R9 390X Overview",
+    "description": "The AMD Radeon R9 390X is a high-end video card built for exceptional 4K gaming and VR experience. Based on the latest generation of AMD GCN architecture, this card features 2816 Stream Processors and 8GB 512-bit GDDR5 memory, delivering new levels of performance and capability craved by serious gamers. Check out the video for more info!",
+    "referenceId": "ac59e2266e1c272e940328972601ca60",
+    "date_created": "1464999793",
+    "date_modified": "1476391955",
+    "tags": "SAPPHIRE ,NITRO, Radeon, R9 ,390X ,8GB ,GDDR5, PCI ,Express ,OC,backplate ,UEFI, Video Card, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "graphics_cards",
+    "age_gate": "no",
+    "video_brand": "sapphire",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": "featured_yes",
+    "VV_VI": "82",
+    "CVV_VI": "7",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "66069678",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "SAPPHIRE-NITRO-Radeon-R9-390X-Overview",
+    "category": "",
+    "duration": 184,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "184",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "184",
+        "prettyDuration": "00:03:04",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/429564453-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069678\/4d372\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

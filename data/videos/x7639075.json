@@ -1,0 +1,109 @@
+{
+    "title": "Western Digital WD60EZRX Green Drive Overview\/Tutorial",
+    "description": "Intel Smart Response Technology: http:\/\/download.intel.com\/support\/chipsets\/sb\/intel_smart_response_technology_user_guide_3.pdf<br \/>\n\n<br \/>\nWestern Digital WD60EZRX Green Drive Overview\/Tutorial",
+    "referenceId": "214b8a0419a833bde1429890ba6c0d87",
+    "date_created": "1422230400",
+    "date_modified": "1455791289",
+    "tags": "WD,Green,WD60EZRX,6TB,64MB,Cache,SATA,6.0Gb\/s,3.5,Internal,Hard,Drive,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "howtos",
+    "video_category": "storage",
+    "age_gate": "no",
+    "video_brand": "western_digital",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "20",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639075",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "74",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Western-Digital-WD60EZRX-Green-Drive-Overview-Tutorial",
+    "category": "",
+    "duration": 294,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "294",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "294",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/744387637-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/144p_7d032_(01-26-15)_WD_WD60EZRX_Green_Drive_V2.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:54"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

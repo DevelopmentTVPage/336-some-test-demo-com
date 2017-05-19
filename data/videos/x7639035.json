@@ -1,0 +1,103 @@
+{
+    "title": "SiliconDust HDHomeRun  Digital Tuners Overview",
+    "description": "Unleash Your Cable TV with CableCARD\u2122  The simple way to send live streaming, premium cable TV to all your home media devices. No need to rent set-top boxes for every room Watch live HD TV on up to 3 devices together on your Wi-Fi or wired network Works with all popular DVR software so you can watch, pause and record Access premium cable subscription channels using CableCARD\u2122 Stream Live SD premium subscription TV directly to your Android device with our HDHomeRun VIEW app.",
+    "referenceId": "62cceec617d015597cc17b086ae02987",
+    "date_created": "1428019200",
+    "date_modified": "1455790535",
+    "tags": "silicondust,hdhr3-cc,hdhomerun,prime,three,digit,tuner,on,your,network,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,connect,extend,anywhere,HDHR4-2US,HDTC-2US,media,digital",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "smart_home",
+    "age_gate": "no",
+    "video_brand": "silicondust",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "24",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639035",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "55",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "SiliconDust-HDHomeRun-Digital-Tuners-Overview",
+    "category": "",
+    "duration": 929,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "929",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "929",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/100058984-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639035\/b6399a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639035\/b6399a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639035\/b6399\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639035\/b6399\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639035\/b6399\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639035\/b6399\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639035\/b6399\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639035\/144p_61b68_(04-03-2015)_SiliconDust_HDHomeRun_v03.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:15:29"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Rosewill at Blizzcon! 2014 - Newegg TV",
+    "description": "Follow Jenny and Steve as they make their way through the Rosewill Booth at Blizzcon.",
+    "referenceId": "0819c3cd66e3ed7d97568d37340370d1",
+    "date_created": "1415577600",
+    "date_modified": "1457130847",
+    "tags": "Blizzcon,blizzcon 2014,2014,western digital,ocz,rosewill,omen,hp,ssd,gaming laptop,amd,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,radeon",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "storage",
+    "age_gate": "no",
+    "video_brand": "western_digital",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16198789",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "81",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "Rosewill-at-Blizzcon-2014-Newegg-TV",
+    "category": "",
+    "duration": 248,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "248",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "248",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/690305075-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198789\/f75dea\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198789\/f75dea\/media.m3u8",
+        "prettyDuration": "00:04:08",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198789\/f75de\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198789\/f75de\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198789\/f75de\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198789\/f75de\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198789\/f75de\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198789\/144p_0cf65_(11-10-2014)_Blizzcon_2014_-_Vendors_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

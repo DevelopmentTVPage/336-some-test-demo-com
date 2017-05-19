@@ -1,0 +1,111 @@
+{
+    "title": "Let's Play Middle-Earth: Shadow of Mordor - GameCrate",
+    "description": "Let's Play Middle-earth: Shadow of Mordor - GameCrate",
+    "referenceId": "3de663e21d45b6a9216364277e14671c",
+    "date_created": "1412640000",
+    "date_modified": "1457047832",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": null,
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "14",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7172475",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "22",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "Let-s-Play-Middle-Earth-Shadow-of-Mordor-GameCrate",
+    "category": "",
+    "duration": 1015,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1015",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1015",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/917272471-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638ea\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638ea\/media.m3u8",
+        "prettyDuration": "00:16:55",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/144p_bddf8_Let's_Play_Middle-Earth_Shadow_of_Mordor_-_GameCrate.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "title": "CyberPower OR1500PFCRT2U 1500 VA 900w 8 Outlets UPS Overview",
+    "description": "Here's an 1500 VA 900w 8 Outlets UPS, made by CyberPower, Model: OR1500PFCRT2U. Check out the video for more info!<br \/>\n<br \/>\nCyberPower OR1500PFCRT2U 1500 VA 900w 8 Outlets UPS",
+    "referenceId": "d36a3fb0cb4fbe1e1a72147989f60c39",
+    "date_created": "1442275200",
+    "date_modified": "1455791002",
+    "tags": "CyberPower,OR1500PFCRT2U,1500,VA,900w,Outlets,UPS,Power,Protection,Battery,Convertible,GreenPower,Pure,Sine,Wave,Energy Star,AVR,Surge,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,compu",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "power_supplies",
+    "age_gate": "no",
+    "video_brand": "cyberpower",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639059",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "22",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "CyberPower-OR1500PFCRT2U-1500-VA-900w-8-Outlets-UPS-Overview",
+    "category": "",
+    "duration": 176,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "176",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "176",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/451575981-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/144p_721f4_(09-15-2015)_CyberPower_UPS_42-102-128_FINAL-SITE.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:02:56"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

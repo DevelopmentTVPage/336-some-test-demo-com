@@ -1,0 +1,102 @@
+{
+    "title": "New Rainbow Six Siege details from Scott Mitchell",
+    "description": "In this interview, Scott Mitchell talks to us about what to expect from the latest incarnation of the venerable Rainbow Six franchise.",
+    "referenceId": "64393396c4b257a535977250a725ec42",
+    "date_created": "1455805892",
+    "date_modified": "1455805892",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "gaming",
+    "age_gate": null,
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "58",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25833056",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "New-Rainbow-Six-Siege-details-from-Scott-Mitchell",
+    "category": "",
+    "duration": 430,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "430",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "430",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833056\/thumb-64393396c4b257a535977250a725ec42-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833056\/6be9ca\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833056\/6be9ca\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833056\/6be9c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833056\/6be9c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833056\/6be9c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833056\/6be9c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833056\/6be9c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833056\/144p_749d0_Exclusive-Newegg-Rainbow6-Siege-Scott-Mitchell-embargo-Wednesday-21st.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:07:10"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

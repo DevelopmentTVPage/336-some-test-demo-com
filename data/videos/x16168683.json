@@ -1,0 +1,108 @@
+{
+    "title": "Gigabyte GeForce GTX 980 & 970 Overview",
+    "description": "Here are Video Cards, made by Gigabyte, Model: GTX 980 & 970. Check out the video for more info!",
+    "referenceId": "aded35fd81e29e0455188b1115363a8f",
+    "date_created": "1410825600",
+    "date_modified": "1455798906",
+    "tags": "GIGABYTE,GeForce,GTX,970,GV-N970G1,GAMING-4GD,G-SYNC,Support,Video,Card,1664,CUDA Cores,4GB,256-Bit,GDDR5,PCI,Express,3.0,gtx 980,980,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,comput",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "graphics_cards",
+    "age_gate": "no",
+    "video_brand": "gigabyte",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "20",
+    "CVV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168683",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "106",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Gigabyte-GeForce-GTX-980-970-Overview",
+    "category": "",
+    "duration": 1033,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1033",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1033",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/581520997-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168683\/f7188a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168683\/f7188a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168683\/f7188\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168683\/f7188\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168683\/f7188\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168683\/f7188\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168683\/f7188\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168683\/144p_34790_(09-16-2014)_Gigabyte_GTX_970_&_980.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:17:13"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

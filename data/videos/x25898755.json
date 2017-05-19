@@ -1,0 +1,103 @@
+{
+    "title": "Reiko Bluetooth Light Bulbs - CES 2016",
+    "description": "As Carey explore the CES showfloor, he walked by something unexpected. There's music playing but no speakers in sight, thus reveals these Reiko bluetooth light bulbs.",
+    "referenceId": "eb78f3dcd48eb2565aae68bb8190a734",
+    "date_created": "1453161600",
+    "date_modified": "1457117372",
+    "tags": "Reiko,CES 2016,Newegg,Newegg TV,NeweggTV,Smarthome,Light bulb,bluetooth,speakers,lifestyle,Newegg.com,Home,Living",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "speakers_audio",
+    "age_gate": "no",
+    "video_brand": "reiko",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "23",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25898755",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "Reiko-Bluetooth-Light-Bulbs-CES-2016",
+    "category": "",
+    "duration": 40,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "40",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "40",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/989945171-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/7c0a6a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/7c0a6a\/media.m3u8",
+        "prettyDuration": "00:00:40",
+        "uploadAsset": true,
+        "quality": "720p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/7c0a6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/7c0a6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/7c0a6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/7c0a6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/144p_96321_Reiko_-_CES_2016_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

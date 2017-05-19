@@ -1,0 +1,97 @@
+{
+    "title": "MSI GS60 Ghost Pro - BlizzCon 2015",
+    "description": "Using the latest CPU architecture and faster DDR4 memory support the new Intel 6th Generation Core i7 processors, codenamed Skylake, brings significant improvements to gaming performance, multiple application data processing, and 4K video transcoding delivering superb performance leaps as the next platform for extreme gaming.",
+    "referenceId": "242071cdac69dd79021db2b9eaaf50b6",
+    "date_created": "1446940800",
+    "date_modified": "1457131848",
+    "tags": "MSI,MSI GS60,MSI GS60 Ghost Pro,MSI Gaming Laptop,MSI Laptop,BlizzCon,BlizzCon 2015,Blizzard,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "laptops",
+    "age_gate": "no",
+    "video_brand": "msi",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "11",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16198795",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "16",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "MSI-GS60-Ghost-Pro-BlizzCon-2015",
+    "category": "",
+    "duration": 62,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "62",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "62",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/169768136-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/2c7b3a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/2c7b3a\/media.m3u8",
+        "prettyDuration": "00:01:02",
+        "uploadAsset": true,
+        "quality": "720p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/2c7b3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/2c7b3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/2c7b3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/2c7b3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/144p_22d45_BlizzCon_2015_MSI_v05.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

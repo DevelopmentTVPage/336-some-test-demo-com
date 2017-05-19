@@ -1,0 +1,102 @@
+{
+    "title": "Mad Catz MCB437040002\/04\/1 R.A.T. TE Mouse Overview",
+    "description": "Nimble, customizable, and immensely precise, Mad Catz' Tournament Edition R.A.T. Gaming Mouse provides the speedy mouse movement competitive gamers require. Adjustable lift-off height enables the 8200dpi sensor to be set to a level which sidesteps z-axis tracking issues. Precision Aim mode permits on-the-fly cursor sensitivity adjustment to steady your aim. And, a simple yet powerful drag-and-drop software interface can equip each of the nine programmable buttons with custom macros. Designed by and for hardcore PC gamers, the Tournament Edition R.A.T. Gaming Mouse is a fierce weapon that puts a full arsenal of cutting-edge features at your fingertips.",
+    "referenceId": "85ebfc2a11a910397b784539c52cb33e",
+    "date_created": "1393372800",
+    "date_modified": "1455794763",
+    "tags": "Mad,Catz,MCB437040002\/04\/1,Mouse,Precision,DPI,Gaming,R.A.T.,Tournament,Edition,Macro,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "peripherals",
+    "age_gate": "no",
+    "video_brand": "mad catz",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "8",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168587",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "183",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Mad-Catz-MCB437040002-04-1-R-A-T-TE-Mouse-Overview",
+    "category": "",
+    "duration": 519,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "519",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "519",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/943155659-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168587\/55183a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168587\/55183a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168587\/55183\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168587\/55183\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168587\/55183\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168587\/55183\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168587\/55183\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168587\/144p_20c29_(02-26-2014)_Mad_Catz_RAT_TE_26-618-056.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:08:39"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

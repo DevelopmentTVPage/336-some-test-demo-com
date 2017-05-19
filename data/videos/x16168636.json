@@ -1,0 +1,102 @@
+{
+    "title": "MSI Gaming NightBlade Barebone System Overview",
+    "description": "Sturdy, stable and solid, the MSI Nightblade is loaded with the perfect ammunition for PC gamers that do not want to compromise on gaming performance. Housing a highly appraised MSI GAMING motherboard and equipped with unrelenting tools of efficiency, power, cooling and low-noise, the MSI Nightblade embodies what every gamer craves for: victory.",
+    "referenceId": "1b91f835786d86598ced48a2622b8119",
+    "date_created": "1398816000",
+    "date_modified": "1455796929",
+    "tags": "MSI,Nightblade,012BUS,Intel,Core,i7,i5,i3,Pentium,lGA1150,Socket,LGA1150,Z87,HDMI,Barebone,Slim,Slot-in,DVD,SuperMulti,Drive,included,mini,computers,pc. Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": "msi",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "13",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168636",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "144",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "MSI-Gaming-NightBlade-Barebone-System-Overview",
+    "category": "",
+    "duration": 571,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "571",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "571",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/149082981-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168636\/2af60a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168636\/2af60a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168636\/2af60\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168636\/2af60\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168636\/2af60\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168636\/2af60\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168636\/2af60\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168636\/144p_77277_(04-30-2014)_MSI_Nightblade_Barebone_System_56-167-065.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:09:31"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

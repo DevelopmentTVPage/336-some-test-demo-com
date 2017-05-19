@@ -1,0 +1,103 @@
+{
+    "title": "Netgear Nighthawk X6 R800 Smart Wi-Fi Router Interview",
+    "description": "Here's a Wireless Router, made by Net Gear, Model: R8000-100NAS. Check out the video for more info!<br \/>\n<br \/>\n3.2Gbps - The fastest combined Wi-Fi speed for uninterrupted streaming<br \/>\nTri-Band Wi-Fi delivers more Wi-Fi to more devices<br \/>\nSix high performance antennas and powerful amplifiers deliver maximum range throughout your home<br \/>\n1GHz dual core processor with three offload processors to boost performance<br \/>\nSmart Connect intelligently selects best Wi-Fi for every device<br \/>\nImplicit & explicit beamforming+ focuses Wi-Fi signals & delivers stronger connections for all your mobile devices<br \/>\nUSB 3.0 port delivers high-speed storage access<br \/>\nFree ReadySHARE Vault app provides automatic backup for Windows PCs directly to connected USB storage devices<br \/>\nNetGear Genie - Easy install and personal dashboard to monitor, control & repair your home network<br \/>\n<br \/>\nNetgear Nighthawk X6 R800 Smart Wi=Fi Router Interview",
+    "referenceId": "2f0268fa7e288a2ab29c327e0851b2ad",
+    "date_created": "1410220800",
+    "date_modified": "1455789428",
+    "tags": "NETGEAR,R8000,100NAS,Nighthawk,X6,AC3200,Tri-Band,Gigabit,Wireless,Router,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "networking",
+    "age_gate": "no",
+    "video_brand": "netgear",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638997",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "41",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "Netgear-Nighthawk-X6-R800-Smart-Wi-Fi-Router-Interview",
+    "category": "",
+    "duration": 1533,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1533",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1533",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/891010926-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638997\/68779a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638997\/68779a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638997\/68779\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638997\/68779\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638997\/68779\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638997\/68779\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638997\/68779\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638997\/144p_8c5f9_Netgear_Nighthawk_X6_R800_Smart_Wi-Fi_Router_Interview_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:25:33"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

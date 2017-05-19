@@ -1,0 +1,103 @@
+{
+    "title": "Newegg DIY Garage: TP-Link Talon AD7200 Wireless Router",
+    "description": "Game, share, and stream in 4K on Wi-Fi faster than Gigabit Ethernet with the Talon AD7200. The Wireless AD router runs multiple bands to reach speeds up to 7200Mbps while providing whole-home coverage. <br>Its leading-edge antenna design sends strong, reliable Wi-Fi across your home, and new beam-steering technology directs Wi-Fi along the clearest path to devices. <\/br>The router uses MU-MIMO and 4-Stream to reduce wait times and increase Wi-Fi speeds. A powerful 1.4GHz dual-core processor easily handles simultaneous connections to keep your router running at peak performance. Check out the video for more info!",
+    "referenceId": "c31afe031eb4c0e86796e16b034f560c",
+    "date_created": "1466702267",
+    "date_modified": "1476391836",
+    "tags": "TP-LINK, Talon ,AD7200, Multi-Band, Wi-Fi, MU-MIMO, Gigabit ,Router,802.11AD, 7200 Mbps,VPN server, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer, how to build a gaming pc,diy g",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "shows_episodes",
+    "video_category": "networking",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": "featured_yes",
+    "VV_VI": "166",
+    "CVV_VI": "5",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "id": "66281478",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "65648623",
+    "titleTextEncoded": "Newegg-DIY-Garage-TP-Link-Talon-AD7200-Wireless-Router",
+    "category": "",
+    "duration": 848,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "848",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "848",
+        "prettyDuration": "00:14:08",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/113790764-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66281478\/b6da9\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66281478\/b6da9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66281478\/b6da9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66281478\/b6da9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66281478\/b6da9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66281478\/b6da9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66281478\/b6da9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

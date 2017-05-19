@@ -1,0 +1,108 @@
+{
+    "title": "NVIDIA GTX 750 Ti and GTX 750 Maxwell Introduction & Benchmarks",
+    "description": "There's a new GPU architecture available, it's called Maxwell, and it's been introduced via NVIDIA's newest GTX 750 Ti and GTX 750 graphics cards. Featuring the GM107 GPU and support for all the latest NVIDIA stuff like Shield, Shadowplay and G-SYNC (for versions with DisplayPort), this is an excellent price-to-performance oriented card if you're a PC gaming enthusiast.",
+    "referenceId": "fd5e4d67cd3327bd2e0242dccd1af562",
+    "date_created": "1392595200",
+    "date_modified": "1456183580",
+    "tags": "750 Ti,GTX,750,Ti,750Ti,NVIDIA,GM107,maxwell,benchmarks,geforce,Overclock,Demo,1080,1600,1920x1080,2560x1600,computer,build,tech,Newegg (Business Operation),Newegg,Newegg.com,Newegg TV,NeweggTV,video,technology,electronics,deals,shop,PC,gaming,paul,kyle,u",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "benchmarks",
+    "video_category": "graphics_cards",
+    "age_gate": "no",
+    "video_brand": "nvidia",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "33",
+    "CVV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168580",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "189",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "NVIDIA-GTX-750-Ti-and-GTX-750-Maxwell-Introduction-Benchmarks",
+    "category": "",
+    "duration": 337,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "337",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "337",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/819216314-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168580\/491daa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168580\/491daa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168580\/491da\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168580\/491da\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168580\/491da\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168580\/491da\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168580\/491da\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168580\/144p_87703_(02-17-2014)_GTX_750_&_750Ti_Benchmarks.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:05:37"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

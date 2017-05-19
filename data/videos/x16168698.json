@@ -1,0 +1,104 @@
+{
+    "title": "Intuit Turbo Tax 2013 Overview & Demo",
+    "description": "Here's a quick introduction to Intuit's Turbo Tax software.  Get your taxes done right and your maximum refund by answering questions about your job, family and life. Let Turbo Tax double-check your return for deductions and credits and help you avoid triggering an audit.",
+    "referenceId": "3fb7de246a2ca1813ee84e406f760eec",
+    "date_created": "1390262400",
+    "date_modified": "1456961650",
+    "tags": "Intuit,TurboTax,Premier,2013,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "lifestyle",
+    "video_category": "software",
+    "age_gate": "no",
+    "video_brand": "intuit",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168698",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "35",
+    "entityIdParent": "65648629",
+    "titleTextEncoded": "Intuit-Turbo-Tax-2013-Overview-Demo",
+    "category": "",
+    "duration": 607,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "607",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "607",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/900252168-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168698\/bb91ba\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168698\/bb91ba\/media.m3u8",
+        "prettyDuration": "00:10:07",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168698\/bb91b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168698\/bb91b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168698\/bb91b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168698\/bb91b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168698\/bb91b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168698\/144p_d63a2_(01-21-2014)_Intuit_Turbo_Tax_2013_32-109-550.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

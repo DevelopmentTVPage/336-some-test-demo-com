@@ -1,0 +1,108 @@
+{
+    "title": "Monster Madness",
+    "description": "Monster Speakers. Monster Headphones. Monster Event! Check out the video to see the awesome Monster products!",
+    "referenceId": "3daa824d95379e4cd3a224ad4e6aa34a",
+    "date_created": "1426464000",
+    "date_modified": "1455784327",
+    "tags": "monster,speakers,headset,headphones,shaq,shaq fu,hybrid center,card charger,back float speaker,speaker,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "speakers_audio",
+    "age_gate": "no",
+    "video_brand": "monster_sound",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "8",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7172425",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "49",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "Monster-Madness",
+    "category": "",
+    "duration": 124,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "124",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "124",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/134134009-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/144p_7cfdd_(03-16-2015)_Monster_Madness_v03.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:02:04"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

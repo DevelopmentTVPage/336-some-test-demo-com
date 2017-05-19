@@ -1,0 +1,109 @@
+{
+    "title": "IN WIN 707 ATX Full Tower Computer Case Overview",
+    "description": "Here's a ATX full tower computer case, made by In Win , Model: 707 BLACK. Check out the video for more info!<br \/>\n<br \/>\nIN WIN 707 ATX Full Tower Computer Case Overview",
+    "referenceId": "e9987df18675a3e8cdeef95787af8cd4",
+    "date_created": "1436140800",
+    "date_modified": "1455790817",
+    "tags": "IN WIN,inwin,707,BLACK,SECC,ATX Full Tower,Computer Case,ATX,Power Supply,USB 3.0,Audio Front Ports,Drive Bays,chassis,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "unboxing",
+    "video_category": null,
+    "age_gate": null,
+    "video_brand": "in_win",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "25",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639047",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "42",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "IN-WIN-707-ATX-Full-Tower-Computer-Case-Overview",
+    "category": "",
+    "duration": 232,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "232",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "232",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/276114358-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639047\/be4c8a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639047\/be4c8a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639047\/be4c8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639047\/be4c8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639047\/be4c8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639047\/be4c8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639047\/be4c8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639047\/144p_3f4aa_(07-06-2015)_In_Win_707_11-108-464_-465_Final_-_SITE.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:52"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

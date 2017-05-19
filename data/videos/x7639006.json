@@ -1,0 +1,104 @@
+{
+    "title": "ASUS S1 LED Projector Overview",
+    "description": "Here's a Projector, made by Asus, Model: S1. Check out the video for more info!",
+    "referenceId": "b6fcac4c209443af18d458981a3d6713",
+    "date_created": "1409616000",
+    "date_modified": "1456961678",
+    "tags": "ASUS,S1,WVGA,Lumens,HDMI,MHL,Inputs,Portable,LED,Projector,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "18",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639006",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "17",
+    "entityIdParent": "65648629",
+    "titleTextEncoded": "ASUS-S1-LED-Projector-Overview",
+    "category": "",
+    "duration": 846,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "846",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "846",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/346962317-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16a\/media.m3u8",
+        "prettyDuration": "00:14:06",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/fbe16\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639006\/144p_33622_ASUS_S1_LED_Projector_Overview_-_Newegg_Lifestyle.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "title": "CORSAIR  Vengeance LPX  16GB DDR4 Memory Overview",
+    "description": "Designed for high-performance overclocking on Intel X99 motherboards Vengeance LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation, and the eight-layer PCB helps manage heat and provides superior overclocking headroom. Each IC is individually screened for performance potential.The DDR4 form factor is optimized for the latest Intel X99 Series motherboards and offers higher frequencies, greater bandwidth, and lower power consumption than DDR3 modules. Vengeance LPX DDR4 modules are compatibility-tested across X99 Series motherboards for reliably fast performance. There's XMP 2.0 support for trouble-free automatic overclocking. And, they're available in multiple colors to match your motherboard, your components, or just your style.",
+    "referenceId": "e0c517c2f5fdcce0e163d4f93a07ff4d",
+    "date_created": "1410998400",
+    "date_modified": "1455792096",
+    "tags": "corsair,vengeanc,lpx,16gb,4gb,288-pin,ddr4,sdram,2800,pc4-22400,desktop,memory,model,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "memory",
+    "age_gate": "no",
+    "video_brand": "corsair",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "10",
+    "CVV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168516",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "102",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "CORSAIR-Vengeance-LPX-16GB-DDR4-Memory-Overview",
+    "category": "",
+    "duration": 188,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "188",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "188",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/532161027-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168516\/1e02da\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168516\/1e02da\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168516\/1e02d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168516\/1e02d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168516\/1e02d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168516\/1e02d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168516\/1e02d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168516\/144p_5547c_(09-18-2014)_Corsair_Vengeance_LPX_20-33-695_-696.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:08"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

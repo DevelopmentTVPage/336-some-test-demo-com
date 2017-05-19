@@ -1,0 +1,104 @@
+{
+    "title": "Marketplace Best SBN Seller",
+    "description": "Marketplace Best SBN Seller",
+    "referenceId": "732f55a1f60eed361d9f68d09d7d94f9",
+    "date_created": "1455806387",
+    "date_modified": "1469834083",
+    "tags": "Eggies, Awards, Seiki",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "archived",
+    "video_type": null,
+    "video_category": null,
+    "age_gate": null,
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25842961",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "39",
+    "entityIdParent": "25841682",
+    "titleTextEncoded": "Marketplace-Best-SBN-Seller",
+    "category": "",
+    "duration": 61,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "61",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "61",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/424726028-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842961\/d07c4a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842961\/d07c4a\/media.m3u8",
+        "prettyDuration": "00:01:01",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842961\/d07c4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842961\/d07c4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842961\/d07c4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842961\/d07c4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842961\/d07c4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842961\/144p_2e6bc_37_-_Marketplace_SBN_-_Seiki.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,1388 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "66069680",
+            "title": "LG 34UC98 Ultra Wide Monitor Interview - Newegg TV",
+            "date_created": "1464999840",
+            "loginId": "1758381",
+            "tags": "LG ,34UC98 , UltraWide ,QHD, Curved ,IPS, Monitor,3440 x 1440, FreeSync,Screen Split, Thunderbolt ,USB 3.0 ,gaming, zero tearing,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Martin from LG joins Carey in the studio to show off the new UltraWide QHD Curved IPS Monitor from LG, Model 34UC98. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "693",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "693",
+                "prettyDuration": "00:11:33",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/939559605-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069680\/c8a72\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069680\/c8a72\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069680\/c8a72\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069680\/c8a72\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069680\/c8a72\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069680\/c8a72\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/lg-34uc98-ultra-wide-monitor-interview-newegg-tv\/65648628-66069680"
+        },
+        {
+            "id": "26217473",
+            "title": "ASUS ROG MAXIMUS VIII HERO ALPHA & FORMULA Z170 Motherboard Interview",
+            "date_created": "1456874110",
+            "loginId": "1758381",
+            "tags": "ASUS,ROG,Republic of Gamers,MAXIMUS VIII,HERO ALPHA,Formula,LGA 1151,Z170,HDMI,SATA,6Gb\/s,USB 3.1,USB 3.0,ATX,Intel,Motherboard,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "JJ drops by to talk with Carey about a couple of Z170 motherboards, made by ASUS, Model: MAXIMUS VIII HERO ALPHA and FORMULA. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1085",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1085",
+                "prettyDuration": "00:18:05",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/285588374-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/media.m3u8",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/asus-rog-maximus-viii-hero-alpha-formula-z170-motherboard-interview\/65648628-26217473"
+        },
+        {
+            "id": "26213912",
+            "title": "ASUS AC750\/AC1200\/AC1900 Repeaters & Access Points Interview",
+            "date_created": "1456855903",
+            "loginId": "1758381",
+            "tags": "ASUS,RP-AC68U,RP-AC56,RP-AC52,AC750,AC1200,AC1900,Wireless,Repeater,Access Point,Range Extener,Media Bridge,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "JJ visits Newegg TV to show us a few repeaters and access points, made by ASUS, Model: RP-AC68U, RP-AC56, RP-AC52. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "572",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "572",
+                "prettyDuration": "00:09:32",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/169552278-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26213912\/2974d\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26213912\/2974d\/media.m3u8",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26213912\/2974d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26213912\/2974d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26213912\/2974d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26213912\/2974d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26213912\/2974d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/asus-ac750-ac1200-ac1900-repeaters-access-points-interview\/65648628-26213912"
+        },
+        {
+            "id": "26146369",
+            "title": "ASUS Z170-WS Motherboard Interview",
+            "date_created": "1456265141",
+            "loginId": "1758381",
+            "tags": "ASUS, Z170-WS, Intel ,Z170, HDMI ,SATA,USB,ATX,  Motherboard, work station, gaming, editing, pc, diy,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "JJ  from Asus presents the Z170-WS Motherboard. This workstation can support up to four video cards and is built with 12K rated capacitors. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "747",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "747",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/828134933-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/media.m3u8",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26146369\/d886a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/asus-z170-ws-motherboard-interview\/65648628-26146369"
+        },
+        {
+            "id": "26145822",
+            "title": "ASUS Maximus VIII Extreme and Extreme\/Assembly Motherboard Interview",
+            "date_created": "1456260563",
+            "loginId": "1758381",
+            "tags": "ASUS ,ROG, MAXIMUS, VIII ,EXTREME\/ASSEMBLY , extreme,intel, Z170, HDMI ,SATA, USB, ATX , Motherboard, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "JJ from Asus drops by the studio to show off the flagship of ROG Motherboards, The Maximus VIII Extreme and Extreme\/Assembly. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "984",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "984",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/831725169-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26145822\/5f1f1\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26145822\/5f1f1\/media.m3u8",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26145822\/5f1f1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26145822\/5f1f1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26145822\/5f1f1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26145822\/5f1f1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26145822\/5f1f1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/asus-maximus-viii-extreme-and-extreme-assembly-motherboard-interview\/65648628-26145822"
+        },
+        {
+            "id": "26115660",
+            "title": "Lenovo Ideacentre Y900 Gaming Desktop Interview",
+            "date_created": "1456185600",
+            "loginId": "1758381",
+            "tags": "Lenovo, Desktop Computer, Y900,Intel Core, i7 6700K ,4.00 GHz, 16 GB DDR4 ,2 TB HDD , 8 GB SSHD , 256 GB SSD ,NVIDIA ,GeForce GTX 980 , Windows 10,ideacentre, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,ove",
+            "description": "Erik from Lenovo joins Carey in the studio to talk about the new line of Y900 gaming desktops. These come equipped with dual harddrives, DDR4 memory and dedicated graphics to take your gaming to the next level. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "387",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "387",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/642199442-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115660\/86b87\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/lenovo-ideacentre-y900-gaming-desktop-interview\/65648628-26115660"
+        },
+        {
+            "id": "26118144",
+            "title": "Lenovo Ideapad 500S Laptop Interview",
+            "date_created": "1456099200",
+            "loginId": "1758381",
+            "tags": "Lenovo ,Laptop ,IdeaPad, 500S,intel ,Core i7,i5, 6500U,2.50 GHz,Memory, 1 TB HDD,Windows 10 , Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Chaz from Lenovo gives us a few specs on the new Ideapad 500S laptops. Thin & light laptops don\u2019t need to sacrifice power for mobility. The Lenovo\u2122 ideapad\u2122 500s combines state-of-the-art Intel processors with HD graphics to create a thin & light laptop that is more powerful than many desktop computers. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "238",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "238",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/663652569-021280719.jpg",
+                "type": "mp4",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26118144\/da15a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26118144\/da15a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26118144\/da15a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26118144\/da15a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26118144\/da15a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/lenovo-ideapad-500s-laptop-interview\/65648628-26118144"
+        },
+        {
+            "id": "26119371",
+            "title": "H&R Block Tax Software Interview",
+            "date_created": "1455915761",
+            "loginId": "1758381",
+            "tags": "state,Audit support, W2, 1099, taxes, federal, refund, irs, intuit, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Eric from H&R Block joins Hailey in the studio to talk about TAXES!H&R Block makes it easy for customers to complete their taxes, with help every step of the way. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "421",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "421",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/959703676-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26119371\/a8c49\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26119371\/a8c49\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26119371\/a8c49\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26119371\/a8c49\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26119371\/a8c49\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26119371\/a8c49\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26119371\/a8c49\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/h-r-block-tax-software-interview\/65648628-26119371"
+        },
+        {
+            "id": "26115558",
+            "title": "Lenovo Y700 Gaming Laptop Interview",
+            "date_created": "1455840000",
+            "loginId": "1758381",
+            "tags": "Lenovo ,IdeaPad ,Y700, Gaming, Laptop, 6th Generation ,Intel ,Core i7, 6700HQ,2.60 GHz, 8 GB Memory, 1 TB HDD, NVIDIA GeForce ,GTX 960M , GDDR5 ,amd, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,pro",
+            "description": "Erik from Lenovo joins Carey in the studio to talk about the new Y700 Gaming Laptops. The Y700 notebook delivers all you need for an intense mobile gaming experience. With discrete graphics, stunning sound, HD displays and maximum mobility, it\u2019s never been easier to get your gaming fix on the go.\n<\/BR>Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "447",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "447",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/158656751-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26115558\/2d5ed\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/lenovo-y700-gaming-laptop-interview\/65648628-26115558"
+        },
+        {
+            "id": "7638943",
+            "title": "WD My Passport Wireless Interview",
+            "date_created": "1450396800",
+            "loginId": "1758381",
+            "tags": "http:\/\/www.newegg.com | Wireless Attached Storage:http:\/\/bit.ly\/1sMJnJP N82E16822236780 http:\/\/bit.ly\/1sMJnK4 N82E16822236773  Travel much? Check out the new WD My Passport Wireless! Matt takes Jenny on safari as he shows us what the new Wireless Passport",
+            "description": "Travel much? Check out the new WD My Passport Wireless! Matt takes Jenny on safari as he shows us what the new Wireless Passport can do!<br \/>\n<br \/>\nThis is the one wireless drive for all your devices. Save images and files from your devices to this single portable drive. Free up space on your tablet and smartphone. Backup or transfer your photos and videos from your SD card to keep on shooting. It's wireless. Portable. It's one drive with no boundaries.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "684",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "684",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/425471196-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406faa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406faa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406fa\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406fa\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406fa\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406fa\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/406fa\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638943\/144p_dd5ed_WD_My_Passport_Wireless_Interview_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:11:24"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/wd-my-passport-wireless-interview\/65648628-7638943"
+        },
+        {
+            "id": "7638945",
+            "title": "What's New With NETGEAR ReadyNAS Interview",
+            "date_created": "1448928000",
+            "loginId": "1758381",
+            "tags": "netgear,nas,network attached storage,storage,network,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "It's time to get your NAS up and running! Steve talks to Matt from NetGear about what's new with Network Attached Storage.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1162",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1162",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/202170127-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/f74e8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638945\/144p_709d9_What's_New_With_NETGEAR_ReadyNAS_Interview_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:19:22"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/what-s-new-with-netgear-readynas-interview\/65648628-7638945"
+        },
+        {
+            "id": "7638946",
+            "title": "ZOTAC GeForce GTX 970 Interview",
+            "date_created": "1447200000",
+            "loginId": "1758381",
+            "tags": "zotac,zt-90103-10p,geforc,gtx,970,amp,extreme,4gb,256-bit,ddr5,hdcp,g-sync,video,card,Newegg,Newegg.com,Newegg TV,review,technology,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here\u2019s a Desktop Graphics Cards, made by ZOTAC, Model: ZT-90103-10P. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "337",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "337",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/273798520-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638946\/1a281a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638946\/1a281a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638946\/1a281\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638946\/1a281\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638946\/1a281\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638946\/1a281\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638946\/1a281\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638946\/144p_7c4c1_ZOTAC_GeForce_GTX_970_Interview_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:05:37"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/zotac-geforce-gtx-970-interview\/65648628-7638946"
+        },
+        {
+            "id": "7638985",
+            "title": "DELL S2716DG Gaming Monitor Interview - Newegg TV",
+            "date_created": "1444608000",
+            "loginId": "1758381",
+            "tags": "DELL,S2716DG,Gaming Monitor,WQHD,2560 x 1440 Resolution,144Hz,NVIDIA G-Sync,16:9,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Hailey checks out a new gaming monitor with special guest Jenny from Dell. Want more info on this gaming monitor with G-Sync? Check out the video!<br \/>\n<br \/>\nCrystal clear motion: Experience sharp and undistorted moving images with NVIDIA G-SyncTM  and the fastest refresh rate at 144 Hz for sharp, jitter-free graphics that drastically reduce motion blur. <br \/>\nLeave lag time behind: Enjoy incredibly swift and responsive gameplay with minimum input lag at an extremely rapid 1ms panel response time. <br \/>\nBask in every detail: Enjoy vivid edge-to-edge gameplay with the new Dell 27 Gaming Monitor, equipped with crisp QHD resolution (2560 x 1440)\u2013 that\u2019s 3.68 million pixels \u2013 giving you close to two times more details on screen than Full HD.<br \/>\n<br \/>\nDELL S2716DG Gaming Monitor Interview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "258",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "258",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/572296195-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6ca\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6ca\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/56b6c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638985\/144p_f8143_(10-12-2015)_Dell_Monitor_Interview_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:18"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/dell-s2716dg-gaming-monitor-interview-newegg-tv\/65648628-7638985"
+        },
+        {
+            "id": "7638983",
+            "title": "LG 34UC87C Ultrawide Curved Monitor Interview",
+            "date_created": "1443139200",
+            "loginId": "1758381",
+            "tags": "LG,34UC87C,Ultrawide,QHD,Curved Monitor,IPS Panel,HDMI,DisplayPort,USB3.0,speakers,4-Screen Split,Flicker Safe,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Martin from LG joins Milynn in the studio to talk about the new curved monitor ,model: 34UC87C . Check out the video for more info!<br \/>\n<br \/>\n21:9 Curved IPS Screen<br \/>\nThe 21:9 Curved IPS Screen offers an immersive viewing experience. Movies, games and sports seem to come to life. IPS (In-Plane Switching) technology enhances the performance of liquid crystal displays. Response times are shortened, color reproduction is improved, and users can now view the screen at virtually any angle.<br \/>\n<br \/>\nLG 34UC87C Ultrawide Curved Monitor Interview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "385",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "385",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/647569793-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638983\/4b2e9a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638983\/4b2e9a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638983\/4b2e9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638983\/4b2e9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638983\/4b2e9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638983\/4b2e9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638983\/4b2e9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638983\/144p_22bd8_(09-25-2015)_LG_Monitor_Interview_FINAL.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:06:25"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/lg-34uc87c-ultrawide-curved-monitor-interview\/65648628-7638983"
+        },
+        {
+            "id": "7638944",
+            "title": "WD Purple Surveillance Storage Interview",
+            "date_created": "1440115200",
+            "loginId": "1758381",
+            "tags": "WD,Western,Digital,Purple,WD40PURX,4TB,SATA,Hard,Drive,WD30PURX,3TB,6.0Gb\/s,Hard Drive,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "The smart choice for surveillance<br \/>\n<br \/>\nWD Purple Surveillance Storage offers exclusive AllFrame\u2122 technology to bring you premium reliability and peace-of-mind when installing your home or small to medium business security system. Exclusive firmware upgrades work with ATA streaming to reduce error pixilation and video interruptions that occur when desktop hard drives are incorrectly used as storage in security systems. WD Purple Surveillance Storage is built for 24\/7, always-on, high-definition surveillance security systems that use up to eight hard drives and up to 32 cameras. <br \/>\n<br \/>\nImprove performance with AllFrame\n\u2022 Works with ATA streaming to reduce frame loss and improves playback<br \/>\n\u2022 Specifically tuned for surveillance security systems<br \/>\n\u2022 Caching algorithms are tuned for write-intensive, low bit rate, high stream count applications <br \/>\n\u2022 Priority change for write allocations and preemptive caching policies <br \/>\n\u2022 TLER ATA streaming support <br \/>\n\u2022 Supports up to eight drives<br \/>",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "854",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "854",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/850514816-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638944\/69143a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638944\/69143a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638944\/69143\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638944\/69143\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638944\/69143\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638944\/69143\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638944\/69143\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638944\/144p_cc5a9_WD_Purple_Surveillance_Storage_Interview_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:14:14"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/wd-purple-surveillance-storage-interview\/65648628-7638944"
+        },
+        {
+            "id": "7638982",
+            "title": "OnHub Wireless Router from Google and TP-LINK Interview - Newegg TV",
+            "date_created": "1439337600",
+            "loginId": "1758381",
+            "tags": "Wireless speed,1900Mbps,1.4GHz,dual-core processor,13 Wi-Fi antennas,USB 3.0,Gigabit ports,Bluetooth,OnHub,Wireless Router,Google,TP-LINK,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,co",
+            "description": "Ben from Google joins us in the studio to discuss the new OnHub Wireless Router from Google and TP-LINK. Check out the video for more info!<br \/>\n<br \/>\nMeet OnHub, a router for the new way to Wi-Fi. We're streaming and sharing in new ways our old routers were never built to handle. OnHub is built for all the ways you Wi-Fi. OnHub provides smooth streaming and speedy downloads for all of your devices, speaks in a language you understand, and keeps getting better.<br \/>\n<br \/>\nOnHub Wireless Router from Google and TP-LINK Interview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "425",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "425",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/229728132-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638982\/bd85aa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638982\/bd85aa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638982\/bd85a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638982\/bd85a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638982\/bd85a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638982\/bd85a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638982\/bd85a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638982\/144p_ed925_(08-12-2015)_Google_TP-Link_On_Hub_Interview_v03.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:07:05"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/onhub-wireless-router-from-google-and-tp-link-interview-newegg-tv\/65648628-7638982"
+        },
+        {
+            "id": "7638979",
+            "title": "Linksys Open WRT Interview",
+            "date_created": "1438128000",
+            "loginId": "1758381",
+            "tags": "linksys,open wrt,routers,hot stop,vlans,wan,dual wan,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "The founder of Open WRT, Imre Kaloz, joins us in the studio. Check out the video to find out more!<br \/>\n<br \/>\nThe Linksys WRT1200AC was designed with OpenWRT, an open source, Linux-based operating system that allows modification and customization for advanced users. While Linksys fully embraces the open source community and is providing open source use capabilities, they do not offer technical support on using open source firmware. Installing 3rd party firmware is done at your own risk and replacing factory-installed firmware with OpenWRT firmware will void your warranty. Please always seek the advice of more experienced users via open source community forums if you\u2019re unsure.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "309",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "309",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/650383984-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/30b11\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638979\/144p_7ffcc_(07-29-2015)_Linksys_Open_WRT_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:05:09"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/linksys-open-wrt-interview\/65648628-7638979"
+        },
+        {
+            "id": "7638977",
+            "title": "ASUS Chromebook C100 Interview",
+            "date_created": "1438041600",
+            "loginId": "1758381",
+            "tags": "ASUS,C100,chromebook,Rockchip,RK3288,1.80GHz,4GB,Memory,16 GB,eMMC,SSD,Touchscreen,Chrome OS,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's are Chromebooks, made by Asus, Models: C100PA-DB01 and C100PA-DB02 . Check out the video for more info!<br \/>\n<br \/>\nIntroducing the all-new ASUS Chromebook Flip C100, a touchscreen Chromebook featuring a 360-degree hinge that enables it to function in a variety of modes, including traditional notebook, tablet, stand and tent. From note taking in class to sharing videos with friends at a local coffee shop to pulling all-nighters, the ASUS Chromebook C100 lets you communicate, share and play in a variety of ways.<br \/>\n<br \/>\nAsus Chromebook C100 Interview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "285",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "285",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/608105193-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43a\/media.m3u8",
+                "prettyDuration": "00:04:45",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/3fc43\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638977\/144p_84e71_(07-28-2015)_ASUS_Chromebook_C100_Interview_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/asus-chromebook-c100-interview\/65648628-7638977"
+        },
+        {
+            "id": "7638978",
+            "title": "ASUS ZenPads Interview",
+            "date_created": "1438041600",
+            "loginId": "1758381",
+            "tags": "ASUS,ZenPad,S 8.0,C 7.0,Tablet,Touchscreen,DDR3,Intel,Atom,16GB,32GB,64GB,Android,Lollipop,5.0,Z170C-A1-BK,Z580C-B1-BK,Z580CA-C1-BK,Bluetooth,Micro USB,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,p",
+            "description": "Here are ZenPads, made by Asus, Models: Z170C-A1-BK, Z580C-B1-BK, Z580CA-C1-BK. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "259",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "259",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/267567725-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638978\/7c512a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638978\/7c512a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638978\/7c512\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638978\/7c512\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638978\/7c512\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638978\/7c512\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638978\/7c512\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638978\/144p_50e58_(07-28-2015)_ASUS_Zenpad_Interview_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:19"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/asus-zenpads-interview\/65648628-7638978"
+        },
+        {
+            "id": "7638974",
+            "title": "ASUS Z170-A & Z170-Deluxe Motherboards Interview",
+            "date_created": "1437609600",
+            "loginId": "1758381",
+            "tags": "ASUS,MAXIMUS VIII GENE,hero,Intel,Z170,HDMI,SATA,6Gb\/s,USB 3.1,USB 3.0,ATX Intel Motherboard,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,skylake",
+            "description": "Here's are new motherboards, made by Asus, Models: Z170-DELUXE and Z170-A . Check out the video for more info!<br \/>\n<br \/>\n5-Way Optimization at your disposal it takes just one click to tune complex settings \u2014 for instant, highly-controllable performance boosts! Our exclusive technology dynamically optimizes essential aspects of your system based on real-time use, so you get superb CPU performance, everyday energy savings, ultra-stable digital power, cool and quiet fans and even networking and audio settings that are tailored for the apps that you are using. In short, 5-Way Optimization ensures that your PC is perfect for gaming, entertainment, productivity or just about anything else!<br \/>\n<br \/>\n\nASUS Z170-A & Z170-Deluxe Motherboards Interview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "892",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "892",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/237781580-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36aa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36aa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/7d36a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638974\/144p_35191_(07-23-2015)_ASUS_Skylake_Mainstream_Interview_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:14:52"
+            },
+            "parentId": "65648628",
+            "url": "\/interviews\/asus-z170-a-z170-deluxe-motherboards-interview\/65648628-7638974"
+        }
+    ]
+}

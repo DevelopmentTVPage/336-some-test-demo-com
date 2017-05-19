@@ -1,0 +1,109 @@
+{
+    "title": "NVIDIA Shield Pro with GeForce Now Overview",
+    "description": "The Nvidia Shield Pro now comes equipped with GeForce Now. Can this replace your current console? Let\u2019s find out! Check out the video for more info!<br \/>\n<br \/>\nNVIDIA Shield Pro with GeForce Now Overview",
+    "referenceId": "e3e86a0589a3cec37b43cefc93f9117e",
+    "date_created": "1444003200",
+    "date_modified": "1455791151",
+    "tags": "NVIDIA SHIELD,Pro,500 GB,SHIELD,controller,HDMI,4K,Android TV,Google Cast support,256-core NVIDIA processor,NVIDIA,gaming,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": "nvidia",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "37",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639071",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "18",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "NVIDIA-Shield-Pro-with-GeForce-Now-Overview",
+    "category": "",
+    "duration": 284,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "284",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "284",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/110614947-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/e5578\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639071\/144p_d9313_Nvidia_Shield_Pro_15-351-002_FINAL.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:44"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

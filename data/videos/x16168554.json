@@ -1,0 +1,108 @@
+{
+    "title": "THRUSTMASTER Ferrari F1 Wheel Integral T500, PC and PS3 Compatible Overview",
+    "description": "Here's an Ferrari F1 Wheel Integral T500, made by THRUSTMASTER, Model: 4169060. Check out the video for more info!",
+    "referenceId": "0f64ab1df21b87625e17177bfb8559cf",
+    "date_created": "1389916800",
+    "date_modified": "1455793592",
+    "tags": "THRUSTMASTER, Ferrari, F1 ,Wheel, Integral T500, PC ,PS3 ,Compatible, newegg, neweggtv",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "gaming",
+    "age_gate": "no",
+    "video_brand": "thrustmaster",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "4",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168554",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "207",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "THRUSTMASTER-Ferrari-F1-Wheel-Integral-T500-PC-and-PS3-Compatible-Overview",
+    "category": "",
+    "duration": 476,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "476",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "476",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/879881128-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168554\/30271a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168554\/30271a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168554\/30271\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168554\/30271\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168554\/30271\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168554\/30271\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168554\/30271\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168554\/144p_1e147_(01-17-2014)_Thrustmaster_Ferrari_F1_Wheel_79-337-022.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:07:56"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

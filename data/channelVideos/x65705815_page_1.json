@@ -1,0 +1,1465 @@
+{
+    "pageNumber": 1,
+    "data": [
+        {
+            "id": "7639068",
+            "title": "ZOTAC ZT-90503-10P GeForce GTX 980 Ti AMP! Video Card Overview",
+            "date_created": "1442448000",
+            "loginId": "1758381",
+            "tags": "ZOTAC,ZT-90503-10P,GeForce,GTX,980,Ti,AMP!,6GB,384-Bit,GDDR5,PCI,Express,3.0,SLI,Support,Video,Card,exoarmor,icestorm,nvidia,g-sync,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's an GeForce GTX 980 Ti AMP! Video Card, made by ZOTAC, Model: ZT-90503-10P. Check out the video for more info!<br \/>\n<br \/>\nZOTAC ZT-90503-10P GeForce GTX 980 Ti AMP! 6GB 384-Bit GDDR5 PCI Express 3.0 SLI Support Video Card",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "99",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "99",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/388558863-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639068\/ec5a1a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639068\/ec5a1a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639068\/ec5a1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639068\/ec5a1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639068\/ec5a1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639068\/ec5a1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639068\/ec5a1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639068\/144p_d06d4_(09-17-2015)_Zotac_GTX__980Ti_14-500-378_FINAL_-_SITE.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:39"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/zotac-zt-90503-10p-geforce-gtx-980-ti-amp-video-card-overview\/65705815-7639068"
+        },
+        {
+            "id": "7639058",
+            "title": "CyberPower Smart App Sinewave UPS Overview",
+            "date_created": "1442275200",
+            "loginId": "1758381",
+            "tags": "CyberPower,Sinewave,1350 Watts,8 Outlets,UPS,Rack Mount,AVR,Buck,Boost,GreenPower,Rotatable,LCD,EMI,RFI,Filters,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a UPS, made by CyberPower, Model: PR1500LCDRT2U . Check out the video for more info!<br \/>\n<br \/>\nCyberPower Smart App Sinewave UPS Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "122",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "122",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/301228166-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639058\/40682a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639058\/40682a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639058\/40682\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639058\/40682\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639058\/40682\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639058\/40682\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639058\/40682\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639058\/144p_58b23_(09-15-2015)_CyberPower_UPS_42-102-104_FINAL.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:02"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/cyberpower-smart-app-sinewave-ups-overview\/65705815-7639058"
+        },
+        {
+            "id": "7639059",
+            "title": "CyberPower OR1500PFCRT2U 1500 VA 900w 8 Outlets UPS Overview",
+            "date_created": "1442275200",
+            "loginId": "1758381",
+            "tags": "CyberPower,OR1500PFCRT2U,1500,VA,900w,Outlets,UPS,Power,Protection,Battery,Convertible,GreenPower,Pure,Sine,Wave,Energy Star,AVR,Surge,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,compu",
+            "description": "Here's an 1500 VA 900w 8 Outlets UPS, made by CyberPower, Model: OR1500PFCRT2U. Check out the video for more info!<br \/>\n<br \/>\nCyberPower OR1500PFCRT2U 1500 VA 900w 8 Outlets UPS",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "176",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "176",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/451575981-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/2c9a3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639059\/144p_721f4_(09-15-2015)_CyberPower_UPS_42-102-128_FINAL-SITE.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:56"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/cyberpower-or1500pfcrt2u-1500-va-900w-8-outlets-ups-overview\/65705815-7639059"
+        },
+        {
+            "id": "7639060",
+            "title": "CyberPower PFC Sinewave Series UPS Overview",
+            "date_created": "1442275200",
+            "loginId": "1758381",
+            "tags": "CyberPower,Intelligent LCD Series,12 Outlets,810W,Simulated Sine Wave,UPS,RJ45 Protection,USB 2.1A,charging Ports,Line-Interactive Topology,GreenPower,Bypass Technology,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,un",
+            "description": "Here's a UPS, made by CyberPower, Model: CP1000PFCLCD . Check out the video for more info!<br \/>\n<br \/>\nCyberPower PFC Sinewave Series CP1000PFCLCD 1000 VA 600 W 10 Outlets UPS",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "85",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "85",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/439234327-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639060\/54e97a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639060\/54e97a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639060\/54e97\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639060\/54e97\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639060\/54e97\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639060\/54e97\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639060\/54e97\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639060\/144p_0393d_(09-15-2015)_CyberPower_UPS_42-102-132_FINAL.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:25"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/cyberpower-pfc-sinewave-series-ups-overview\/65705815-7639060"
+        },
+        {
+            "id": "7639061",
+            "title": "CyberPower Sinewave PR750LCD Mini-tower UPS Overview",
+            "date_created": "1442275200",
+            "loginId": "1758381",
+            "tags": "CyberPower,Sinewave,Outlets,Mini-tower,UPS,power protection,surge protection,battery back up,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Check out this UPS, made by CyberPower, Model: PR750LCD . Check out the video for more info!<br \/>\n<br \/>\nCyberPower Sinewave PR750LCD Mini-tower UPS Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "100",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "100",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/911859512-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639061\/15f0aa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639061\/15f0aa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639061\/15f0a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639061\/15f0a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639061\/15f0a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639061\/15f0a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639061\/15f0a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639061\/144p_44728_(09-15-2015)_CyberPower_UPS_42-102-139_FINAL.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:40"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/cyberpower-sinewave-pr750lcd-mini-tower-ups-overview\/65705815-7639061"
+        },
+        {
+            "id": "7639062",
+            "title": "CyberPower EC650LCD ECO UPS Overview",
+            "date_created": "1442275200",
+            "loginId": "1758381",
+            "tags": "UPS,uninterrupted power supply,Surge Protection,Battery Backup,Energy-conserving,ECO Technology,GreenPower,CyberPower,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Need a battery back up for your computer? Check out this UPS by CyberPower, Model: EC650LCD. Check out the video for more info!<br \/>\n<br \/>\nCyberPower EC650LCD ECO UPS Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "108",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "108",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/337656267-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639062\/5da14a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639062\/5da14a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639062\/5da14\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639062\/5da14\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639062\/5da14\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639062\/5da14\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639062\/5da14\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639062\/144p_376d3_(09-15-2015)_CyberPower_UPS_42-102-214_FINAL.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:48"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/cyberpower-ec650lcd-eco-ups-overview\/65705815-7639062"
+        },
+        {
+            "id": "7639063",
+            "title": "CyberPower Energy Efficient Desktop UPS Overview",
+            "date_created": "1442275200",
+            "loginId": "1758381",
+            "tags": "CyberPower,550VA,330W,Energy Efficient,Desktop UPS,Simulated Sine Wave,uPS,8 Outlets,RJ11 Protection,Energy-conserving,GreenPower,Surge Protection,Battery Backup,Standby Topology,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,dea",
+            "description": "Need a battery back up for your computer? Check out this UPS by CyberPower, Model: EC550G. Check out the video for more info!<br \/>\n<br \/>\nCyberPower Energy Efficient Desktop UPS Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "98",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "98",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/850329564-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639063\/f8230a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639063\/f8230a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639063\/f8230\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639063\/f8230\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639063\/f8230\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639063\/f8230\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639063\/f8230\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639063\/144p_ba916_(09-15-2015)_CyberPower_UPS_42-102-215_FINAL.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:38"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/cyberpower-energy-efficient-desktop-ups-overview\/65705815-7639063"
+        },
+        {
+            "id": "7639064",
+            "title": "CyberPower AVR Series UPS Overview",
+            "date_created": "1442275200",
+            "loginId": "1758381",
+            "tags": "CyberPower,AVR,750VA,450W,12 Outlets,UPS,simulated Sine Wave,RJ11 Protection,Automatic Voltage Regulation,GreenPower,Bypass Technology,Line-Interactive Topology,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,o",
+            "description": "Check out this battery back up, made by CyberPower, Model: AVRG750U. Check out the video for more info!<br \/>\n<br \/>\nCyberPower AVR Series UPS",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "72",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "72",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/965813560-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/144p_a01c9_(09-15-2015)_CyberPower_UPS_42-102-225_FINAL.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:12"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/cyberpower-avr-series-ups-overview\/65705815-7639064"
+        },
+        {
+            "id": "7639065",
+            "title": "CyberPower BRG1350AVRLCD UPS Overview",
+            "date_created": "1442275200",
+            "loginId": "1758381",
+            "tags": "CyberPower,Intelligent LCD Series,12 Outlets,810W,Simulated Sine Wave,UPS,RJ45 Protection,USB 2.1A,charging Ports,Line-Interactive Topology,GreenPower,Bypass Technology,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,un",
+            "description": "Here's a UPS, made by CyberPower, Model: BRG1350AVRLCD . Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "93",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "93",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/188804923-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639065\/9508ea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639065\/9508ea\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639065\/9508e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639065\/9508e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639065\/9508e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639065\/9508e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639065\/9508e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639065\/144p_952e4_(09-15-2015)_CyberPower_UPS_42-102-228_FINAL.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:33"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/cyberpower-brg1350avrlcd-ups-overview\/65705815-7639065"
+        },
+        {
+            "id": "7639066",
+            "title": "CyberPower BRG1000AVRLCD UPS Overview",
+            "date_created": "1442275200",
+            "loginId": "1758381",
+            "tags": "CyberPower,LCD,10 Outlets,UPS,Simulated Sine Wave,USB,Charging Ports,Automatic Voltage Regulation,AVR,surge protection,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Surge protection is always important! Check out this UPS made by CyberPower, Model: BRG1000AVRLCD . Check out the video for more info!<br \/>\n<br \/>\nCyberPower BRG1000AVRLCD UPS Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "91",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "91",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/872122778-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/144p_a75d5_(09-15-2015)_CyberPower_UPS_42-102-230_FINAL.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:31"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/cyberpower-brg1000avrlcd-ups-overview\/65705815-7639066"
+        },
+        {
+            "id": "7639067",
+            "title": "CyberPower PFC Sinewave Series OR1500PFCLCD UPS Overview",
+            "date_created": "1442275200",
+            "loginId": "1758381",
+            "tags": "CyberPower,PFC,Sinewave Series,1050 Watts,8 Outlets,UPS,surge protection,back up battery,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's an UPS, made by CyberPower, Model: OR1500PFCLCD . Check out the video for more info!<br \/>\n<br \/>\nCyberPower PFC Sinewave Series OR1500PFCLCD Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "86",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "86",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/858041883-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639067\/fdb46a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639067\/fdb46a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639067\/fdb46\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639067\/fdb46\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639067\/fdb46\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639067\/fdb46\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639067\/fdb46\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639067\/144p_8031b_(09-15-2015)_CyberPower_UPS_42-102-252_FINAL.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:26"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/cyberpower-pfc-sinewave-series-or1500pfclcd-ups-overview\/65705815-7639067"
+        },
+        {
+            "id": "7639057",
+            "title": "Sennheiser 2nd Gen Momentum On Ear Wireless Headphones Overview",
+            "date_created": "1441152000",
+            "loginId": "1758381",
+            "tags": "Sennheiser,Momentum,Around-Ear,Headphone,iOS Devices,circumaural,noise isolation,16Hz-22KHz,18 ohms,Microphone,100Hz-10KHz,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Sennheiser continues to find the perfect balance of design, comfort, and quality. Join Tom as he overviews the Sennheiser 2nd Gen Momentum On Ear Wireless Headphones - which come with a number of fantastic accessories for travel.<br \/>\n<br \/>\nSennheiser 2nd Gen Momentum On Ear Wireless Headphones Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "102",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "102",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/722951881-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/aa6a1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639057\/144p_6ee12_(09-02-2015)_Sennheiser_Final_-_SITE.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:42"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/sennheiser-2nd-gen-momentum-on-ear-wireless-headphones-overview\/65705815-7639057"
+        },
+        {
+            "id": "7639056",
+            "title": "Gigabyte GeForce GTX 970 OC Twin Turbo Edition Overview",
+            "date_created": "1440460800",
+            "loginId": "1758381",
+            "tags": "GIGABYTE,GeForce,GTX 970,4GB,256-Bit,GDDR5,PCI Express 3.0,SLI,ATX,Video Card,graphics,gaming,over clocking,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "We take our first look at the Gigabyte GeForce GTX 970 OC Twin Turbo Edition.  Check out the video for more info!<br \/>\n<br \/>\nGigabyte GeForce GTX 970 OC Twin Turbo Edition",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "113",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "113",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/981612597-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639056\/aa4d6a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639056\/aa4d6a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639056\/aa4d6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639056\/aa4d6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639056\/aa4d6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639056\/aa4d6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639056\/aa4d6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639056\/144p_db15d_(08-25-2015)_Gigabyte_970_OC_Final_-_SITE.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:53"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/gigabyte-geforce-gtx-970-oc-twin-turbo-edition-overview\/65705815-7639056"
+        },
+        {
+            "id": "7639055",
+            "title": "EVGA GeForce GTX 950 FTW Overview with Benchmarks",
+            "date_created": "1439942400",
+            "loginId": "1758381",
+            "tags": "EVGA,GeForce,GTX,950,2GB,128-Bit,GDDR5,PCI Express 3.0,SLI Support,FTW,ACX 2.0,Video Card,Core Clock 1203MHz,Boost Clock 1405MHz,DisplayPort,768 CUDA Cores,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overvi",
+            "description": "Here's the new graphics card, made by EVGA, Model: 02G-P4-2958-KR. Check out the video for more info!<br \/>\n<br \/>\nEVGA GeForce GTX 950 FTW Overview with Benchmarks",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "193",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "193",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/822308220-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639055\/08986a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639055\/08986a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639055\/08986\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639055\/08986\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639055\/08986\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639055\/08986\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639055\/08986\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639055\/144p_49fa3_(08-19-2015)_NVIDIA_GTX_950_Final_-_SITE.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:13"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/evga-geforce-gtx-950-ftw-overview-with-benchmarks\/65705815-7639055"
+        },
+        {
+            "id": "7639054",
+            "title": "ZOTAC GeForce GTX 980 Ti AMP! Extreme Video Card Overview",
+            "date_created": "1439251200",
+            "loginId": "1758381",
+            "tags": "ZOTAC,ZT-90505-10P,ZT-90503-10P,GeForce,GTX,980,Ti,AMP!,Extreme,6GB,384-Bit,GDDR5,PCI,Express,3.0,SLI,Support,Video,Card,NVIDIA,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a video card made by Zotac, Model: ZT-90505-10P. Check out the video for more info!<br \/>\n<br \/>\nZOTAC ZT-90505-10P GeForce GTX 980 Ti AMP! Extreme 6GB 384-Bit GDDR5 PCI Express 3.0 SLI Support Video Card",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "125",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "125",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/471074800-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639054\/cbcaea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639054\/cbcaea\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639054\/cbcae\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639054\/cbcae\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639054\/cbcae\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639054\/cbcae\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639054\/cbcae\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639054\/144p_e71b5_(08-11-2015)_Zotac_GTX_980Ti_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:05"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/zotac-geforce-gtx-980-ti-amp-extreme-video-card-overview\/65705815-7639054"
+        },
+        {
+            "id": "7639053",
+            "title": "PowerColor Radeon R9 390 Graphics Card Overview",
+            "date_created": "1438646400",
+            "loginId": "1758381",
+            "tags": "PowerColor,PCS+,Radeon,R9,390,AXR9,512-Bit,GDDR5,PCI Express 3.0,CrossFireX,ATX,Video Card,Core Clock 1010MHz,DisplayPort,2560 Stream Processors,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product",
+            "description": "Here's an graphics card, made by PowerColor, Model: AXR9 390 8GBD5-PPDHE. Check out the video for more info!<br \/>\n<br \/>\nPowerColor Radeon R9 390 Graphics Card Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "109",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "109",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/467223593-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639053\/45258a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639053\/45258a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639053\/45258\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639053\/45258\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639053\/45258\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639053\/45258\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639053\/45258\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639053\/144p_b544d_(08-04-2015)_PowerColor_R9_390_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:49"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/powercolor-radeon-r9-390-graphics-card-overview\/65705815-7639053"
+        },
+        {
+            "id": "7638981",
+            "title": "Gigabyte 100 Series Motherboards Interview",
+            "date_created": "1438560000",
+            "loginId": "1758381",
+            "tags": "GIGABYTE,Gold Plated,Intel,Z170,HDMI,SATA,6Gb\/s,USB 3.1,USB 3.0,Extended ATX,Intel Motherboard,skylake,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a the new motherboards, made by Gigabyte, Models: GA-Z170X-GAMING GI, GA-Z170X-GAMING 7,GA-Z170X-UD5 . Check out the video for more info!<br \/>\n<br \/>\nGigabyte 100 Series Motherboards",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "559",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "559",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/581279265-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638981\/83aa5a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638981\/83aa5a\/media.m3u8",
+                "prettyDuration": "00:09:19",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638981\/83aa5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638981\/83aa5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638981\/83aa5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638981\/83aa5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638981\/83aa5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638981\/144p_e670a_(08-03-2015)_Gigabyte_100_Series_Motherboards_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/gigabyte-100-series-motherboards-interview\/65705815-7638981"
+        },
+        {
+            "id": "7639052",
+            "title": "ASRock BeeBox Overview",
+            "date_created": "1438560000",
+            "loginId": "1758381",
+            "tags": "ASRock,Beebox,N3000\/B,204Pin,SO-DIMM,Mini,Booksize,Barebone System,pc,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a new Mini-PC, made by ASRock, Model: Beebox N3000\/B. Check out the video for more info!<br \/>\n<br \/>\nASRock BeeBox Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "158",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "158",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/795644779-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639052\/e99eba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639052\/e99eba\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639052\/e99eb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639052\/e99eb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639052\/e99eb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639052\/e99eb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639052\/e99eb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639052\/144p_af74d_(08-03-2015)_ASRock_BeeBox_56-158-043_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:38"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/asrock-beebox-overview\/65705815-7639052"
+        },
+        {
+            "id": "7639051",
+            "title": "MSI Z170A Gaming Motherboards Overview",
+            "date_created": "1437696000",
+            "loginId": "1758381",
+            "tags": "Intel,Core i5-6600K,Skylake,Quad-Core,3.5GHz,MSI,Z170A,GAMING PRO,Motherboard,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's are motherboards, made by MSI, Model: Z170A. Check out the video for more info!<br \/>\n<br \/>\nMSI Z170A Motherboards Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "272",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "272",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/739692498-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639051\/c2c90a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639051\/c2c90a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639051\/c2c90\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639051\/c2c90\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639051\/c2c90\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639051\/c2c90\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639051\/c2c90\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639051\/144p_6d6a1_(07-24-2015)_MSI_Z170A_Motherboards_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:32"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/msi-z170a-gaming-motherboards-overview\/65705815-7639051"
+        },
+        {
+            "id": "7639050",
+            "title": "Gigabyte X99 SLI and SOC Champion Motherboards Overview",
+            "date_created": "1437523200",
+            "loginId": "1758381",
+            "tags": "GIGABYTE,GA-X99-SOC,Champion,LGA,Intel,X99,SATA,USB 3.0,Extended ATX,Motherboard,GA-X99-SLI,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's are motherboards, made by Gigabyte, Model: GA-X99-SOC and GA-X99-SLI  . Check out the video for more info!<br \/>\n<br \/>\nGigabyte X99 SLI and SOC Champion Motherboards Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "195",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "195",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/844609248-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639050\/3e656a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639050\/3e656a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639050\/3e656\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639050\/3e656\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639050\/3e656\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639050\/3e656\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639050\/3e656\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639050\/144p_2737d_(07-22-2015)_Gigabyte_X99_SLI_&_SOC_Motherboards_Final.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:15"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/gigabyte-x99-sli-and-soc-champion-motherboards-overview\/65705815-7639050"
+        }
+    ]
+}

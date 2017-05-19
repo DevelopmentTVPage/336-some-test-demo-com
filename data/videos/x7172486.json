@@ -1,0 +1,110 @@
+{
+    "title": "E3 2015: Playing Rainbow Six Siege and Assassin's Creed Syndicate at Ubisoft",
+    "description": "GameCrate editor Q. Salazar reports from E3 2015 at the Ubisoft booth on playing Rainbow Six Siege in Terrohunt Mode and fighting gangs Assassin's Creed Syndicate.",
+    "referenceId": "2455a52b32e0a5ed78ecc81f9338ae9d",
+    "date_created": "1434499200",
+    "date_modified": "1457047207",
+    "tags": "rainbow six siege, assasins creed syndicate, ubisoft, newegg, gamecrate, e3, computer, pc",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "gaming",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "10",
+    "CVV_VI": "19",
+    "engagement_score": null,
+    "conversion_score": "1",
+    "id": "7172486",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "16",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "E3-2015-Playing-Rainbow-Six-Siege-and-Assassin-s-Creed-Syndicate-at-Ubisoft",
+    "category": "",
+    "duration": 164,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "164",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "164",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172486\/thumb-2455a52b32e0a5ed78ecc81f9338ae9d-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172486\/2d1eba\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172486\/2d1eba\/media.m3u8",
+        "prettyDuration": "00:02:44",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172486\/2d1eb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172486\/2d1eb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172486\/2d1eb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172486\/2d1eb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172486\/2d1eb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172486\/144p_8f284_(06-17-2015)_E3_-_Day_1__-__Ubisoft_v03.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

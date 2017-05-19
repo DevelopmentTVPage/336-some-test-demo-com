@@ -1,0 +1,105 @@
+{
+    "title": "Let's Play Borderlands: Pre-Sequel - GameCrate",
+    "description": "Discover the story behind Borderlands 2's villain, Handsome Jack, and his rise to power in this brand new game in the Borderlands Series. Taking place between the original Borderlands and Borderlands 2, the Pre-Sequel gives you a whole lot of new gameplay featuring the genre-fusion of shooter and RPG gameplay that players can't get enough of.",
+    "referenceId": "0cfc52b0c3c12a4678cc03c3cdf5cf7f",
+    "date_created": "1413244800",
+    "date_modified": "1457047975",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": null,
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "9",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7172473",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "20",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "Let-s-Play-Borderlands-Pre-Sequel-GameCrate",
+    "category": "",
+    "duration": 2135,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "2135",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "2135",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/624050751-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554a\/media.m3u8",
+        "prettyDuration": "00:35:35",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/144p_9deff_Let's_Play_Borderlands_Pre-Sequel_-_GameCrate.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

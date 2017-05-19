@@ -1,0 +1,94 @@
+{
+    "title": "Newegg DIY Garage: X99 Series Motherboards for Broadwell-E",
+    "description": "JJ from Asus joins Carey in the studio to talk about the launch of the 3rd generation of X99 motherboards for Broadwell-E. Check out the video for more info!",
+    "referenceId": "798489d8630a42f9523652cf800deec8",
+    "date_created": "1466043795",
+    "date_modified": "1476391906",
+    "tags": "ASUS ,X99-DELUXE II, LGA ,2011-v3 ,Intel, X99, SATA ,USB 3.1 , ATX, Motherboard, X99-A II, broadwell e , 3rd generation, ROG, republic of gamers, STRIX ,GAMING ,how to build, JJ, Carey Holzman,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "motherboards",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": "featured_yes",
+    "VV_VI": "274",
+    "CVV_VI": "40",
+    "engagement_score": "3",
+    "conversion_score": "2",
+    "id": "66203284",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "65648623",
+    "titleTextEncoded": "Newegg-DIY-Garage-X99-Series-Motherboards-for-Broadwell-E",
+    "category": "",
+    "duration": 1707,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1707",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "1707",
+        "prettyDuration": "00:28:27",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/249539290-0219201079.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66203284\/4a84e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66203284\/4a84e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66203284\/4a84e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66203284\/4a84e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

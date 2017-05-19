@@ -1,0 +1,1464 @@
+{
+    "pageNumber": 3,
+    "data": [
+        {
+            "id": "7639028",
+            "title": "IAdea XPM2400 Digital Signage Player Unboxing",
+            "date_created": "1427328000",
+            "loginId": "1758381",
+            "tags": "IAdea,1080p Full Screen,720p,Multiple Zone,1080i video,XMP-2400,digital signage,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a digital signage appliance, made by IAdea, Model: XMP-2400. Check out the video for more info!<br \/>\n<br \/>\nIAdea XPM2400 Digital Signage Web Appliance Unboxing",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "191",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "191",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/846274423-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639028\/ad720a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639028\/ad720a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639028\/ad720\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639028\/ad720\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639028\/ad720\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639028\/ad720\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639028\/ad720\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639028\/144p_e4a28_(03-26-2015)_IAdea_XMP-2400_24-500-003_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:11"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/iadea-xpm2400-digital-signage-player-unboxing\/65705815-7639028"
+        },
+        {
+            "id": "7639029",
+            "title": "IAdea XMP6200 Digital Signage Player Overview",
+            "date_created": "1427328000",
+            "loginId": "1758381",
+            "tags": "IAdea,XMP-6200,Solid-State,Network,Digital Signage,Media Player,1080p,video,playback,SignApps,hdMI,Ethernet,USB 2.0,Wi-Fi antenna,Velcro,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a digital signage media player, made by IAdea, Model: XMP6200. Check out the video for more info!<br \/>\n<br \/>\nIAdea XMP6200 Digital Signage Player Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "284",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "284",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/367495210-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639029\/c6528a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639029\/c6528a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639029\/c6528\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639029\/c6528\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639029\/c6528\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639029\/c6528\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639029\/c6528\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639029\/144p_d5a8a_(03-26-2015)_IAdea_XMP-6200_15-547-001_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:44"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/iadea-xmp6200-digital-signage-player-overview\/65705815-7639029"
+        },
+        {
+            "id": "7639025",
+            "title": "Crucial BX100 SSD Overview",
+            "date_created": "1427241600",
+            "loginId": "1758381",
+            "tags": "Crucial,BX100,2.5,120GB,50gb.1tb,SATA,6Gbps,SATA III,Micron,16nm,MLC,NAND,Internal,Solid State Drive,SSD,memory,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's an SSD, made by Crucial, Model: CT1000BX100SSD1. Check out the video for more info!\n<br \/>\nCrucial BX100 SSD Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "81",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "81",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/803678806-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639025\/5bc42a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639025\/5bc42a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639025\/5bc42\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639025\/5bc42\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639025\/5bc42\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639025\/5bc42\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639025\/5bc42\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639025\/144p_5314c_(03-25-2015)_Crucial_BX100_20-148-947.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:21"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/crucial-bx100-ssd-overview\/65705815-7639025"
+        },
+        {
+            "id": "7639026",
+            "title": "Crucial MX200 SSD Overview",
+            "date_created": "1427241600",
+            "loginId": "1758381",
+            "tags": "Crucial,MX200,2.5,1TB,500gb,250gb,SATA,6Gbps,SATA III,Micron,16nm,MLC,NAND,Internal,Solid State Drive,sSD,memory,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's an SSD, made by Crucial, Model: CT250MX200SSD1 . Check out the video for more info!<br \/>\n<br \/>\nCrucial MX200 SSD Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "84",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "84",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/310483699-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/144p_e9ae1_(03-25-2015)_Crucial_MX200_20-148-948.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:24"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/crucial-mx200-ssd-overview\/65705815-7639026"
+        },
+        {
+            "id": "7639027",
+            "title": "IAdea XDS1060 Digital Signage Player Unboxing",
+            "date_created": "1427241600",
+            "loginId": "1758381",
+            "tags": "IAdea,10-inch,All-in-One,Customizable Bezel,Motion Sensor,XDS-1060,digital signage,shelf sign,customizable,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a motion sensor digital signage player, made by IAdea, Model: XDS1060. Check out the video for more info!<br \/>\n<br \/>\nIAdea XDS1060 Digital Signage Player",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "258",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "258",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/880205981-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639027\/79f14a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639027\/79f14a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639027\/79f14\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639027\/79f14\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639027\/79f14\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639027\/79f14\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639027\/79f14\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639027\/144p_d8a55_(03-25-2015)_IAdea_XDS1062_24-500-005_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:18"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/iadea-xds1060-digital-signage-player-unboxing\/65705815-7639027"
+        },
+        {
+            "id": "7639024",
+            "title": "Zotac GeForce GTX 960 & 960AMP Overview",
+            "date_created": "1426809600",
+            "loginId": "1758381",
+            "tags": "ZOTAC,GeForce,GTX,960,AMP,128-Bit,DDR5,HDCP,SLI,Video Card,graphics card,gaming,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's are Graphics Cards, made by Zotac, Models: ZT-90303-10M and ZT-90301-10M. Check out the video for more info!<br \/>\n<br \/>\nZotac GeForce GTX 960 Overview",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "229",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "229",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/446606671-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639024\/3f1f7a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639024\/3f1f7a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639024\/3f1f7\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639024\/3f1f7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639024\/3f1f7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639024\/3f1f7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639024\/3f1f7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639024\/144p_46b50_(03-20-2015)_Zotac_GTX_960_&_960AMP.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:49"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/zotac-geforce-gtx-960-960amp-overview\/65705815-7639024"
+        },
+        {
+            "id": "7639084",
+            "title": "H&R Block Tax Tutorial",
+            "date_created": "1426550400",
+            "loginId": "1758381",
+            "tags": "taxes,w2,1099,1040,tax,tax software,hr block,h&R Block,hrblock,tax software 2014,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "H&R Block Basic makes it easy for customers to complete their federal taxes, with help every step of the way - including FREE tax advice, only from H&R Block. Ideal for simple tax situations and easy for first-time users, H&R Block Basic guides customers through their return with a step-by-step Q&A. The program automatically checks your return for accuracy and includes features available only from H&R Block, such as built-in expertise, an H&R Block tax professional to represent customers in the event of an audit at no extra cost, and best of all, H&R Block's Maximum Refund Guarantee.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "790",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "790",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/524204426-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639084\/012d5a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639084\/012d5a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639084\/012d5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639084\/012d5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639084\/012d5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639084\/012d5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639084\/012d5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639084\/144p_f5293_(03-17-2015)_HRBlock_2014_v03.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:13:10"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/h-r-block-tax-tutorial\/65705815-7639084"
+        },
+        {
+            "id": "7639083",
+            "title": "GTX 960 Benchmarks - Evolve added",
+            "date_created": "1425427200",
+            "loginId": "1758381",
+            "tags": "evolve,benchmarks,gtx 960,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,evolved,evolved benchmarks",
+            "description": "Steve benchmarks the new GTX 960 EVGA SSC video card with the game Evolved!<br \/>\n<br \/>\nGTX 960 Benchmarks - Evolve added - Newegg TV",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "187",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "187",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/666865642-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639083\/99673a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639083\/99673a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639083\/99673\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639083\/99673\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639083\/99673\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639083\/99673\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639083\/99673\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639083\/144p_f4bdc_(03-04-2015)_GTX_960_Benchmarks_v03.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:07"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/gtx-960-benchmarks-evolve-added\/65705815-7639083"
+        },
+        {
+            "id": "7639082",
+            "title": "Creative X7 5.1 Channels 24-bit Sound Blaster Overview",
+            "date_created": "1424908800",
+            "loginId": "1758381",
+            "tags": "Creative,X7,5.1,Channels,24-bit,Sound,Blaster,audio,processor,dac,speaker,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's the X7 5.1 Channels 24-bit Sound Blaster, made by Creative, Model: X7. Check out the video for more info!<br \/>\n<br \/>\nCreative X7 5.1 Channels 24-bit Sound Blaster",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "207",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "207",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/149555570-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639082\/b08f9a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639082\/b08f9a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639082\/b08f9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639082\/b08f9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639082\/b08f9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639082\/b08f9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639082\/b08f9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639082\/144p_ae55f_(02-26-2015)_Creative_X7_Sound_Blaster_29-102-073_v03.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:27"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/creative-x7-5-1-channels-24-bit-sound-blaster-overview\/65705815-7639082"
+        },
+        {
+            "id": "7639081",
+            "title": "ASUS PB287Q Black 28\" 4K UHD HDMI Widescreen LED Backlight LCD Monitor Overview",
+            "date_created": "1424649600",
+            "loginId": "1758381",
+            "tags": "asus,pb287q,black,28,4k,uhd,1ms,10-bit,hdmi,widescreen,led,backlight,lcd,monitor,height&pivot,adjust,300,cd\/m2,1000000001,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Open your eyes to breathtaking levels of detail with the ASUS PB287Q True 4K ultra-high definition (4K UHD) monitor. The ASUS PB287Q features a 16:9 aspect ratio WLED display that delivers next-generation 4K UHD visuals, with resolution up to 3840 by 2160.<br \/>\n<br \/>\nWith a pixel density of 157 pixels-per-inch (PPI), the PB287Q provides over 8 million pixels, four times the pixel density of standard Full HD displays for astonishingly detailed visuals - allowing you to experience more onscreen real estate and stunning image clarity that have to be seen to be believed. The PB287Q also delivers an impressive 1ms GTG fast response time and a 60Hz refresh rate for ultra-smooth gameplay.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "504",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "504",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/663238845-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/661b9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639081\/144p_7e01d_(02-23-2015)_ASUS_PB287Q_24-236-294.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:08:24"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/asus-pb287q-black-28-4k-uhd-hdmi-widescreen-led-backlight-lcd-monitor-overview\/65705815-7639081"
+        },
+        {
+            "id": "7639078",
+            "title": "ECS Liva X 4GB\/64GB Mini PC Overview",
+            "date_created": "1423699200",
+            "loginId": "1758381",
+            "tags": "ec,liva,4gb\/64gb,mini,pc,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Intel\u00ae Inside Featuring Intel\u00ae Bay Trail-M \/ Bay Trail-I SoC processors, LIVA X is provided with 64-bit dual-core performance up to 2.25GHz on Intel's advanced 22nm architecture. So Cool Low-power consumption LIVA X with fan-less design stays cool while eliminating inflow of debris which might harm the system. <br \/>Silence is Gold When you eliminate the fan, you eliminate the noise. Fanless LIVA X delivers 0dB silence to extend lifespan and provide better acoustic performance. Power Saving LIVA X consumes only approximately 1\/10 the energy traditional of PCs and brings the most efficient performance.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "204",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "204",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/368781992-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/cbb48\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639078\/144p_ef384_(02-12-2015)_Liva_Mini_PC_56-501-010.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:24"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/ecs-liva-x-4gb-64gb-mini-pc-overview\/65705815-7639078"
+        },
+        {
+            "id": "7639079",
+            "title": "ZTE SPro MF97W Android 4.2 Touchscreen Portable LED Projector  Overview",
+            "date_created": "1423699200",
+            "loginId": "1758381",
+            "tags": "zte,spro,mf97w,854x480,wvga,100,lumen,android,4.2,touchscreen,interfac,wifi,bluetooth,mobil,hotspot,hdmi,usb,input,portable,led,projector,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Finally a way to share your content with all your friends, family, business - quickly and easily Access games, books, movies, presentations or anything you need to show - on the go. Versatile, small and portable Android-powered wireless projector with SD Card, wired or wireless inputs for viewing. No more crowding around a computer screen to share content, data or presentations. Multiple connectivity options, easy to project.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "449",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "449",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/224469579-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639079\/0e2a3a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639079\/0e2a3a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639079\/0e2a3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639079\/0e2a3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639079\/0e2a3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639079\/0e2a3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639079\/0e2a3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639079\/144p_38114_(02-12-2015)_ZTE_SPro_24-705-001.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:07:29"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/zte-spro-mf97w-android-4-2-touchscreen-portable-led-projector-overview\/65705815-7639079"
+        },
+        {
+            "id": "7639077",
+            "title": "EVGA 1600W Power Supply Overview",
+            "date_created": "1423008000",
+            "loginId": "1758381",
+            "tags": "EVGA,1600W,ATX12V,EPS12V,SLI Ready,80 PLUS GOLD Certified,Full Modular,Power Supply,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's an Power Supply, made by EVGA, Model: 120-G2-1600-X1. Check out the video for more info!<br \/>\n<br \/>\nEVGA 120-G2-1600-X1 1600W ATX12V \/ EPS12V SLI Ready 80 PLUS GOLD Certified Full Modular Power Supply",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "347",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "347",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/222692813-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639077\/54ccca\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639077\/54ccca\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639077\/54ccc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639077\/54ccc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639077\/54ccc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639077\/54ccc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639077\/54ccc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639077\/144p_de326_(02-04-2015)_EVGA_1600_G2_17-438-033.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:05:47"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/evga-1600w-power-supply-overview\/65705815-7639077"
+        },
+        {
+            "id": "7639076",
+            "title": "GIGABYTE GeForce GTX 960 Overview",
+            "date_created": "1422316800",
+            "loginId": "1758381",
+            "tags": "GIGABYTE,GeForce,GTX,960,Video,Card,1024 CUDA Cores,cuda,cores,2GB,128-Bit,GDDR5,PCI Express 3.0,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,gaming",
+            "description": "Here's a Graphics Card, made by Gigabyte, Model: GV-N960G1 GAMING-2GD. Check out the video for more info!<br \/>\n<br \/>\nGIGABYTE GeForce GTX 960 Overview - Newegg TV",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "427",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "427",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/431115975-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639076\/2578fa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639076\/2578fa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639076\/2578f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639076\/2578f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639076\/2578f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639076\/2578f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639076\/2578f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639076\/144p_a915f_(01-27-15)_Gigabyte_G1_Gaming_Editoon_GTX_960_Graphics_Card_V3.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:07:07"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/gigabyte-geforce-gtx-960-overview\/65705815-7639076"
+        },
+        {
+            "id": "7639075",
+            "title": "Western Digital WD60EZRX Green Drive Overview\/Tutorial",
+            "date_created": "1422230400",
+            "loginId": "1758381",
+            "tags": "WD,Green,WD60EZRX,6TB,64MB,Cache,SATA,6.0Gb\/s,3.5,Internal,Hard,Drive,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Intel Smart Response Technology: http:\/\/download.intel.com\/support\/chipsets\/sb\/intel_smart_response_technology_user_guide_3.pdf<br \/>\n\n<br \/>\nWestern Digital WD60EZRX Green Drive Overview\/Tutorial",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "294",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "294",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/744387637-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/bcda8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639075\/144p_7d032_(01-26-15)_WD_WD60EZRX_Green_Drive_V2.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:54"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/western-digital-wd60ezrx-green-drive-overview-tutorial\/65705815-7639075"
+        },
+        {
+            "id": "7639074",
+            "title": "BitFenix Pandora Overview",
+            "date_created": "1421884800",
+            "loginId": "1758381",
+            "tags": "bitfenix,pandora,atx,aluminum,computer case,power supply,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a Pandora Computer Case, made by Bitfenix. Check out the video for more info!<br \/>\n<br \/>\nBitFenix Pandora",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "490",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "490",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/655900425-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639074\/9fb0ea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639074\/9fb0ea\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639074\/9fb0e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639074\/9fb0e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639074\/9fb0e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639074\/9fb0e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639074\/9fb0e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639074\/144p_5d179_(01-22-15)_Bitfenix_Pandora_Micro-ATX_Case.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:08:10"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/bitfenix-pandora-overview\/65705815-7639074"
+        },
+        {
+            "id": "7639073",
+            "title": "EVGA GeForce GTX960 SuperSC ACX 2.0+ Video Card Overview",
+            "date_created": "1421712000",
+            "loginId": "1758381",
+            "tags": "EVGA,GeForce,GTX,960,SuperSC,ACX,2.0,Video,Card,1024,CUDA,Cores,2GB,128-Bit,GDDR5,PCI Express 3.0,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a Video Card, made by EVGA, Model: 02G-P4-2966-KR. Check out the video for more info!<br \/>\n<br \/>\nEVGA GeForce GTX960 SuperSC ACX 2.0+ Video Card",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "520",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "520",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/412862728-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639073\/39f3fa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639073\/39f3fa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639073\/39f3f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639073\/39f3f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639073\/39f3f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639073\/39f3f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639073\/39f3f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639073\/144p_ae2f3_(01-20-15)_EVGA_GTX_960_Super_SC_ACX_2.0+.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:08:40"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/evga-geforce-gtx960-supersc-acx-2-0-video-card-overview\/65705815-7639073"
+        },
+        {
+            "id": "7639072",
+            "title": "MSI GeForce GTX960 GAMING 2G Video Card Overview",
+            "date_created": "1421625600",
+            "loginId": "1758381",
+            "tags": "MSI,GeForce,GTX,960,GAMING,2G,Video,Card,2GB,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a Video Card, made by MSI, Model: GTX 960 GAMING 2G. Check out the video for more info!<br \/>\n<br \/>\nMSI GeForce GTX960 GAMING 2G Video Card",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "306",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "306",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/928176348-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bba\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/931bb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639072\/144p_75ddd_(01-19-15)_MSI_GTX_960_Gaming_2G.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:05:06"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/msi-geforce-gtx960-gaming-2g-video-card-overview\/65705815-7639072"
+        },
+        {
+            "id": "7639019",
+            "title": "XYZprinting daVinci 2.0 3D Printer Overview",
+            "date_created": "1419897600",
+            "loginId": "1758381",
+            "tags": "XYZprinting,daVinci,2.0,3D,Printer,dual extruder,3d printing,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "sku: 28-840-014<\/br>\n<\/br>\nHere's an 3D Printer, made by XYZ, Model: da Vinci 2.0. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "332",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "332",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/318165001-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/ec082\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639019\/144p_0ac4f_XYZprinting_daVinci_2.0_3D_Printer_Overview_-_Newegg_Lifestyle.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:05:32"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/xyzprinting-davinci-2-0-3d-printer-overview\/65705815-7639019"
+        },
+        {
+            "id": "16168543",
+            "title": "LG 34UM94-P 34\" QHD UltraWide Monitor Overview",
+            "date_created": "1418601600",
+            "loginId": "1758381",
+            "tags": "LG,34UM94-P,QHD,UltraWide,IPS,panel,LED,Backlight,LCD,Monitor,Dual HDMI,Dual ThunderBolt ports,Built-In Speakers,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's an monitor, made by LG, Model: 34UM94-P. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "267",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "267",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/103632358-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168543\/b7f6ea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168543\/b7f6ea\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168543\/b7f6e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168543\/b7f6e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168543\/b7f6e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168543\/b7f6e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168543\/b7f6e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168543\/144p_a9db0_(12-15-2014)_LG_34UM94-P_Monitor_24-005-701.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:27"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/lg-34um94-p-34-qhd-ultrawide-monitor-overview\/65705815-16168543"
+        }
+    ]
+}

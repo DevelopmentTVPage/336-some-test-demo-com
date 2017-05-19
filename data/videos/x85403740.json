@@ -1,0 +1,103 @@
+{
+    "title": "DIY Garage: Engenius EnStationAC",
+    "description": "EnStationAC is a 5 GHz High-Powered, Long-Distance 11AC Wireless Outdoor AP\/Client Bridge offering dual-PoE Gigabit ports and a high-gain directional antenna that emits a narrow signal beam for limited interference ensuring stable connectivity, high-bandwidth and 867 Mbps speeds over extremely long distances, extending the network up to 5 miles point-to-point.",
+    "referenceId": "253e82ac52743c5fbda9ad869d4f6962",
+    "date_created": "1487179270",
+    "date_modified": "1487179851",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "networking",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": "featured_no",
+    "VV_VI": "147",
+    "CVV_VI": "14",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "id": "85403740",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "65648623",
+    "titleTextEncoded": "EnGenius-Interview-2-Final-Cut-mp4",
+    "category": "",
+    "duration": "645",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "645",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "645",
+        "prettyDuration": "00:10:45",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403740\/5ba37\/thumb-253e82ac52743c5fbda9ad869d4f6962-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403740\/5ba37\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403740\/5ba37\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403740\/5ba37\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403740\/5ba37\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403740\/5ba37\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403740\/5ba37\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403740\/5ba37\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

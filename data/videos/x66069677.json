@@ -1,0 +1,103 @@
+{
+    "title": "XFX Radeon R9 390X Overview",
+    "description": "Here's an video card, made by XFX, Model: R9-390X-8VR6. Check out the video for more info!",
+    "referenceId": "ced988b935f4bcddcf2aefdbc04edc8b",
+    "date_created": "1464999778",
+    "date_modified": "1476391937",
+    "tags": "XFX, Radeon ,R9, 390X ,R9-390X-8VR6 ,8GB, 512-Bit ,DDR5 ,CrossFireX, Video Card, AMD, graphics card, gpu, how to build,  Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "graphics_cards",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": "featured_yes",
+    "VV_VI": "47",
+    "CVV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66069677",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "XFX-Radeon-R9-390X-Overview",
+    "category": "",
+    "duration": 149,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "149",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "149",
+        "prettyDuration": "00:02:29",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/569795283-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069677\/734f8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

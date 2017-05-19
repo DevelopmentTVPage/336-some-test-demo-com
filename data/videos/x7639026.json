@@ -1,0 +1,109 @@
+{
+    "title": "Crucial MX200 SSD Overview",
+    "description": "Here's an SSD, made by Crucial, Model: CT250MX200SSD1 . Check out the video for more info!<br \/>\n<br \/>\nCrucial MX200 SSD Overview",
+    "referenceId": "f1072b05072e965cbee5159a257654b8",
+    "date_created": "1427241600",
+    "date_modified": "1455790358",
+    "tags": "Crucial,MX200,2.5,1TB,500gb,250gb,SATA,6Gbps,SATA III,Micron,16nm,MLC,NAND,Internal,Solid State Drive,sSD,memory,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "storage",
+    "age_gate": "no",
+    "video_brand": "crucial",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "14",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639026",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "63",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Crucial-MX200-SSD-Overview",
+    "category": "",
+    "duration": 84,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "84",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "84",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/310483699-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/72000\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639026\/144p_e9ae1_(03-25-2015)_Crucial_MX200_20-148-948.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:01:24"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,1327 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "25898754",
+            "title": "MSI GT72S with Tobii Eye-Tracking Technology - CES 2016",
+            "date_created": "1455806634",
+            "loginId": "1758381",
+            "tags": "MSI,Gaming,Laptop,Tobii,Eye tracking,CES2016,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product",
+            "description": "Carey demonstrates the Tobii eye-tracking technology on MSI's GT72S gaming laptop.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "117",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "117",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/225207802-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898754\/d021ba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898754\/d021ba\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898754\/d021b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898754\/d021b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898754\/d021b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898754\/d021b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898754\/144p_04885_MSI_Tobii_-_CES_2016_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:57"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/msi-gt72s-with-tobii-eye-tracking-technology-ces-2016\/65648627-25898754"
+        },
+        {
+            "id": "25898752",
+            "title": "D-Link Home Networking Routers - CES 2016",
+            "date_created": "1454371200",
+            "loginId": "1758381",
+            "tags": "CES2016,WiFi,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product,Routers,Networking,Home,Connectivity,Gaming",
+            "description": "D-Link shows off an array of routers, including the AC4300 & AC1300 Kit, and introduced a new technology called Adaptive Roaming Technology.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "283",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "283",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/301422314-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898752\/431efa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898752\/431efa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898752\/431ef\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898752\/431ef\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898752\/431ef\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898752\/431ef\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898752\/144p_a6587_D_Link_-_CES_2016_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:43"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/d-link-home-networking-routers-ces-2016\/65648627-25898752"
+        },
+        {
+            "id": "25898753",
+            "title": "MSI Vortex Gaming PC - CES 2016",
+            "date_created": "1454371200",
+            "loginId": "1758381",
+            "tags": "MSI,CES,Vortex,Geforce,GTX 980,SLI,4k,Desktop,Gaming,USB 3.1,HDMI,Ethernet,Thunderbolt,Mini Display,Newegg,Newegg.com,NeweggTV,Newegg TV,Deals,Shop,unboxing,overview,product",
+            "description": "MSI debuts the Vortex Gaming PC.\nThe Vortex is overclock-able and has the capability to house dual SLI GeForce GTX 980. The name is inspired by the cylindrical design that houses a single fan that cools throughout the entire system. Looking for more monitor real estate? The Vortex can also support up to six 4k monitors.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "268",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "268",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/981396759-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898753\/fa3b6a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898753\/fa3b6a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898753\/fa3b6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898753\/fa3b6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898753\/fa3b6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898753\/fa3b6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898753\/144p_c922d_MSI_-_CES_2016_v01.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:28"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/msi-vortex-gaming-pc-ces-2016\/65648627-25898753"
+        },
+        {
+            "id": "25898755",
+            "title": "Reiko Bluetooth Light Bulbs - CES 2016",
+            "date_created": "1453161600",
+            "loginId": "1758381",
+            "tags": "Reiko,CES 2016,Newegg,Newegg TV,NeweggTV,Smarthome,Light bulb,bluetooth,speakers,lifestyle,Newegg.com,Home,Living",
+            "description": "As Carey explore the CES showfloor, he walked by something unexpected. There's music playing but no speakers in sight, thus reveals these Reiko bluetooth light bulbs.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "40",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "40",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/989945171-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/7c0a6a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/7c0a6a\/media.m3u8",
+                "prettyDuration": "00:00:40",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/7c0a6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/7c0a6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/7c0a6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/7c0a6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898755\/144p_96321_Reiko_-_CES_2016_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/reiko-bluetooth-light-bulbs-ces-2016\/65648627-25898755"
+        },
+        {
+            "id": "25840100",
+            "title": "Viewsonic XG Series Gaming Monitors - CES 2016",
+            "date_created": "1452384000",
+            "loginId": "1758381",
+            "tags": "CES2016,Viewsonic,gaming,monitors, Xtreme, XG Series,AMD, FreeSync , Nvidia ,G-Sync ,technology, 144Hz+,#VIEWSONICGAMING, CES2016,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Viewsonic gets gaming with their new line of gaming monitors. <\/br>Viewsonic Xtreme Gaming XG Series gaming monitors feature AMD FreeSync and Nvidia G-Sync technology. <\/br>With 144Hz+ refresh rate there will be no tearing giving you a more fluid gaming experience. <\/br>Check out what else Viewsonic has to offer at  #VIEWSONICGAMING",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "178",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "178",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/383154140-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840100\/74a26a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840100\/74a26a\/media.m3u8",
+                "prettyDuration": "00:02:58",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840100\/74a26\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840100\/74a26\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840100\/74a26\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840100\/74a26\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840100\/144p_e2dee_Viewsonic_XG_Series_Gaming_Monitors_-_CES_2016.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/viewsonic-xg-series-gaming-monitors-ces-2016\/65648627-25840100"
+        },
+        {
+            "id": "25840767",
+            "title": "EVGA Gaming Case - CES 2016",
+            "date_created": "1452384000",
+            "loginId": "1758381",
+            "tags": "CES2016, evga, gaming case, fans, liquid cooling, graphic card, video card, carey holzman, CES2016,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product",
+            "description": "EVGA showcases their new GAMING CASE prototype. This case is built for cooling with room for 3 front fans, 2 rear fans , 3 top fans and fan controller.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "67",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "67",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/506502999-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/870c9a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/870c9a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/870c9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/870c9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/870c9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/870c9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840767\/144p_73e93_EVGA_Gaming_Case_-_CES_2016_(1).mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:07"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/evga-gaming-case-ces-2016\/65648627-25840767"
+        },
+        {
+            "id": "25840769",
+            "title": "Asus Z170 Motherboards and ROG Swift Monitor  - CES 2016",
+            "date_created": "1452384000",
+            "loginId": "1758381",
+            "tags": "CES2016,ASUS, AMD ,970 ,PRO GAMING, SLI, Crossfire,B150I ,WiFi, M.2,  USB 3.1, Sabertooth, Z170S , Radeon, GeForce, USB Type C,rog, monitor CES2016,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,produ",
+            "description": "Asus features a few new motherboards. <\/br>\nThe MAXIMUS VIII FORMULA motherboard has front back armor to protect from warping and RGB LEDs that are fully programable. <\/br>\nThe MAXIMUS VIII EXTREME ASSEMBLY edition. New colors and new accessories like the external dac.<\/br> \nDon'f forget the ASUS AMD 970 PRO GAMING which supports SLI & Crossfire. <\/br>\nSmall and compact, the Asus B150I PRO GAMING supports WiFi, M.2, and USB 3.1 support<\/br>. \nA few more boards from the Z170 line like the Sabertooth Z170S and Z170 Premium.<\/br>\nAsus presents a graphics card enclosure. Asus Radeon or GeForce compatible with a USB Type C .<\/br>\nLast but not least Asus releases the ROG SWIFT PG348Q curved monitor.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "504",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "504",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/374585087-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/5cc80a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/5cc80a\/media.m3u8",
+                "prettyDuration": "00:08:24",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/5cc80\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/5cc80\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/5cc80\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/5cc80\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840769\/144p_201b7_Asus_Z170_Motherboards_and_ROG_Swift_Monitor_-_CES_2016.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/asus-z170-motherboards-and-rog-swift-monitor-ces-2016\/65648627-25840769"
+        },
+        {
+            "id": "25840099",
+            "title": "Corsair Bulldog - CES 2016",
+            "date_created": "1452297600",
+            "loginId": "1758381",
+            "tags": "CES2016, 4k gaming, diy, hydro h5sf, cpu, cooler, SF600, power supply, Gigabyte ,Z170N-WiFi, motherboard, CES2016,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product",
+            "description": "Corsair shows us the new Bulldog for a 4K gaming experience. Corsair offers a DIY kit that includes the chassis, Corsair Hydro H5SF CPU cooler, Corsair SF600 power supply, and a Gigabyte Z170N-WiFi motherboard.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "267",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "267",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/417874085-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840099\/14d48a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840099\/14d48a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840099\/14d48\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840099\/14d48\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840099\/14d48\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840099\/14d48\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25840099\/144p_e3ac5_Corsair_Bulldog_-_CES_2016_(1).mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:27"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/corsair-bulldog-ces-2016\/65648627-25840099"
+        },
+        {
+            "id": "25839086",
+            "title": "Deepcool Gamer Storm - CES 2016",
+            "date_created": "1452297600",
+            "loginId": "1758381",
+            "tags": "CES2016, liquid cooling, psu, cpu, gpu, gamer storm, closed loop, open loop, chassis, deepcool,   CES2016, ces, ,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "DEEPCOOL shows off their new Gamer Storm Genome case with closed loop liquid cooling built right in. If that isn't cool enough for you, Deepcool also offers their new Liquid Cooling PSU! The Gamer Storm Liquid Cooling PSU is in development with an open loop cooling system so you can hook up your GPU, CPU, and PSU.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "168",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "168",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/987827763-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/f9afba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/f9afba\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/f9afb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/f9afb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/f9afb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/f9afb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839086\/144p_909ae_Deepcool_Gamer_Storm_-_CES_2016.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:48"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/deepcool-gamer-storm-ces-2016\/65648627-25839086"
+        },
+        {
+            "id": "25839087",
+            "title": "Thermaltake Core W and X Series - CES 2016",
+            "date_created": "1452297600",
+            "loginId": "1758381",
+            "tags": "Thermaltake, Core ,X31, ATX, Gaming, Mid Tower, Case , RGB Edition,x71,full tower, Pacific DIY, Water Cooling Kit, CES2016,water cooling, liquid cooling, thermaltake, core w series, diy, pc, tubing,  CES2016, ces, ,Newegg,Newegg.com,Newegg TV,NeweggTV,rev",
+            "description": "Thermaltake has the FINAL Core W Series Chassis along with the X Series chassis. <\/br>\nShannon also shows off all the new liquid cooling kids and accessories.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "323",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "323",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/411193237-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839087\/f0d0da\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839087\/f0d0da\/media.m3u8",
+                "prettyDuration": "00:05:23",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839087\/f0d0d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839087\/f0d0d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839087\/f0d0d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839087\/f0d0d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839087\/144p_79752_Thermaltake_Core_W_and_X_Series_-_CES_2016_(1).mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/thermaltake-core-w-and-x-series-ces-2016\/65648627-25839087"
+        },
+        {
+            "id": "25839006",
+            "title": "Samsung Galaxy Tab Pro S and T3 Portable SSD - CES 2016",
+            "date_created": "1452211200",
+            "loginId": "1758381",
+            "tags": "CES2016, samsung, galaxy , tab pro, T3, ssd, vnand, storage, memory,  CES2016, ces, ,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer    http",
+            "description": "The Samsung Galaxy Tab Pro S tablets feature Super Amoled Display, Intel's 6th generation dual core M chips with 128GB of storage and 4GB of RAM.<\/br>\nThe samsung T3 portable SSD with 2TB 3D V-NAND technology and transfer speeds of 450 MB\/s. Get more info here : http:\/\/WWW.SAMSUNG.COM\/T3",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "284",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "284",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/974621267-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839006\/2c555a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839006\/2c555a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839006\/2c555\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839006\/2c555\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839006\/2c555\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839006\/2c555\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25839006\/144p_61ac4_Samsung_Galaxy_Tab_Pro_S_and_T3_portable_SSD_-_CES_2016.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:44"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/samsung-galaxy-tab-pro-s-and-t3-portable-ssd-ces-2016\/65648627-25839006"
+        },
+        {
+            "id": "25837980",
+            "title": "Huawei Honor 5X - CES 2016",
+            "date_created": "1452124800",
+            "loginId": "1758381",
+            "tags": "honor 5x, huawei, phone, unlocked, dual sim, smartphone, CES2016, ces, ,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Huawei announces the new Honor 5X. <\/br>\nUnlocked Dual SIM LTE smartphone with three card slots. Supports nano-sim, micro-SIM, and a microSD card up to 128GB. Works with AT&T and T-Mobile Networks.<\/br>\nSleek, robust housing crafted from aircraft-grade aluminum made with four metal finishing processes.<\/br>\nAn accurate fast fingerprint sensor improves with time and unlocks in 0.5 Seconds. Set your fingers as shortcuts to call contacts and take photos.<\/br>\nPowered by Android 5.1 Lollipop with 16GB Internal memory and 2 GB RAM. A Qualcomm 64-bit Octa-Core Processor renders a smooth, responsive experience.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "148",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "148",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/652530294-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/736dda\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/736dda\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/736dd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/736dd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/736dd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/736dd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837980\/144p_98551_Huawei_Honor_5X_-_CES_2016.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:28"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/huawei-honor-5x-ces-2016\/65648627-25837980"
+        },
+        {
+            "id": "25837981",
+            "title": "Razer Stealth Blade and Nabu - CES 2016",
+            "date_created": "1452124800",
+            "loginId": "1758381",
+            "tags": "razer, blade stealth, chroma, nabu, watch, smartwatch, consumer electronics,  CES2016, ces, ,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Co-founder and president of Razer, Robert Krakoff gives us some insight on the new Razer Blade Stealth and the Razer Nabu watch. <\/br>\nThe Razer Blade Stealth has a 2,560x1,440 pixel resolution touchscreen display, a Core i7 processor, 8GB of memory and 128GB of solid-state storage.  <\/br>\nThe new Razer Nabu watch is a dual display that allows you to recieve notifications about text, calls, emails, and alerts from your smartphone. <\/br>",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "366",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "366",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/566205864-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/03c09a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/03c09a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/03c09\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/03c09\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/03c09\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/03c09\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837981\/144p_754f8_Razer_Stealth_Blade_and_Nabu_-_CES_2016.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:06:06"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/razer-stealth-blade-and-nabu-ces-2016\/65648627-25837981"
+        },
+        {
+            "id": "25837991",
+            "title": "Creative Blasterzone and Sound Blaster",
+            "date_created": "1452124800",
+            "loginId": "1758381",
+            "tags": "creative, sound, blaster, h series, headset, speakers, ces2016, ces, consumer electronics, vr, virtual reality,  CES2016, ces, ,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Creative shows us Blasterzone VR headset, the new Sound Blaster X H Series, and Sound Blaster X G5.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "254",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "254",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/952031776-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/fe24ea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/fe24ea\/media.m3u8",
+                "prettyDuration": "00:04:14",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/fe24e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/fe24e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/fe24e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/fe24e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/144p_1c8d2_Creative_-_CES_2016_v01.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/creative-blasterzone-and-sound-blaster\/65648627-25837991"
+        },
+        {
+            "id": "25838001",
+            "title": "Linksys Open WRT - CES 2016",
+            "date_created": "1452124800",
+            "loginId": "1758381",
+            "tags": "linksys, open source, wrt, ces 2015, consumer electronics, carey holzman, router,  CES2016, ces, ,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Imre talks to Carey about open source firmware.Linksys showcases the WRT 1900ACS. <\/br>\nIt has a 1.6 GHz dual-core processor.<\/br>\nWireless-AC, up to 4.3x faster than N technology.<\/br>\nOpen Source ready.<\/br>",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "173",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "173",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/204165927-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/6f8d8a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/6f8d8a\/media.m3u8",
+                "prettyDuration": "00:02:53",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/6f8d8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/6f8d8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/6f8d8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/6f8d8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/144p_69d97_Linksys_Open_WRT_-_CES_2016.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/linksys-open-wrt-ces-2016\/65648627-25838001"
+        },
+        {
+            "id": "16198793",
+            "title": "ASUS ROG PCs - BlizzCon 2015",
+            "date_created": "1446940800",
+            "loginId": "1758381",
+            "tags": "ASUS,ASUS ROG,ASUS Republic of Gamers,ROG,Republic of Gamers,Gaming PC,Gaming,Gaming Laptop,Gaming System,ASUS ROG G752,ASUS ROG G753 Laptop,ASUS ROG G11,ASUS ROG G11 PC,ASUS ROG G11 System,BlizzCon,BlizzCon 2015,Blizzard,Newegg,Newegg.com,Newegg TV,Neweg",
+            "description": "ASUS Republic of Gamers has some gaming PCs to showcase, the ROG G752 Gaming Laptop and the ROG G11 Gaming System.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "110",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "110",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/552805674-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/ee6eba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/ee6eba\/media.m3u8",
+                "prettyDuration": "00:01:50",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/ee6eb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/ee6eb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/ee6eb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/ee6eb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198793\/144p_128d1_BlizzCon_2015_ASUS_V03.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/asus-rog-pcs-blizzcon-2015\/65648627-16198793"
+        },
+        {
+            "id": "16198795",
+            "title": "MSI GS60 Ghost Pro - BlizzCon 2015",
+            "date_created": "1446940800",
+            "loginId": "1758381",
+            "tags": "MSI,MSI GS60,MSI GS60 Ghost Pro,MSI Gaming Laptop,MSI Laptop,BlizzCon,BlizzCon 2015,Blizzard,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Using the latest CPU architecture and faster DDR4 memory support the new Intel 6th Generation Core i7 processors, codenamed Skylake, brings significant improvements to gaming performance, multiple application data processing, and 4K video transcoding delivering superb performance leaps as the next platform for extreme gaming.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "62",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "62",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/169768136-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/2c7b3a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/2c7b3a\/media.m3u8",
+                "prettyDuration": "00:01:02",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/2c7b3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/2c7b3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/2c7b3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/2c7b3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198795\/144p_22d45_BlizzCon_2015_MSI_v05.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/msi-gs60-ghost-pro-blizzcon-2015\/65648627-16198795"
+        },
+        {
+            "id": "16198797",
+            "title": "Samsung 850 Series SSD - BlizzCon 2015",
+            "date_created": "1446940800",
+            "loginId": "1758381",
+            "tags": "Samsung 850 EVO,Samsung 850 Pro,Samsung 950 Pro,Samsung 850,Samsung 950,SSD,Solid State Drive,Samsung SSD,ABS,Thermaltake,BlizzCon,BlizzCon 2015,Blizzard,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview",
+            "description": "Check out Samsung's 850 EVO & 850 Pro SSD, showcased in custom cooled systems by ABS & Thermaltake.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "57",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "57",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/226185709-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198797\/bdb9ca\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198797\/bdb9ca\/media.m3u8",
+                "prettyDuration": "00:00:57",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198797\/bdb9c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198797\/bdb9c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198797\/bdb9c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198797\/bdb9c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198797\/144p_ab4f4_BlizzCon_2015_Samsung_v05.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/samsung-850-series-ssd-blizzcon-2015\/65648627-16198797"
+        },
+        {
+            "id": "16198794",
+            "title": "Lenovo Y900 Desktop - BlizzCon 2015",
+            "date_created": "1446854400",
+            "loginId": "1758381",
+            "tags": "Lenovo,Y900,PC,Desktop,Gaming PC,Gaming Desktop,Lenovo Y900,BlizzCon,BlizzCon 2015,Blizzard,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Milynn shows us what's inside the Lenovo Y900 Desktop System.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "89",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "89",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/204017783-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198794\/a9deaa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198794\/a9deaa\/media.m3u8",
+                "prettyDuration": "00:01:29",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198794\/a9dea\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198794\/a9dea\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198794\/a9dea\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198794\/a9dea\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198794\/144p_59bb4_BlizzCon_2015_Lenovo_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/lenovo-y900-desktop-blizzcon-2015\/65648627-16198794"
+        },
+        {
+            "id": "16198796",
+            "title": "Rosewill Gungnir & Nighthawk 117 Cases - BlizzCon 2015",
+            "date_created": "1446854400",
+            "loginId": "1758381",
+            "tags": "Rosewill,Gungnir,Gungnir Case,Gungnir PC Case,Gungnir Computer Case,Rosewill Gungnir,Rosewill Gungnir Case,Rosewill Nighthawk 117,Rosewill Cases,Nighthawk,BlizzCon,BlizzCon 2015,Blizzard,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electro",
+            "description": "Rosewill shows off their new and upcoming cases.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "114",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "114",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/708877504-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198796\/172e2a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198796\/172e2a\/media.m3u8",
+                "prettyDuration": "00:01:54",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198796\/172e2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198796\/172e2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198796\/172e2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198796\/172e2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198796\/144p_7b51e_BlizzCon_2015_Rosewill_v03.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/rosewill-gungnir-nighthawk-117-cases-blizzcon-2015\/65648627-16198796"
+        }
+    ]
+}

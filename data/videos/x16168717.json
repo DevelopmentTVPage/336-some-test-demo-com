@@ -1,0 +1,102 @@
+{
+    "title": "RND Dock and Sync Cradle Station Overview",
+    "description": "Here's a Dock and Sync Cradle Staion, made by RND Power Solutions. Check out the video for more info!",
+    "referenceId": "4d75883ea2beb7134a10d85e8bb2bdec",
+    "date_created": "1402963200",
+    "date_modified": "1455799528",
+    "tags": "RND,Dock,Samsung,Galaxy,S2,S3,S4,Active,mode,cable,2.1A,Charger,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "lifestyle",
+    "video_category": "smartphones",
+    "age_gate": "no",
+    "video_brand": "rnd",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "11",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168717",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "24",
+    "entityIdParent": "65648629",
+    "titleTextEncoded": "RND-Dock-and-Sync-Cradle-Station-Overview",
+    "category": "",
+    "duration": 118,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "118",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "118",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/570543678-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168717\/36463a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168717\/36463a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168717\/36463\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168717\/36463\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168717\/36463\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168717\/36463\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168717\/36463\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168717\/144p_50973_(06-17-2014)_RND_Rock_and_Cradle_9SIA10W1B01648.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:01:58"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

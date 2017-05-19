@@ -1,0 +1,24 @@
+{
+    "title": "DIY Garage",
+    "description": "When it comes to demistifying technology and breaking down the most complex situations, problems, products and issues, nobody is better than Carey Holzman. From PC builds to product demos to useful tips and pointed interviews, our resident tech expert has a special knack for presenting things in an easy to understand, entertaining way.",
+    "referenceId": null,
+    "date_created": "1462243701",
+    "date_modified": "1462580953",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "65648623",
+    "loginId": "1758381",
+    "entityType": "3",
+    "titleTextEncoded": "DIY-Garage",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(\n RE::videos(\n  RE::condition()\n   ->order('dateCreated')\n )\n   ->channel(6934751)\n);"
+    },
+    "transcripts": null
+}

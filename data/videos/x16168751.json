@@ -1,0 +1,102 @@
+{
+    "title": "ASUS Z97 Deluxe Motherboard Interview",
+    "description": "Paul and J.J. discuss the newest high-end offering from the ASUS Z97 Mainstream series: the Z97 Deluxe. If you're looking for the most feature-packed and future-proof motherboard outside of ASUS RoG, this is the board to buy.",
+    "referenceId": "9920f4ac8b6c8f0905ad4d5e1b8062e0",
+    "date_created": "1399248000",
+    "date_modified": "1455800961",
+    "tags": "z97,haswell,refresh,motherboard,overclocking,deluxe,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "motherboards",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168751",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "64",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "ASUS-Z97-Deluxe-Motherboard-Interview",
+    "category": "",
+    "duration": 972,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "972",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "972",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/145284223-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146aa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146aa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/d146a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168751\/144p_8d873_(05-05-2014)_ASUS_Z97_Deluxe_Motherboard_Interview.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:16:12"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

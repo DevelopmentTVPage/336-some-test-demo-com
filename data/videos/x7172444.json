@@ -1,0 +1,103 @@
+{
+    "title": "World Records Topped using Gigabyte X99 SOC Champion Motherboard - CES 2015",
+    "description": "We got a glimpse of what's new from Gigabyte at their CES 2015 Press Day. They introduce a new motherboard, Brix, and in collaboration with Enermax, showcase a special build honoring the memory of Elaine Su.",
+    "referenceId": "f0179f4f1e3ea71a9aa79e44158053d9",
+    "date_created": "1420502400",
+    "date_modified": "1457140593",
+    "tags": "Gigabyte,X99,Gigabyte X99,Gigabyte X99 SOC Champion,Motherboard,Enermax,Elaine Su,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "motherboards",
+    "age_gate": "no",
+    "video_brand": "gigabyte",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "35",
+    "CVV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7172444",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "65648624",
+    "titleTextEncoded": "World-Records-Topped-using-Gigabyte-X99-SOC-Champion-Motherboard-CES-2015",
+    "category": "",
+    "duration": 121,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "121",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "121",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/677763828-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dcea\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dcea\/media.m3u8",
+        "prettyDuration": "00:02:01",
+        "uploadAsset": true,
+        "quality": "720p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dce\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dce\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dce\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/a8dce\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172444\/144p_5a9e7_CES_2015_-_Gigabyte_Press_Day.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

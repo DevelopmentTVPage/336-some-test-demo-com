@@ -1,0 +1,102 @@
+{
+    "title": "Lepow Modre Bluetooth Speaker Overview",
+    "description": "Here's an Modre Bluetooth Speaker, made by Lepow, Model: Modre-G-US-01. Check out the video for more info!",
+    "referenceId": "90fcab3f160b1d204f576645da9f2711",
+    "date_created": "1397174400",
+    "date_modified": "1455799354",
+    "tags": "Lepow,Modre,Bluetooth,Speakers,green,blue,orange,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "lifestyle",
+    "video_category": "speakers_audio",
+    "age_gate": "no",
+    "video_brand": "lepow",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "9",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168711",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "29",
+    "entityIdParent": "65648629",
+    "titleTextEncoded": "Lepow-Modre-Bluetooth-Speaker-Overview",
+    "category": "",
+    "duration": 376,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "376",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "376",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/828361694-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168711\/b57efa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168711\/b57efa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168711\/b57ef\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168711\/b57ef\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168711\/b57ef\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168711\/b57ef\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168711\/b57ef\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168711\/144p_5bb20_(04-11-2014)_Lepow_Modre_Bluetooth_Speaker_75-945-174_-175_-176.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:06:16"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "title": "G.SKILL Ripjaws Series Power Supplies - Computex 2015",
+    "description": "Joanne shows us the new G.SKILL Ripjaws Series PSUs releasing this August!",
+    "referenceId": "44a5f0b2b8bc8f0e5cd24db7f10a9376",
+    "date_created": "1433289600",
+    "date_modified": "1455784838",
+    "tags": "g.skill,power supplies,psu,ripjaws,modular,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "power_supplies",
+    "age_gate": "no",
+    "video_brand": "gskill",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "33",
+    "CVV_VI": "22",
+    "engagement_score": null,
+    "conversion_score": "1",
+    "id": "7172464",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "46",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "G-SKILL-Ripjaws-Series-Power-Supplies-Computex-2015",
+    "category": "",
+    "duration": 61,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "61",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "61",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/386047199-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/77c22a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/77c22a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/77c22\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/77c22\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/77c22\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/77c22\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/144p_bc020_GSkill_-_PSU_v02-Computex.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:01:01"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "title": "ABS Dreadnought Gaming System Overview",
+    "description": "Here's a gaming system, made by ABS, Model: ALA001. Check out the video for more info!",
+    "referenceId": "70014f99bf11b949fb993bf5208e1432",
+    "date_created": "1413504000",
+    "date_modified": "1457132055",
+    "tags": "ABS,Dreadnought,ALA001,Desktop,PC,AMD,FX-Series,FX-6300,3.50GHz,8GB,DDR3,1TB,HDD,Windows,8.1,64-Bit,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "computer_cases",
+    "age_gate": "no",
+    "video_brand": "abs",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "10",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168522",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "97",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "ABS-Dreadnought-Gaming-System-Overview",
+    "category": "",
+    "duration": 408,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "408",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "408",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/896479395-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816ba\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816ba\/media.m3u8",
+        "prettyDuration": "00:06:48",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/144p_d5e55_(10-17-2014)_ABS_Drednaught_PC_System.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

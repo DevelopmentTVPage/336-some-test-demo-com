@@ -1,0 +1,97 @@
+{
+    "title": "ASUS ROG G751 G-Sync Gaming Laptop - Computex 2015",
+    "description": "Check out the new ASUS ASUS ROG G751 G-Sync Gaming Laptop.",
+    "referenceId": "74e68af0055ff528bb60efde87d0cbe3",
+    "date_created": "1433635200",
+    "date_modified": "1457139106",
+    "tags": "ASUS,ROG,G751,G-Sync,Gaming Laptop,computex,republic of gamers,shadow play,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "laptops",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7172434",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "33",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "ASUS-ROG-G751-G-Sync-Gaming-Laptop-Computex-2015",
+    "category": "",
+    "duration": 55,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "55",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "55",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/719464034-0219201074.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172434\/5a79ea\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172434\/5a79ea\/media.m3u8",
+        "prettyDuration": "00:00:55",
+        "uploadAsset": true,
+        "quality": "720p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172434\/5a79e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172434\/5a79e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172434\/5a79e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172434\/5a79e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172434\/144p_6f870_ASUS_G751_-__Computex_2015.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

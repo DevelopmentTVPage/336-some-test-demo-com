@@ -1,0 +1,104 @@
+{
+    "title": "LG G Pad 8.3 Tablet QPair Tutorial",
+    "description": "Here is a tutorial on how to use QPair between the LG GPad 8.3 tablet and LG G2 smartphone. QPair consists of 6 features that sync the tablet with the smartphone.<\/br>\n<\/br>\nIf you aren't near your smartphone, but have your tablet on you, then you'll be able to respond to calls\/messages straight from your tablet, as you receive them from your smartphone.\nOther features include social media notifications, QMemo, internet sharing, and recent apps. <\/br>\n<\/br>\nYou'll find an easy guide on how to use each of these features in this video. Enjoy!",
+    "referenceId": "fcd9fd74137be8e068315def1226669b",
+    "date_created": "1395878400",
+    "date_modified": "1456961605",
+    "tags": "LG,Pad,8.3,Tablet,Quad-Core,2GB,RAM,16GB,Flash,HD,Display,Android,4.2,White,Black,QPair,Sync,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "howtos",
+    "video_category": "tablets",
+    "age_gate": "no",
+    "video_brand": "lg",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "22",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168707",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "30",
+    "entityIdParent": "65648629",
+    "titleTextEncoded": "LG-G-Pad-8-3-Tablet-QPair-Tutorial",
+    "category": "",
+    "duration": 509,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "509",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "509",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/616540145-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168707\/a43ffa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168707\/a43ffa\/media.m3u8",
+        "prettyDuration": "00:08:29",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168707\/a43ff\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168707\/a43ff\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168707\/a43ff\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168707\/a43ff\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168707\/a43ff\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168707\/144p_3d095_(03-27-2014)_LG_GPAD_8.3.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

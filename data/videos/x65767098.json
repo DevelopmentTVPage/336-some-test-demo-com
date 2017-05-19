@@ -1,0 +1,103 @@
+{
+    "title": "ZTE Axon Pro",
+    "description": "Beauty. And a total beast. Inspired by your suggestions, Axons super-simplified Android interface pairs full-bleed images with large, elegant type for a high-end look and feel. It also comes with 4GB memory and a large battery for all-around high performance under the hood. Your understated, yet instantly recognizable sense of style is all over Axon, including a sleek metallic body and signature grill design.",
+    "referenceId": "5cc90e2d15e9e5a4408a4e818be91a3b",
+    "date_created": "1463184783",
+    "date_modified": "1476392108",
+    "tags": "75-705-043, 75-705-042, 75-705-044, 75-705-034, 75-705-035, 75-705-036",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "smartphones",
+    "age_gate": null,
+    "video_brand": "zte",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": "featured_yes",
+    "VV_VI": "257",
+    "CVV_VI": "52",
+    "engagement_score": "3",
+    "conversion_score": "2",
+    "id": "65767098",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "ZTE-Axon-Pro",
+    "category": "",
+    "duration": 281,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "281",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "281",
+        "prettyDuration": "00:04:41",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/727918098-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/65767098\/3838d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

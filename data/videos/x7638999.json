@@ -1,0 +1,109 @@
+{
+    "title": "NVIDIA SHIELD Tablet Interview",
+    "description": "Here's a Tablet, made by NVIDIA, Model: SHIELD. Check out the video for more info!<br \/>\n<br \/>\nThe NVIDIA SHIELD tablet is a high-performance tablet that transforms into a serious gaming machine with the SHIELD controller and NVIDIA GRID\u2122 game streaming service.<br \/>\nGet incredible graphics wherever you go with the NVIDIA Tegra K1 processor, NVIDIA gaming supercomputers in the cloud.<br \/>",
+    "referenceId": "0d56d0a082fdbe64d8a825381b7e223e",
+    "date_created": "1405987200",
+    "date_modified": "1455789670",
+    "tags": "NVIDIA,SHIELD,Tablet,gaming,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "tablets",
+    "age_gate": "no",
+    "video_brand": "nvidia",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "27",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638999",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "49",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "NVIDIA-SHIELD-Tablet-Interview",
+    "category": "",
+    "duration": 1430,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1430",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1430",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/115327394-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638999\/51319a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638999\/51319a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638999\/51319\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638999\/51319\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638999\/51319\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638999\/51319\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638999\/51319\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638999\/144p_68b39_NVIDIA_SHIELD_Tablet_Interview_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:23:50"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

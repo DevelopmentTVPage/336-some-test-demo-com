@@ -1,0 +1,95 @@
+{
+    "title": "G.SKILL OC World Record Stage - Computex 2015",
+    "description": "G.SKILL OC World Record Stage! MSI, ASUS, EVGA, GIGABYTE,ASRock all breaking records with G.SKILL memory.",
+    "referenceId": "9f453944816ed55ddb98ca9e66015c90",
+    "date_created": "1433635200",
+    "date_modified": "1455784818",
+    "tags": "newegg,computex,taipei,g.skill,msi,gigabyte,evga,asrock,world record stage,overclocking,motherboard,memory,ln2,asus",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "memory",
+    "age_gate": "no",
+    "video_brand": "gskill",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7172461",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "31",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "G-SKILL-OC-World-Record-Stage-Computex-2015",
+    "category": "",
+    "duration": 219,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "219",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "219",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/551158413-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172461\/ae252a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172461\/ae252a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172461\/ae252\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172461\/ae252\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172461\/ae252\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172461\/ae252\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172461\/144p_a2a08_GSkill_-_Interviews_OCWBS_V01_-_Computex.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:39"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

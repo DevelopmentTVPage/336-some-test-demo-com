@@ -1,0 +1,108 @@
+{
+    "title": "Roccat Kiro: Flash Review",
+    "description": "We take a look at the new Roccat Kiro \"super-dexterous\" gaming mouse and offer our first impressions. The mouse offers hot-swappable side panels, and full RGB lighting, and ROCCAT has discussed the possibility of 3D-printing support post-launch.",
+    "referenceId": "8242b3bacdbecd7e17dad5e2e782d375",
+    "date_created": "1448582400",
+    "date_modified": "1455805591",
+    "tags": "roccat kiro, roccat, gaming mice",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": null,
+    "video_category": "peripherals",
+    "age_gate": null,
+    "video_brand": "roccat",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "17",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25765759",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "Roccat-Kiro-Flash-Review",
+    "category": "",
+    "duration": 208,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "208",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "208",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765759\/thumb-8242b3bacdbecd7e17dad5e2e782d375-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765759\/db4ada\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765759\/db4ada\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765759\/db4ad\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765759\/db4ad\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765759\/db4ad\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765759\/db4ad\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765759\/db4ad\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25765759\/144p_d4e41_gamecrate-roccat-kiro-review-1.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:28"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Best CE Partner of the Year",
+    "description": "Best CE Partner of the Year",
+    "referenceId": "2aa9b095cb1d82b3b4cf5d02b2fcbb0c",
+    "date_created": "1455806160",
+    "date_modified": "1469834169",
+    "tags": "Eggies, Awards, LG",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "archived",
+    "video_type": null,
+    "video_category": null,
+    "age_gate": null,
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25842928",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "25841682",
+    "titleTextEncoded": "Best-CE-Partner-of-the-Year",
+    "category": "",
+    "duration": 51,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "51",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "51",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/738217345-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842928\/247efa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842928\/247efa\/media.m3u8",
+        "prettyDuration": "00:00:51",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842928\/247ef\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842928\/247ef\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842928\/247ef\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842928\/247ef\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842928\/247ef\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25842928\/144p_4a9d8_03_-_Best_CE_Partner_-_LG.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

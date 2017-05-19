@@ -1,0 +1,103 @@
+{
+    "title": "Advancing CPU Cooling Technology - Cooler Master at CES 2015",
+    "description": "Cooler Master and CoolChip Technologies showcase what they're doing to advance CPU cooling techniques.",
+    "referenceId": "7a84cf1f26b898c35b537cebdd1c8363",
+    "date_created": "1420675200",
+    "date_modified": "1457139930",
+    "tags": "Cooler Master,Heat Sink,CoolChip Technologies,CPU,CPU Cooling,CES,CES 2015,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": "cooler_master",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "82",
+    "CVV_VI": "18",
+    "engagement_score": "1",
+    "conversion_score": "1",
+    "id": "7172440",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "65648624",
+    "titleTextEncoded": "Advancing-CPU-Cooling-Technology-Cooler-Master-at-CES-2015",
+    "category": "",
+    "duration": 534,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "534",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "534",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/338864200-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846fa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846fa\/media.m3u8",
+        "prettyDuration": "00:08:54",
+        "uploadAsset": true,
+        "quality": "720p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/1846f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172440\/144p_8ef7a_CES_2015_-_Cooler_Master.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

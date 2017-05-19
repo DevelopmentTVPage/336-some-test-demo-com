@@ -1,0 +1,1400 @@
+{
+    "pageNumber": 2,
+    "data": [
+        {
+            "id": "7172433",
+            "title": "ASUS FreeSync Monitors - Computex 2015",
+            "date_created": "1433462400",
+            "loginId": "1758381",
+            "tags": "freesync,monitors,asus,computex 2015,quad HD,144hz refresh rate,ips panel,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Get the specs of the new FreeSync MG279Q and MG278Q monitors by ASUS.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "73",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "73",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/864238446-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172433\/486dfa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172433\/486dfa\/media.m3u8",
+                "prettyDuration": "00:01:13",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172433\/486df\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172433\/486df\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172433\/486df\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172433\/486df\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172433\/144p_48378_ASUS_Freesync_Monitors__-__Computex_2015_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/asus-freesync-monitors-computex-2015\/65648627-7172433"
+        },
+        {
+            "id": "7172435",
+            "title": "ASUS Zenpad - Computex 2015",
+            "date_created": "1433462400",
+            "loginId": "1758381",
+            "tags": "asus,zenpad,computex,taipei,zen,tablet,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Check out the new ASUS Zenpad at Computex. This Zenpad is the worlds first tablet with 4GB of memory and an interchangable backcover to give you more options!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "86",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "86",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/915496110-0219201074.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172435\/1d609a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172435\/1d609a\/media.m3u8",
+                "prettyDuration": "00:01:26",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172435\/1d609\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172435\/1d609\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172435\/1d609\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172435\/1d609\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172435\/144p_3073f_ASUS_Zenpad_-_Computex_2015_v03.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/asus-zenpad-computex-2015\/65648627-7172435"
+        },
+        {
+            "id": "7172459",
+            "title": "Gigabyte Z170X-Gaming G1 Motherboard - Computex 2015",
+            "date_created": "1433376000",
+            "loginId": "1758381",
+            "tags": "Gigabyte,Z170X-Gaming,G1,Motherboard,computex,taipei computex,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Leon from Gigabyte shows us the new Z170X-Gaming G1 Motherboard.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "290",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "290",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/799169402-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172459\/8e768a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172459\/8e768a\/media.m3u8",
+                "prettyDuration": "00:04:50",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172459\/8e768\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172459\/8e768\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172459\/8e768\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172459\/8e768\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172459\/144p_a7f82_Gigabyte_Motherboard-_Computex_2015.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/gigabyte-z170x-gaming-g1-motherboard-computex-2015\/65648627-7172459"
+        },
+        {
+            "id": "7172432",
+            "title": "ASUS ROG Curved G-Sync Monitor - Computex 2015",
+            "date_created": "1433376000",
+            "loginId": "1758381",
+            "tags": "asus,rog,gsync,monitor,curved,ips,display,republic of gamers,computex 2015,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Check out the new ASUS ROG G-SYNC curved monitor with IPS!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "53",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "53",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/249776571-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172432\/c4989a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172432\/c4989a\/media.m3u8",
+                "prettyDuration": "00:00:53",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172432\/c4989\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172432\/c4989\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172432\/c4989\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172432\/c4989\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172432\/144p_a5ee5_ASUS_Curve_Monitor_-_Computex_2015.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/asus-rog-curved-g-sync-monitor-computex-2015\/65648627-7172432"
+        },
+        {
+            "id": "7172460",
+            "title": "G.SKILL DDR4 Ripjaws 4 and Trident Z - Computex 2015",
+            "date_created": "1433289600",
+            "loginId": "1758381",
+            "tags": "g.skill,ripjaws 4,ddr4,trident z,memory,overclocking,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "G.SKILL shows off their Ripjaws 4 memory and the new Trident Z.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "79",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "79",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/943378814-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172460\/12fdca\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172460\/12fdca\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172460\/12fdc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172460\/12fdc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172460\/12fdc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172460\/12fdc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172460\/144p_c2796_GSkill_-_DDR4_v03.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:19"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/g-skill-ddr4-ripjaws-4-and-trident-z-computex-2015\/65648627-7172460"
+        },
+        {
+            "id": "7172462",
+            "title": "G.SKILL OC World Cup  - Computex 2015",
+            "date_created": "1433289600",
+            "loginId": "1758381",
+            "tags": "g.skill,benchmarks,overclockers,firestrike,highest memory frequency,maxxmem,super pi 32m,computex 2015,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "6 Overclockers. 4 Benchmarks. 1 Grand Prize! Mark from G.SKILL lets us know the type of benchmarks the overclockers will be running through the competition.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "109",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "109",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/606247873-0219201074.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172462\/8d298a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172462\/8d298a\/media.m3u8",
+                "prettyDuration": "00:01:49",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172462\/8d298\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172462\/8d298\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172462\/8d298\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172462\/8d298\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172462\/144p_4aad9_GSkill_-_OC_World_Cup_Intro_v02-Computex.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/g-skill-oc-world-cup-computex-2015\/65648627-7172462"
+        },
+        {
+            "id": "7172464",
+            "title": "G.SKILL Ripjaws Series Power Supplies - Computex 2015",
+            "date_created": "1433289600",
+            "loginId": "1758381",
+            "tags": "g.skill,power supplies,psu,ripjaws,modular,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Joanne shows us the new G.SKILL Ripjaws Series PSUs releasing this August!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "61",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "61",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/386047199-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/77c22a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/77c22a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/77c22\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/77c22\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/77c22\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/77c22\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172464\/144p_bc020_GSkill_-_PSU_v02-Computex.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:01"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/g-skill-ripjaws-series-power-supplies-computex-2015\/65648627-7172464"
+        },
+        {
+            "id": "7172457",
+            "title": "Corsair Strafe Mechanical Keyboard - Computex 2015",
+            "date_created": "1433203200",
+            "loginId": "1758381",
+            "tags": "Corsair,strafe,keyboard,cherry mx red,mx brown,mechanical keyboard,mechanical switches,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a look at the new Corsair Strafe keyboard! Fully mechanical featuring MX Red and Brown switches.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "59",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "59",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/421080443-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172457\/da3d3a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172457\/da3d3a\/media.m3u8",
+                "prettyDuration": "00:00:59",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172457\/da3d3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172457\/da3d3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172457\/da3d3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172457\/da3d3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172457\/144p_0162d_Corsair_Strafe_-_Computex_2015_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/corsair-strafe-mechanical-keyboard-computex-2015\/65648627-7172457"
+        },
+        {
+            "id": "7172456",
+            "title": "Corsair Bulldog - Computex 2015",
+            "date_created": "1433203200",
+            "loginId": "1758381",
+            "tags": "computex,corsair,bulldog,all in one,aio,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Joanne checks out the unveiling of the Corsair Bulldog. 4K gaming that fits into a mini-ITX case!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "84",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "84",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/424280198-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172456\/91334a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172456\/91334a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172456\/91334\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172456\/91334\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172456\/91334\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172456\/91334\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172456\/144p_37e1a_Corsair_Bulldog_-_Computex_2015_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:01:24"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/corsair-bulldog-computex-2015\/65648627-7172456"
+        },
+        {
+            "id": "7172425",
+            "title": "Monster Madness",
+            "date_created": "1426464000",
+            "loginId": "1758381",
+            "tags": "monster,speakers,headset,headphones,shaq,shaq fu,hybrid center,card charger,back float speaker,speaker,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Monster Speakers. Monster Headphones. Monster Event! Check out the video to see the awesome Monster products!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "124",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "124",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/134134009-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/a81a2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172425\/144p_7cfdd_(03-16-2015)_Monster_Madness_v03.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:04"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/monster-madness\/65648627-7172425"
+        },
+        {
+            "id": "7172411",
+            "title": "State of Decay: Year One Survival Edition - XBOX @ PAX East 2015",
+            "date_created": "1426032000",
+            "loginId": "1758381",
+            "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,Xbox,Microsoft,Xbox One,Fable Legends,Cross-Pl",
+            "description": "Find out what's new in  State of Decay: Year One Survival Edition.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "149",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "149",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/227017944-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172411\/e9701a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172411\/e9701a\/media.m3u8",
+                "prettyDuration": "00:02:29",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172411\/e9701\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172411\/e9701\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172411\/e9701\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172411\/e9701\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172411\/e9701\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172411\/144p_d6d26_State_of_Decay_v02-PAX.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/state-of-decay-year-one-survival-edition-xbox-pax-east-2015\/65648627-7172411"
+        },
+        {
+            "id": "7172458",
+            "title": "Fable Legends Cross-Play Enabled - XBOX @ PAX East 2015",
+            "date_created": "1425945600",
+            "loginId": "1758381",
+            "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,Xbox,Microsoft,Xbox One,Fable Legends,Cross-Pl",
+            "description": "At the Xbox booth Steve uncovers more details on Fable Legends.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "103",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "103",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/685734268-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172458\/833d5a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172458\/833d5a\/media.m3u8",
+                "prettyDuration": "00:01:43",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172458\/833d5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172458\/833d5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172458\/833d5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172458\/833d5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172458\/833d5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172458\/144p_f0177_Fable_Legends_v02_-_PAX.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/fable-legends-cross-play-enabled-xbox-pax-east-2015\/65648627-7172458"
+        },
+        {
+            "id": "7172424",
+            "title": "Pollen on Oculus @ PAX East 2015",
+            "date_created": "1425772800",
+            "loginId": "1758381",
+            "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,Pollen,Oculus,Virtual Reality,Science Fiction,",
+            "description": "We get a first hand experience with Pollen, a Sci-Fi exploratory game in virtual reality.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "194",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "194",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/693646855-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172424\/8b01fa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172424\/8b01fa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172424\/8b01f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172424\/8b01f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172424\/8b01f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172424\/8b01f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172424\/8b01f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172424\/144p_2d9b3_(03-08-2015_PAX_East_2015_Pollen_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:14"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/pollen-on-oculus-pax-east-2015\/65648627-7172424"
+        },
+        {
+            "id": "7172420",
+            "title": "Pairing Systems with Games - Cooler Master @ PAX East 2015",
+            "date_created": "1425772800",
+            "loginId": "1758381",
+            "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,Cooler Master,CM Storm,Styker,CM Storm Stryker",
+            "description": "Cooler Master designs three systems to pair with specific games.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "165",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "165",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/311685947-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172420\/e6119a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172420\/e6119a\/media.m3u8",
+                "prettyDuration": "00:02:45",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172420\/e6119\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172420\/e6119\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172420\/e6119\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172420\/e6119\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172420\/e6119\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172420\/144p_90499_(03-08-2015_PAX_East_2015_Cooler_Master_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/pairing-systems-with-games-cooler-master-pax-east-2015\/65648627-7172420"
+        },
+        {
+            "id": "7172421",
+            "title": "Gigabyte X99 Motherboards - PAX East 2015",
+            "date_created": "1425772800",
+            "loginId": "1758381",
+            "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,Gigabyte,Gigabyte Motherboard,Motherboard,SOC",
+            "description": "Leon shows off the capabilities of the X99 chipset in their SOC Champion and Gaming 5 Micro ATX.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "164",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "164",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/217258948-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172421\/0a8aaa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172421\/0a8aaa\/media.m3u8",
+                "prettyDuration": "00:02:44",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172421\/0a8aa\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172421\/0a8aa\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172421\/0a8aa\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172421\/0a8aa\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172421\/0a8aa\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172421\/144p_06862_(03-08-2015_PAX_East_2015_Gigabyte_v03.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/gigabyte-x99-motherboards-pax-east-2015\/65648627-7172421"
+        },
+        {
+            "id": "7172422",
+            "title": "HyperX DDR4 Memory @ PAX East 2015",
+            "date_created": "1425772800",
+            "loginId": "1758381",
+            "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,HyperX,Kingston,DDR4,Memory,Cloud II,Cloud II",
+            "description": "We get the specs on HyperX DDR4 memory.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "225",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "225",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/567549471-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172422\/9b150a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172422\/9b150a\/media.m3u8",
+                "prettyDuration": "00:03:45",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172422\/9b150\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172422\/9b150\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172422\/9b150\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172422\/9b150\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172422\/9b150\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172422\/144p_096d3_(03-08-2015_PAX_East_2015_HyperX_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/hyperx-ddr4-memory-pax-east-2015\/65648627-7172422"
+        },
+        {
+            "id": "7172423",
+            "title": "4K AIO PC - MSI @ PAX East 2015",
+            "date_created": "1425772800",
+            "loginId": "1758381",
+            "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,MSI,MSI AG240 4K AIO,AG240 4K,4K Display,Z97 G",
+            "description": "From MSI we take a look at some interesting USB ports on their Z97 Gaming 6 Motherboard and the world's first 4K all-in-one PC.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "246",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "246",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/423529701-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/e149da\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/e149da\/media.m3u8",
+                "prettyDuration": "00:04:06",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/e149d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/e149d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/e149d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/e149d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172423\/144p_7dcea_(03-08-2015_PAX_East_2015_MSI_v04.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/4k-aio-pc-msi-pax-east-2015\/65648627-7172423"
+        },
+        {
+            "id": "7172416",
+            "title": "4GB GTX 960 - EVGA @ PAX East 2015",
+            "date_created": "1425686400",
+            "loginId": "1758381",
+            "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,4GB Video Card,4GB GTX 960,EVGA,NVIDIA,Awesome",
+            "description": "Steve gets the scoop on the capabilities of the 4GB GeForce GTX 960 video card.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "155",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "155",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/535556518-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172416\/d8e30a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172416\/d8e30a\/media.m3u8",
+                "prettyDuration": "00:02:35",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172416\/d8e30\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172416\/d8e30\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172416\/d8e30\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172416\/d8e30\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172416\/144p_b35b7_(03-07-2015)_PAX_East_2015_EVGA_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/4gb-gtx-960-evga-pax-east-2015\/65648627-7172416"
+        },
+        {
+            "id": "7172417",
+            "title": "Intel May Release a Consumer NVMe Drive - PAX East 2015",
+            "date_created": "1425686400",
+            "loginId": "1758381",
+            "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,Intel NVMe Drive NVMe",
+            "description": "Intel provides very few details on their upcoming NVMe drive release.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "152",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "152",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/503540720-0219201079.JPG",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172417\/4e4c5a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172417\/4e4c5a\/media.m3u8",
+                "prettyDuration": "00:02:32",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172417\/4e4c5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172417\/4e4c5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172417\/4e4c5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172417\/4e4c5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172417\/4e4c5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172417\/144p_ae818_(03-07-2015)_PAX_East_2015_Intel_v03.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/intel-may-release-a-consumer-nvme-drive-pax-east-2015\/65648627-7172417"
+        },
+        {
+            "id": "7172418",
+            "title": "OCZ Vector 180 SSD - PAX East 2015",
+            "date_created": "1425686400",
+            "loginId": "1758381",
+            "tags": "PAX East,PAX East 2015,Penny Arcade Expo,Gaming,PC Gaming,Console Gaming,Gaming Expo,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,OCZ,Vector 180,OCZ Vector 180 SSD,SSD,Solid St",
+            "description": "Get the performance specs of the Vector 180 SSD from OCZ.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "187",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "187",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/100098064-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172418\/c605fa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172418\/c605fa\/media.m3u8",
+                "prettyDuration": "00:03:07",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172418\/c605f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172418\/c605f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172418\/c605f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172418\/c605f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172418\/c605f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172418\/144p_4f054_(03-07-2015)_PAX_East_2015_OCZ_v03.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/ocz-vector-180-ssd-pax-east-2015\/65648627-7172418"
+        }
+    ]
+}

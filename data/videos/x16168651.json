@@ -1,0 +1,108 @@
+{
+    "title": "Corsair AX 1500i PSU Overview",
+    "description": "Here's a AX1500i 1500W ATX12V \/ EPS12V 80 PLUS Titanium certified Full Modular Power Supply, made by CORSAIR, Model: CP-9020057-NA. Check out the video for more info!",
+    "referenceId": "f712bbc168cd3db10468dbdb22bd8552",
+    "date_created": "1401753600",
+    "date_modified": "1455797654",
+    "tags": "CORSAIR,AX1500i,CP-9020057-NA,1500W,ATX12V,EPS12V,80,PLUS,Titanium,certified,Full,Modular,Power,Supply,ATX12V \/ EPS12V,Full Modular,80 PLUS Titanium certified,100,240 V,50\/60 Hz,+3.3V@30A,+5V@30A,+12V@125A,-12V@0.8A,+5Vsb@3.5A,Newegg,Newegg.com,Newegg TV,",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "power_supplies",
+    "age_gate": "no",
+    "video_brand": "corsair",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "10",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168651",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "131",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Corsair-AX-1500i-PSU-Overview",
+    "category": "",
+    "duration": 457,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "457",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "457",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/853272098-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168651\/be314a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168651\/be314a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168651\/be314\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168651\/be314\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168651\/be314\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168651\/be314\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168651\/be314\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168651\/144p_000ac_(06-03-2014)_Corsair_AX_1500i_PSU_17-139-079.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:07:37"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

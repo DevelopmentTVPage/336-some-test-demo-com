@@ -1,0 +1,97 @@
+{
+    "title": "Kingston HyperX SO-DIMMs, HyperX Fury, Predator PCIe SSD  @ CES 2014",
+    "description": "Kingston HyperX SO-DIMMs, HyperX Fury, Predator PCIe SSD, High Capacity mSATA, &  E100 Server SSDs @ CES 2014",
+    "referenceId": "0e76344cfed4ee36626e4aeb4b55eb5f",
+    "date_created": "1389139200",
+    "date_modified": "1457050767",
+    "tags": "Kingston,HyperX,SO-DIMMs,HyperX Fury,Predator PCIe SSD,mSATA,E100 Server SSD,SSD,Solid State Drive,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,co",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "memory",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16198776",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "92",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "Kingston-HyperX-SO-DIMMs-HyperX-Fury-Predator-PCIe-SSD-CES-2014",
+    "category": "",
+    "duration": 697,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "697",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "697",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/766835624-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198776\/a2fd5a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198776\/a2fd5a\/media.m3u8",
+        "prettyDuration": "00:11:37",
+        "uploadAsset": true,
+        "quality": "720p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198776\/a2fd5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198776\/a2fd5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198776\/a2fd5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198776\/a2fd5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198776\/144p_6eddc_(01-08-2014)_CES_2014_Kingston_#1_-_Memory_&_SSDS.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

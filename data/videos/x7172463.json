@@ -1,0 +1,104 @@
+{
+    "title": "G.SKILL Ripjaws Series Peripherals - Computex 2015",
+    "description": "G.SKILL shows off the new Ripjaws series RGB peripherals coming this July!",
+    "referenceId": "054b4ad6e71255a88bbf680d3383e3fa",
+    "date_created": "1433462400",
+    "date_modified": "1457133772",
+    "tags": "g.skill,computex,taipei computex,ripjaws series,km780mx,cherry mx switches,gaming mouse,gaming keyboard,sr910,7.1 surround sound,50mm drivers,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tou",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "peripherals",
+    "age_gate": "no",
+    "video_brand": "gskill",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "4",
+    "CVV_VI": "19",
+    "engagement_score": null,
+    "conversion_score": "1",
+    "id": "7172463",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "39",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "G-SKILL-Ripjaws-Series-Peripherals-Computex-2015",
+    "category": "",
+    "duration": 113,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "113",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "113",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/775348833-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172463\/443f9a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172463\/443f9a\/media.m3u8",
+        "prettyDuration": "00:01:53",
+        "uploadAsset": true,
+        "quality": "720p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172463\/443f9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172463\/443f9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172463\/443f9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172463\/443f9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172463\/144p_03fd2_GSkill_-_Peripherals_v03-Computex.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

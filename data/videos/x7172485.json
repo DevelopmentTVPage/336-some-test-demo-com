@@ -1,0 +1,108 @@
+{
+    "title": "Loading Human Developer Talks Making the Game, Virtual Reality Gaming",
+    "description": "GameCrate editor Q. Salazar speaks with Flavio Parenti of Untold Games at E3 2015 about the upcoming virtual reality game, Loading Human. The game will be available on Sony's Project Morpheus, Oculus Rift, and the Valve\/HTC Vive headset next year when it's published by Maximum Games.",
+    "referenceId": "7e2bc32ba8cf467268f07a3797c2d2ce",
+    "date_created": "1434499200",
+    "date_modified": "1455786973",
+    "tags": "loading human, virtual reality, vr, gaming, gamecrate, e3, electronics expo, newegg, computer,pc",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "gaming",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "3",
+    "CVV_VI": "19",
+    "engagement_score": null,
+    "conversion_score": "1",
+    "id": "7172485",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "15",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "Loading-Human-Developer-Talks-Making-the-Game-Virtual-Reality-Gaming",
+    "category": "",
+    "duration": 277,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "277",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "277",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172485\/thumb-7e2bc32ba8cf467268f07a3797c2d2ce-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172485\/add06a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172485\/add06a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172485\/add06\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172485\/add06\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172485\/add06\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172485\/add06\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172485\/add06\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172485\/144p_7fdba_(06-17-2015)_E3_-_Day_1__-__Maximum_Games_v03.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:37"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

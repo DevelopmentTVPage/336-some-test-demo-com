@@ -1,0 +1,102 @@
+{
+    "title": "HGST UltraStar Helium \"He6\" 6TB Hard Drive Overview",
+    "description": "Here's a Hard Drive, made by HGST, Model: He6. Check out the video for more info!",
+    "referenceId": "30cdda79dc7d6126fba24e19144c4a78",
+    "date_created": "1409702400",
+    "date_modified": "1455798631",
+    "tags": "HGST,He6,6TB,7200,RPM,64MB,Cache,SATA,6.0Gb\/s,Enterprise,Hard,Drive,helium,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "storage",
+    "age_gate": "no",
+    "video_brand": "hgst",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168678",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "110",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "HGST-UltraStar-Helium-He6-6TB-Hard-Drive-Overview",
+    "category": "",
+    "duration": 270,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "270",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "270",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/666455436-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168678\/3b944a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168678\/3b944a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168678\/3b944\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168678\/3b944\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168678\/3b944\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168678\/3b944\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168678\/3b944\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168678\/144p_b4b27_(09-03-2014)_HGST_Ultrastar_Helo_HDD_22-145-950.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:30"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

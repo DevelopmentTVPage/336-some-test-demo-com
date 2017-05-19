@@ -1,0 +1,102 @@
+{
+    "title": "HGST Deskstar NAS 3.5\" High-Performance Hard Drive for Desktop NAS Systems Overview",
+    "description": "The Deskstar NAS hard drive is a 7200 RPM 3.5-inch hard drive that provides an exceptional blend of reliability and performance, making it an ideal solution for consumer and commercial desktop NAS systems. This NAS-ready hard drive from HGST delivers media transfer rates that are as much as 20% faster than 5400 RPM drives and seek times less than 12ms. Furthermore, Deskstar NAS hard drives incorporate a rotational vibration sensor and achieve reliability of 1M hours MTBF.All HGST hard drives are designed to the highest quality standards with field-proven components.They are backed by HGST worldwide technical support and integration services, enabling customers around the globe to bring their products to market quickly.",
+    "referenceId": "e8eab8fd65068f6c2afa687aabdbce32",
+    "date_created": "1392249600",
+    "date_modified": "1455794326",
+    "tags": "HGST,Deskstar,NAS,H3IKNAS30003272SN,0S03660,3TB,7200,RPM,64MB,Cache,SATA,6.0Gb\/s,3.5,High-Performance Hard Drive for Desktop NAS Systems Bare Drive,Newegg,Newegg.com",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "storage",
+    "age_gate": "no",
+    "video_brand": "western_digital",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168575",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "194",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "HGST-Deskstar-NAS-3-5-High-Performance-Hard-Drive-for-Desktop-NAS-Systems-Overview",
+    "category": "",
+    "duration": 106,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "106",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "106",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/972603306-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168575\/70b18a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168575\/70b18a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168575\/70b18\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168575\/70b18\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168575\/70b18\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168575\/70b18\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168575\/70b18\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168575\/144p_751b9_(02-13-2014)_HGST_DeskStar_NAS_22-145-911_-912.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:01:46"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

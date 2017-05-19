@@ -1,0 +1,108 @@
+{
+    "title": "Rosewill RHRC-13001 5.5-Cup(Uncooked) Fuzzy Logic Rice Cooker Overview",
+    "description": "Cook restaurant-quality rice with the Rosewill RHRC-13001 5.5-Cup Rice Cooker. It utilizes three-dimensional heating and steam controlling technology for perfect, healthy results. The multi-function options allow you to choose your preferred cooking process. It also features an LCD display, measuring cup, and scoop. In addition, it's easy to clean.",
+    "referenceId": "434b0d74209c4b1608dfa30b501dc37f",
+    "date_created": "1393372800",
+    "date_modified": "1455799035",
+    "tags": "Rosewill,RHRC-13001,5.5-Cup,Uncooked,Fuzzy,Logic,Rice,Cooker,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "lifestyle",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": "rosewill",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "5",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168701",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "181",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Rosewill-RHRC-13001-5-5-Cup-Uncooked-Fuzzy-Logic-Rice-Cooker-Overview",
+    "category": "",
+    "duration": 346,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "346",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "346",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/154489741-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168701\/97ef6a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168701\/97ef6a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168701\/97ef6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168701\/97ef6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168701\/97ef6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168701\/97ef6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168701\/97ef6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168701\/144p_aaecd_(02-26-2014)_Rosewill_Fuzzy_Logic_Rice_Cooker_96-268-065_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:05:46"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

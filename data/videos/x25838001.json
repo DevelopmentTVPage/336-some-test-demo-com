@@ -1,0 +1,103 @@
+{
+    "title": "Linksys Open WRT - CES 2016",
+    "description": "Imre talks to Carey about open source firmware.Linksys showcases the WRT 1900ACS. <\/br>\nIt has a 1.6 GHz dual-core processor.<\/br>\nWireless-AC, up to 4.3x faster than N technology.<\/br>\nOpen Source ready.<\/br>",
+    "referenceId": "f8fbff34344280c91de4632abfddd76e",
+    "date_created": "1452124800",
+    "date_modified": "1457133274",
+    "tags": "linksys, open source, wrt, ces 2015, consumer electronics, carey holzman, router,  CES2016, ces, ,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "networking",
+    "age_gate": "no",
+    "video_brand": "linksys",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "19",
+    "CVV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25838001",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "14",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "Linksys-Open-WRT-CES-2016",
+    "category": "",
+    "duration": 173,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "173",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "173",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/204165927-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/6f8d8a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/6f8d8a\/media.m3u8",
+        "prettyDuration": "00:02:53",
+        "uploadAsset": true,
+        "quality": "720p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/6f8d8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/6f8d8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/6f8d8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/6f8d8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25838001\/144p_69d97_Linksys_Open_WRT_-_CES_2016.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

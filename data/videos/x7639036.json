@@ -1,0 +1,103 @@
+{
+    "title": "Antec P380 Computer Case Overview",
+    "description": "Here's an Full Tower Aluminum Computer Case, made by Antec, Model: P380. Check out the video for more info!<br \/>\n<br \/>\nAntec P380 Computer Case Overview - Newegg TV",
+    "referenceId": "b492205b2596639dfd8929aa2e2e3402",
+    "date_created": "1428537600",
+    "date_modified": "1455790547",
+    "tags": "Antec,P380,Black,Aluminum,ATX,Full Tower,Computer Case,chassis,atx full tower,Micro ATX,Mini ITX,E-ATX,SSICEB,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": "antec",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "14",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639036",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "53",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Antec-P380-Computer-Case-Overview",
+    "category": "",
+    "duration": 161,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "161",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "161",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/283918712-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639036\/358b2a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639036\/358b2a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639036\/358b2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639036\/358b2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639036\/358b2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639036\/358b2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639036\/358b2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639036\/144p_d1dfb_(04-09-2015)_Antec_P380_11-129-218.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:02:41"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

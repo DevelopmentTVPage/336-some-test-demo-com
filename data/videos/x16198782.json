@@ -1,0 +1,104 @@
+{
+    "title": "PDXLAN 23 FUNC Surprise Peripheral Upgrades!",
+    "description": "Jenny and Claudia from Func surprise gamers with periheral upgrades and get thier feedback on Func.",
+    "referenceId": "149520bac9d6f4abcf94292660eafb29",
+    "date_created": "1393200000",
+    "date_modified": "1457051353",
+    "tags": "PDXLAN,PDX,LAN,PDXLAN 2014,tech,news,FUNC,HS-260,KB-460,fractal design,Newegg (Business Operation),Newegg.com,Newegg TV,NeweggTV,video,technology,electronics,deals,shop,PC,computer,gaming,paul,kyle,joanne,jenny,steve",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "peripherals",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16198782",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "87",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "PDXLAN-23-FUNC-Surprise-Peripheral-Upgrades",
+    "category": "",
+    "duration": 690,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "690",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "690",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/435846568-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198782\/7d7d1a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198782\/7d7d1a\/media.m3u8",
+        "prettyDuration": "00:11:30",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198782\/7d7d1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198782\/7d7d1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198782\/7d7d1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198782\/7d7d1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198782\/7d7d1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198782\/144p_9f63a_(02-24-2014)_PDX_Lan_Event_V02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

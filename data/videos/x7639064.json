@@ -1,0 +1,103 @@
+{
+    "title": "CyberPower AVR Series UPS Overview",
+    "description": "Check out this battery back up, made by CyberPower, Model: AVRG750U. Check out the video for more info!<br \/>\n<br \/>\nCyberPower AVR Series UPS",
+    "referenceId": "41617da96f8bd78fc65cf9e9f2a89109",
+    "date_created": "1442275200",
+    "date_modified": "1455791050",
+    "tags": "CyberPower,AVR,750VA,450W,12 Outlets,UPS,simulated Sine Wave,RJ11 Protection,Automatic Voltage Regulation,GreenPower,Bypass Technology,Line-Interactive Topology,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,o",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "unboxing",
+    "video_category": "power_supplies",
+    "age_gate": "no",
+    "video_brand": "cyberpower",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639064",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "27",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "CyberPower-AVR-Series-UPS-Overview",
+    "category": "",
+    "duration": 72,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "72",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "72",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/965813560-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/5d7c1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639064\/144p_a01c9_(09-15-2015)_CyberPower_UPS_42-102-225_FINAL.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:01:12"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

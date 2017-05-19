@@ -1,0 +1,103 @@
+{
+    "title": "CyberPower BRG1000AVRLCD UPS Overview",
+    "description": "Surge protection is always important! Check out this UPS made by CyberPower, Model: BRG1000AVRLCD . Check out the video for more info!<br \/>\n<br \/>\nCyberPower BRG1000AVRLCD UPS Overview",
+    "referenceId": "daf8bdc62acd72b2887d69ab9fa9a4a2",
+    "date_created": "1442275200",
+    "date_modified": "1455791068",
+    "tags": "CyberPower,LCD,10 Outlets,UPS,Simulated Sine Wave,USB,Charging Ports,Automatic Voltage Regulation,AVR,surge protection,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "unboxing",
+    "video_category": "power_supplies",
+    "age_gate": null,
+    "video_brand": "cyberpower",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639066",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "29",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "CyberPower-BRG1000AVRLCD-UPS-Overview",
+    "category": "",
+    "duration": 91,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "91",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "91",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/872122778-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/e8ce0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639066\/144p_a75d5_(09-15-2015)_CyberPower_UPS_42-102-230_FINAL.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:01:31"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "title": "ASUS ROG MAXIMUS VIII HERO ALPHA & FORMULA Z170 Motherboard Interview",
+    "description": "JJ drops by to talk with Carey about a couple of Z170 motherboards, made by ASUS, Model: MAXIMUS VIII HERO ALPHA and FORMULA. Check out the video for more info!",
+    "referenceId": "31677a375a46d389ff349dd6a76ebb4a",
+    "date_created": "1456874110",
+    "date_modified": "1456963889",
+    "tags": "ASUS,ROG,Republic of Gamers,MAXIMUS VIII,HERO ALPHA,Formula,LGA 1151,Z170,HDMI,SATA,6Gb\/s,USB 3.1,USB 3.0,ATX,Intel,Motherboard,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "motherboards",
+    "age_gate": null,
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "155",
+    "CVV_VI": "74",
+    "engagement_score": "2",
+    "conversion_score": "4",
+    "id": "26217473",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "ASUS-ROG-MAXIMUS-VIII-HERO-ALPHA-FORMULA-Z170-Motherboard-Interview",
+    "category": "",
+    "duration": 1085,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1085",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1085",
+        "prettyDuration": "00:18:05",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/285588374-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/media.m3u8",
+        "uploadAsset": true,
+        "quality": "1080p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26217473\/59ab8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

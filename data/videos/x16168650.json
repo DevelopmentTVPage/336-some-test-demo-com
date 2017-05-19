@@ -1,0 +1,102 @@
+{
+    "title": "ASUS ROG G750JZ Series Gaming Notebook Overview",
+    "description": "Here's the ROG G750JZ Series Gaming Notebook, made by ASUS , Model: G750JZ-DS71. Check out the video for more info!",
+    "referenceId": "0938d67132a51328a012a9a08f72182a",
+    "date_created": "1401667200",
+    "date_modified": "1455797604",
+    "tags": "ASUS,ROG,G750,Series,G750JZ-DS71 Gaming,Notebook,Intel,Core,i7,4700HQ,2.40GHz,24GB,Memory,1TB,HDD,256GB,SSD,NVIDIA,GeForce,GTX,880M,17.3,Windows,8.1,64-Bit,Republic,Gamers,1920 x 1080,Windows 8.1,Blu-ray-enabled,bluray,blu,ray,DVD+-RW,CD-RW Newegg,Newegg.",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "gaming",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "9",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168650",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "132",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "ASUS-ROG-G750JZ-Series-Gaming-Notebook-Overview",
+    "category": "",
+    "duration": 325,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "325",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "325",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/584737118-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168650\/7f8eba\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168650\/7f8eba\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168650\/7f8eb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168650\/7f8eb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168650\/7f8eb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168650\/7f8eb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168650\/7f8eb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168650\/144p_7d245_(06-02-2013)_ASUS_ROG_G750JZ_Laptop_34-231-633.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:05:25"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

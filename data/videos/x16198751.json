@@ -1,0 +1,88 @@
+{
+    "title": "MSI Laptops & All-in-Ones @ CES 2014",
+    "description": "- Credits -\nPresenters: Paul\nProducer: Lam\nCamera:  Kyle\nPost-Production: Anna",
+    "referenceId": "59002ca19378d70bde93fb4a6b94b982",
+    "date_created": "1388966400",
+    "date_modified": "1455803064",
+    "tags": "MSI,Laptop,All-in-One,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "laptops",
+    "age_gate": "no",
+    "video_brand": "msi",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16198751",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "116",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "MSI-Laptops-All-in-Ones-CES-2014",
+    "category": "",
+    "duration": 969,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "969",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "969",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/929721440-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/92fc3a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/92fc3a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/92fc3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/92fc3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/92fc3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/92fc3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/144p_2f419_(01-06-2014)_CES_2014_MSI_#2_-_Laptops_and_All_in_Ones.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:16:09"
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Newegg DIY Garage: Asus DUAL Series Graphics Cards",
+    "description": "J.J.'s back in our studio to talk about the new line of GPUs, the DUAL series. Check out the video and the links below for more info!",
+    "referenceId": "4aceb0d7f6fcd783aaeffaae02bd0b15",
+    "date_created": "1475854029",
+    "date_modified": "1476391626",
+    "tags": "dual,asus,carey holzman,diy garage,gpu,graphics cards,1080,1070,1060,amd,nvidia,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,how to build a gaming pc",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "shows_episodes",
+    "video_category": "graphics_cards",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": "dual,asus,carey holzman,diy garage,gpu,graphics cards,1080,1070,1060,amd,nvidia,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,how to build a gaming pc",
+    "featured_category": "featured_yes",
+    "VV_VI": "163",
+    "CVV_VI": "22",
+    "engagement_score": "2",
+    "conversion_score": "1",
+    "id": "69549130",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "65648623",
+    "titleTextEncoded": "Newegg-DIY-Garage-Asus-DUAL-Series-Graphics-Cards-mp4",
+    "category": "",
+    "duration": "546",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "546",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "546",
+        "prettyDuration": "00:09:06",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/1920\/1077\/226035209-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/69549130\/6ee8d\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/69549130\/6ee8d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/69549130\/6ee8d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/69549130\/6ee8d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/69549130\/6ee8d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/69549130\/6ee8d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Newegg DIY Garage: How to Build an All Purpose PC - Featuring SanDisk\u2019s 480GB SSD",
+    "description": "Do you need a PC for work and maybe a bit of gaming on the side? Carey Holzman takes us from start to finish for an All Purpose PC featuring SanDisk\u2019s 480GB SSD. With SanDisk\u2019s SSD, you will be able to boot up your system, programs, and yes games, faster with a max sequential read speeds of 480MBps and max sequential write speeds of 400MBps. Check out the video for more info!",
+    "referenceId": "3ddb33342035188091d0badd0a0a1769",
+    "date_created": "1464997063",
+    "date_modified": "1476391708",
+    "tags": "SANDISK,SSD,CORSAIR,500R,G.SKILL,GIGABYTE,INTEL CORE I7,ASUS,WINDOWNS,DIY PC,CAREY HOLZMAN,HOW TO BUILD,GAMING,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,how to build a gamin",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "shows_episodes",
+    "video_category": "storage",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": "featured_yes",
+    "VV_VI": "539",
+    "CVV_VI": "88",
+    "engagement_score": "7",
+    "conversion_score": "4",
+    "id": "66069676",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "65648623",
+    "titleTextEncoded": "Newegg-DIY-Garage-How-to-Build-an-All-Purpose-PC-Featuring-SanDisk-s-480GB-SSD",
+    "category": "",
+    "duration": 2077,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "2077",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "2077",
+        "prettyDuration": "00:34:37",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/718853470-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069676\/a6b13\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069676\/a6b13\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069676\/a6b13\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069676\/a6b13\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069676\/a6b13\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66069676\/a6b13\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

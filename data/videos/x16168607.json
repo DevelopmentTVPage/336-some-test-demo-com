@@ -1,0 +1,102 @@
+{
+    "title": "SILVERSTONE SFX 300W Power Supply Overview",
+    "description": "The Silverstone ST30SF is a newly released 300W SFX power supply with high affordability and great performance. It is the reference for the SFX power supply. 80 PLUS Bronze level efficiency allows you to make the most of power. Its semi-fanless design enables silent operation at low loads, and offers aggressive cooling at high loads.",
+    "referenceId": "e37bb0092b850307d93dc433f6e61534",
+    "date_created": "1395705600",
+    "date_modified": "1455795600",
+    "tags": "SILVERSTONE,SFX,ST30SF,300W,ATX12V,EPS12V,80,PLUS,BRONZE,Certified,Active,PFC,Power,Supply,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "power_supplies",
+    "age_gate": "no",
+    "video_brand": "silvestone",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168607",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "168",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "SILVERSTONE-SFX-300W-Power-Supply-Overview",
+    "category": "",
+    "duration": 234,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "234",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "234",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/224063327-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168607\/9dad3a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168607\/9dad3a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168607\/9dad3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168607\/9dad3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168607\/9dad3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168607\/9dad3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168607\/9dad3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168607\/144p_a89f1_(03-25-2014)_Silverstone_300W_SFX_17-256-097.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:54"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Let's Play: Skylanders: Trap Team",
+    "description": "NewEgg TV's Jenny and GameCrate editor Quibian \"Q\" Salazar-Moreno play Skylanders: Trap Team, the latest title in the Skylander series. Skylanders Trap Team introduces new characters called Trap Masters that wield powerful Traptanium weapons used to defeat Skylands\u2019 most notorious villains including Kaos, as well as brand new Core Skylanders characters and reposed fan-favourite Skylanders characters. The game also features a variety of elementally aligned Traps with unique and interesting designs.",
+    "referenceId": "9f41ad96495693c2511e0cb26bd8752e",
+    "date_created": "1415577600",
+    "date_modified": "1455786176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": null,
+    "video_category": null,
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7172477",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "19",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "Let-s-Play-Skylanders-Trap-Team",
+    "category": "",
+    "duration": 1207,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1207",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1207",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/696922618-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172477\/0fdbfa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172477\/0fdbfa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172477\/0fdbf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172477\/0fdbf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172477\/0fdbf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172477\/0fdbf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172477\/0fdbf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172477\/144p_537e1_Let's_Play_Skylanders_Trap_Team.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:20:07"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

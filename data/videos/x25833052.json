@@ -1,0 +1,108 @@
+{
+    "title": "Close-up with the Logitech G410 gaming keyboard",
+    "description": "In this interview, Brent Barry from Logitech gives us a close-up look at the Logitech G410 Atlas Spectrum gaming keyboard.",
+    "referenceId": "e9e9b53eab8e8be4934b3d2871c22413",
+    "date_created": "1449014400",
+    "date_modified": "1455805687",
+    "tags": "logitech",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "peripherals",
+    "age_gate": null,
+    "video_brand": "logitech",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "19",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25833052",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "Close-up-with-the-Logitech-G410-gaming-keyboard",
+    "category": "",
+    "duration": 240,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "240",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "240",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833052\/thumb-e9e9b53eab8e8be4934b3d2871c22413-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833052\/a88aea\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833052\/a88aea\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833052\/a88ae\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833052\/a88ae\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833052\/a88ae\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833052\/a88ae\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833052\/a88ae\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25833052\/144p_5a65c_Exclusive-Newegg-Logitech-G410-Gaming-Keyboard.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:00"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Sennheiser CX686G Sports Headphones Overview",
+    "description": "Here are the new sweat and water-resistant headphones, made by Sennheiser, Model: CX686G. Check out the video for more info!",
+    "referenceId": "ffbaebd281dcae5ab7c6106b567984cb",
+    "date_created": "1443657600",
+    "date_modified": "1455789749",
+    "tags": "Sennheiser,CX686G,Sports Headphones,Galaxy,Android,Sweat,water resistant,mic compatible,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "wearables",
+    "age_gate": "no",
+    "video_brand": "sennheiser",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "12",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639004",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "65648629",
+    "titleTextEncoded": "Sennheiser-CX686G-Sports-Headphones-Overview",
+    "category": "",
+    "duration": 121,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "121",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "121",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/265663372-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/d3964\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639004\/144p_08746_(10-01-2015)_Sennheiser_CX686_Headphones_23-106-782_Final.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:02:01"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "title": "Lenovo Flex 3 Interview",
+    "description": "Here's a convertable laptop, made by Lenovo, Model: Flex 3. Check out the video for more info!<br \/>\n<br \/>\nLenovo Flex 3 Interview",
+    "referenceId": "fd2053f97e7a6c5466f465a241c77065",
+    "date_created": "1431907200",
+    "date_modified": "1455787889",
+    "tags": "Lenovo,Flex 3,Convertible Laptop,Intel Core i5,i7,2.20GHz,8GB Memory,500GB HDD,8GB SSD,Intel HD Graphics,Touchscreen,Windows 8.1,Flexibility,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "laptops",
+    "age_gate": "no",
+    "video_brand": "lenovo",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "13",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638967",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "25",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "Lenovo-Flex-3-Interview",
+    "category": "",
+    "duration": 289,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "289",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "289",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/738688189-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638967\/9157da\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638967\/9157da\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638967\/9157d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638967\/9157d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638967\/9157d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638967\/9157d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638967\/9157d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638967\/144p_1c69b_(05-18-2015)_Lenovo_Flex_Interview_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:49"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

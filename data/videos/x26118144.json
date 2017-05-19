@@ -1,0 +1,98 @@
+{
+    "title": "Lenovo Ideapad 500S Laptop Interview",
+    "description": "Chaz from Lenovo gives us a few specs on the new Ideapad 500S laptops. Thin & light laptops don\u2019t need to sacrifice power for mobility. The Lenovo\u2122 ideapad\u2122 500s combines state-of-the-art Intel processors with HD graphics to create a thin & light laptop that is more powerful than many desktop computers. Check out the video for more info!",
+    "referenceId": "f32d5cfd49a1ded5358191ee3a0ea461",
+    "date_created": "1456099200",
+    "date_modified": "1455925283",
+    "tags": "Lenovo ,Laptop ,IdeaPad, 500S,intel ,Core i7,i5, 6500U,2.50 GHz,Memory, 1 TB HDD,Windows 10 , Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "laptops",
+    "age_gate": "no",
+    "video_brand": "lenovo",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "752",
+    "CVV_VI": "91",
+    "engagement_score": "10",
+    "conversion_score": "5",
+    "id": "26118144",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "Lenovo-Ideapad-500S-Laptop-Interview",
+    "category": "",
+    "duration": 238,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "238",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "238",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/663652569-021280719.jpg",
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26118144\/da15a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26118144\/da15a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26118144\/da15a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26118144\/da15a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/26118144\/da15a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

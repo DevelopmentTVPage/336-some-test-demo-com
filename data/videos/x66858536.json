@@ -1,0 +1,103 @@
+{
+    "title": "The Guardian Series - Seagate's 10TB Hard-Drives",
+    "description": "New from Seagate - the Guardian Series of 10TB hard drives with 3 different models. The BarraCuda Pro for standard desktop usage, the IronWolf for use in a NAS, and the SkyHawk for security and surveillance. Check out the video for more info!",
+    "referenceId": "c02189f57b1c4786c9f8b5f42bf1e84c",
+    "date_created": "1468943047",
+    "date_modified": "1476391512",
+    "tags": "seagate,harddrive,10tb,nas,surveillance,guardian series,barracuda,ironwolf,skyhawk,desktop,how to build,pc,newegg,gamecrate",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "unboxing",
+    "video_category": "memory",
+    "age_gate": "no",
+    "video_brand": "seagate",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": "featured_yes",
+    "VV_VI": "168",
+    "CVV_VI": "59",
+    "engagement_score": "2",
+    "conversion_score": "3",
+    "id": "66858536",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "The-Guardian-Series-Seagate-s-10TB-Hard-Drives-mp4",
+    "category": "",
+    "duration": 149,
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "149",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "149",
+        "prettyDuration": "00:02:29",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/321756265-021916922.JPG",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/66858536\/c288e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

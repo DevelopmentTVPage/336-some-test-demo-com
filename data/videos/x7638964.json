@@ -1,0 +1,108 @@
+{
+    "title": "Asus Zenfone 2 Interview",
+    "description": "ASUS ZenFone 2 has a stunning, all-new design that seamlessly melds premium craftsmanship and technology together creating the ultimate balance of beauty and power, and it is affordable! Finally, bigger and better doesn't always come with high price tag.",
+    "referenceId": "b2427f14c4e63fd4c04bb06000cae0a4",
+    "date_created": "1428969600",
+    "date_modified": "1455787856",
+    "tags": "asus,red,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,zenfone 2,zenfone,intel,hdr,phone,mobile,dual sim",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "smartphones",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "23",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638964",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "27",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "Asus-Zenfone-2-Interview",
+    "category": "",
+    "duration": 314,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "314",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "314",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/899452532-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638964\/0dd6aa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638964\/0dd6aa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638964\/0dd6a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638964\/0dd6a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638964\/0dd6a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638964\/0dd6a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638964\/0dd6a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638964\/144p_875a6_(04-14-2015)_ASUS_ZenPhone_Interview__v03.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:05:14"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

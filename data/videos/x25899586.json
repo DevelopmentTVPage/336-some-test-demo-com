@@ -1,0 +1,101 @@
+{
+    "title": "Newegg DIY Garage: How to build a gaming PC - i7-6700, 850 EVO, & GTX 970",
+    "description": "Welcome to our brand new video series Newegg DIY Garage! This video is a step-by-step tutorial on how to build a no nonsense gaming computer. For your reference we've provided chapters and links to the components. Enjoy!<\/br>\n<\/br>\n---Newegg DIY Garage: How to build a gaming PC - i7-6700, 850 EVO, & GTX 970---<\/br>\n<\/br>\n00:00 Introduction<\/br>\n00:40 Selecting your components<\/br>\n03:31 Case Prep<\/br>\n07:20 Motherboard Prep<\/br>\n15:52 Motherboard Installation<\/br>\n18:46 Wiring<\/br>\n24:02 Test Boot<\/br>\n24:55 Flash BIOS<\/br>\n25:58 Graphics Card Installation<\/br>\n27:37 Cable Management<\/br>\n28:19 Benchmarks<\/br>",
+    "referenceId": "2335595cf4a80fb055d8dd9a3e5e9355",
+    "date_created": "1450224000",
+    "date_modified": "1455806717",
+    "tags": "diy,build,gaming rig,g.skill,ripjaws,asus,h170,corsair,obxidian,atx,mid tower,power supply,intel,core i7,skylake,quad-core,processor,samsung,850 evo,ssd,solid state drive,evga,geforce,gtx970,graphics card,ddr4,windows 10,microsoft,Newegg,Newegg.com,Newegg",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "builds",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "842",
+    "CVV_VI": "212",
+    "engagement_score": "11",
+    "conversion_score": "11",
+    "id": "25899586",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "15",
+    "entityIdParent": "65648623",
+    "titleTextEncoded": "Newegg-DIY-Garage-How-to-build-a-gaming-PC-i7-6700-850-EVO-GTX-970",
+    "category": "",
+    "duration": 1765,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1765",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "1765",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/608640320-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25899586\/f5576a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25899586\/f5576a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25899586\/f5576\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25899586\/f5576\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25899586\/f5576\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25899586\/f5576\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25899586\/144p_7cdf0_Newegg_DIY_Garage-_How_to_build_a_gaming_PC_-_i7-6700%2C_850_EVO%2C_%26_GTX_970.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:29:25"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

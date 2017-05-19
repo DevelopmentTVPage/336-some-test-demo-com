@@ -1,0 +1,101 @@
+{
+    "title": "Asus ZenFone 2 Laser Overview",
+    "description": "Here's the new ZenFone 2 Laser, made by ASUS, Model: ZE551KL-15-3G32GN-SR.<\/br>\n <\/br>\n- Unlocked GSM, Dual SIM with 4G LTE<\/br>\n-64-bit Qualcomm Snapdragon 615 MSM8939 with 3GB RAM and 32GB Storage<\/br>\n- 550 MHz Adreno 405 GPU<\/br>\n- 5.5-inch IPS full HD display<\/br>\n- Laser Auto Focus<\/br>\nCheck out the video for more info!",
+    "referenceId": "f877f18a090f212f0cc21a1d2a6296b8",
+    "date_created": "1451347200",
+    "date_modified": "1455806596",
+    "tags": "Laser,Unlocked,GSM Dual SIM,LTE,Android 5.0,64-bit,Quad-Core,Intel Z3580,4G RAM,5.5,full HD,Gorilla Glass,Asus,ZenFone 2,Smartphone,2.3GHz,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,c",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "smartphones",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "35",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25898750",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "65648629",
+    "titleTextEncoded": "Asus-ZenFone-2-Laser-Overview",
+    "category": "",
+    "duration": 205,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "205",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "205",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/798678006-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/f9682a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/f9682a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/f9682\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/f9682\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/f9682\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/f9682\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25898750\/144p_73580_Asus_ZenFone_2_Laser_Overview_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:25"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

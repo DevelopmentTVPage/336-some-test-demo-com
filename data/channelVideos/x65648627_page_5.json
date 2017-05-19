@@ -1,0 +1,1315 @@
+{
+    "pageNumber": 5,
+    "data": [
+        {
+            "id": "16198757",
+            "title": "Aorus X7 Laptop & Thunder K7, M7, & H7 Peripherals @ CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "Aorus,X7 Laptop,Thunder K7,Thunder M7,Thunder H7,Peripherals,Mouse,Mice,Keyboard,Headset,Laptop Backpack,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product t",
+            "description": "- Credits -\nPresenters: Paul\nProducer: Lam\nCamera: Rachel\nPost-Production: Anna",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "875",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "875",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/388938839-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198757\/c77b7a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198757\/c77b7a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198757\/c77b7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198757\/c77b7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198757\/c77b7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198757\/c77b7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198757\/144p_99944_(01-07-2014)_CES_2014_Aouros.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:14:35"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/aorus-x7-laptop-thunder-k7-m7-h7-peripherals-ces-2014\/65648627-16198757"
+        },
+        {
+            "id": "16198758",
+            "title": "Corsair Cherry MX RGB Keyboard, Raptor K40, Raptor M45 @ CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "Corsair,Raptor K40,Raptor M45,Cherry MX RGB,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "- Credits -\nPresenters: Paul\nProducer: Lam\nCamera: Rachel\nPost-Production: Anna",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "737",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "737",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/311392228-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/9b1b4a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/9b1b4a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/9b1b4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/9b1b4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/9b1b4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/9b1b4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198758\/144p_c64c2_(01-07-2014)_CES_2014_Corsair_#1_-_Keyboards_&_Mice.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:12:17"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/corsair-cherry-mx-rgb-keyboard-raptor-k40-raptor-m45-ces-2014\/65648627-16198758"
+        },
+        {
+            "id": "16198759",
+            "title": "Corsair 730T & 760T, Air 540 White, & 250D Cases & AX1500i PSU @ CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "Corsair,Graphite 730T,Graphite 760T,Carbide Air 540,Carbide Air 540 White,Obsidian 250D,AX1500i,PSU,Power Supply,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,p",
+            "description": "- Credits -\nPresenters: Paul\nProducer: Lam\nCamera: Rachel\nPost-Production: Anna",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "640",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "640",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/281380580-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198759\/64e94a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198759\/64e94a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198759\/64e94\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198759\/64e94\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198759\/64e94\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198759\/64e94\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198759\/144p_11c7f_(01-07-2014)_CES_2014_Corsair_#2_Cases_&_PSU.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:10:40"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/corsair-730t-760t-air-540-white-250d-cases-ax1500i-psu-ces-2014\/65648627-16198759"
+        },
+        {
+            "id": "16198760",
+            "title": "Luxa2 Mobile Accessories @ CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "Luxa2,Mobile Accessories,Mobile,Accessories,Battery Pack,Charging Dock,Charging Station,Audio Solutions,Blue Tooth,Blue Tooth Speakers,Device Holders,Headset Holder,Phone Holder,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,r",
+            "description": "- Credits -\nPresenters: Paul\nProducer: Lam\nCamera: Rachel\nPost-Production: Anna",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1050",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "1050",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/657205513-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198760\/b91aea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198760\/b91aea\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198760\/b91ae\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198760\/b91ae\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198760\/b91ae\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198760\/b91ae\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198760\/144p_adca6_(01-07-2014)_CES_2014_Luxa_2.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:17:30"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/luxa2-mobile-accessories-ces-2014\/65648627-16198760"
+        },
+        {
+            "id": "16198761",
+            "title": "NVIDIA G-Sync & Tegra K1 @ CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "NVIDIA,G-Sync,Tegra K1,NVIDIA G-Sync,Tegra K1 Processor,Processor,GPU,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "- Credits -\nPresenters: Steve\nProducer: Lam\nCamera: Tina\nPost-Production: Anna",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1021",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "1021",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/654681773-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198761\/0e89ba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198761\/0e89ba\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198761\/0e89b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198761\/0e89b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198761\/0e89b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198761\/0e89b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198761\/144p_9ad9c_(01-07-2014)_CES_2014_NVIDIA.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:17:01"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/nvidia-g-sync-tegra-k1-ces-2014\/65648627-16198761"
+        },
+        {
+            "id": "16198762",
+            "title": "Razer Nabu Smart Band & Project Christine @ CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "Razer,Nabu,Smart Band,Nabu Smart Band,Razer Nabu,Project Christine,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "- Credits -\nPresenters: Steve\nProducer: Lam\nCamera: Jenny\nPost-Production: Anna",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "319",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "319",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/931403992-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198762\/d9279a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198762\/d9279a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198762\/d9279\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198762\/d9279\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198762\/d9279\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198762\/d9279\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198762\/144p_a53c3_(01-07-2014)_CES_2014_Razer.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:05:19"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/razer-nabu-smart-band-project-christine-ces-2014\/65648627-16198762"
+        },
+        {
+            "id": "16198763",
+            "title": "ROCCAT Ryos TKL Pro Keyboard & Kave XTD 5.1 Analog Headset @ CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "ROCCAT,Ryos TKL Pro,Kave XD 5.1 Analog,Ryos TKL,Kave XTD 5.1 Digital,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "- Credits -\nPresenters: Paul\nProducer: Lam\nCamera: Rachel\nPost-Production: Anna",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "497",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "497",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/989879486-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/bbeb1a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/bbeb1a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/bbeb1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/bbeb1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/bbeb1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/bbeb1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198763\/144p_bdef4_(01-07-2014)_CES_2014_Roccat.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:08:17"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/roccat-ryos-tkl-pro-keyboard-kave-xtd-5-1-analog-headset-ces-2014\/65648627-16198763"
+        },
+        {
+            "id": "16198764",
+            "title": "StreamTV 3D Televisions @ CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "StreamTV,Stream TV,StreamTV Networks,3D TV,3D Television,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "- Credits -\nPresenters: Steve\nProducer: Lam\nCamera: Tina\nPost-Production: Anna",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "209",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "209",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/728885480-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198764\/1b32ba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198764\/1b32ba\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198764\/1b32b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198764\/1b32b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198764\/1b32b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198764\/1b32b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198764\/144p_8a991_(01-07-2014)_CES_2014_StreamTV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:29"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/streamtv-3d-televisions-ces-2014\/65648627-16198764"
+        },
+        {
+            "id": "16198765",
+            "title": "Thermaltake Urban T81 & Core V71 Cases @ CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "Thermaltake,Urban T81,Core V71,Cases,Computer Case,Liquid Cooling,Custom Liquid Cooling,Cooling Solutions,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product ",
+            "description": "- Credits -\nPresenters: Paul\nProducer: Lam\nCamera: Rachel\nPost-Production: Anna",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1077",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "1077",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/763824209-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198765\/27fe2a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198765\/27fe2a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198765\/27fe2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198765\/27fe2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198765\/27fe2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198765\/27fe2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198765\/144p_05a37_(01-07-2014)_CES_2014_Thermaltake.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:17:57"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/thermaltake-urban-t81-core-v71-cases-ces-2014\/65648627-16198765"
+        },
+        {
+            "id": "16198766",
+            "title": "Tt eSPORTS Gaming Peripherals @ CES 2014 - Newegg TV",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "Tt eSPORTS,Gaming,Peripherals,Keyboard,Keyboards,Mouse,Mice,Headsets,Gaming Headsets,Level 10,DK,Mousepad,Mousepads,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overvie",
+            "description": "At CES 2014 visiting Tt eSPORTS and they have lots of gaming peripherals to show us.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1023",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "1023",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/259072466-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198766\/025b6a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198766\/025b6a\/media.m3u8",
+                "prettyDuration": "00:17:03",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198766\/025b6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198766\/025b6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198766\/025b6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198766\/025b6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198766\/144p_5f4d2_(01-07-2014)_CES_2014_Tt_eSports.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/tt-esports-gaming-peripherals-ces-2014-newegg-tv\/65648627-16198766"
+        },
+        {
+            "id": "16198767",
+            "title": "XYZ Printing Da Vinci 3D Printers @ CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "XYZ Printing,Da Vinci,3D Printers,Printers,3D Printing,Printing,Da Vinci 1.0,Da Vinci 2.0,Da Vinci 2.1,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tou",
+            "description": "- Credits -\nPresenters: Steve\nProducer: Lam\nCamera: Jenny\nPost-Production: Anna",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "333",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "333",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/142149344-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198767\/2350da\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198767\/2350da\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198767\/2350d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198767\/2350d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198767\/2350d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198767\/2350d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198767\/144p_c67f4_(01-07-2014)_CES_2014_XYZ_Printing.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:05:33"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/xyz-printing-da-vinci-3d-printers-ces-2014\/65648627-16198767"
+        },
+        {
+            "id": "16198768",
+            "title": "Lepa G1600 Power Supply and Cases at CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "lepa,g1600,power supply,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Joanne Interviews Jason from LEPA @ CES 2014!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "273",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "273",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/445271647-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198768\/d0cc1a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198768\/d0cc1a\/media.m3u8",
+                "prettyDuration": "00:04:33",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198768\/d0cc1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198768\/d0cc1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198768\/d0cc1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198768\/d0cc1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198768\/144p_29d5f_(01-07-2014)_Lepa_at_CES.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/lepa-g1600-power-supply-and-cases-at-ces-2014\/65648627-16198768"
+        },
+        {
+            "id": "16198769",
+            "title": "Toshiba Flash Air Demo & Q Series Pro SSD at CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "Toshiba,ssd,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,memory,flash,nand",
+            "description": "Kyle meets up with Andrea and Ron from Toshiba to talk about their latest Q Series SSD @ CES 2014!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "233",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "233",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/953574923-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198769\/9a253a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198769\/9a253a\/media.m3u8",
+                "prettyDuration": "00:03:53",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198769\/9a253\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198769\/9a253\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198769\/9a253\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198769\/9a253\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198769\/144p_62a89_(01-07-2014)_Toshiba_at_CES.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/toshiba-flash-air-demo-q-series-pro-ssd-at-ces-2014\/65648627-16198769"
+        },
+        {
+            "id": "16198770",
+            "title": "WD Fan Night at CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "wd,western digita,hard drive,hdd,hard disk,disk drive,ssd,solid state drive,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,wd fan day,wd fa",
+            "description": "Jenny and Kyle stop by WD's Fan Night at CES 2014. \nWARNING: Professional trolls at work. Do not attempt.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "496",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "496",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/563215025-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198770\/f2c30a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198770\/f2c30a\/media.m3u8",
+                "prettyDuration": "00:08:16",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198770\/f2c30\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198770\/f2c30\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198770\/f2c30\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198770\/f2c30\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198770\/144p_2c851_(01-07-2014)_WD_Fan_Day_at_CES.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/wd-fan-night-at-ces-2014\/65648627-16198770"
+        },
+        {
+            "id": "16198755",
+            "title": "Antec CPU Coolers and Cases at CES 2014",
+            "date_created": "1389052800",
+            "loginId": "1758381",
+            "tags": "antec,computer case,chassis,cpu cooler,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "- Credits -\nPresenters: Kyle, Joanne\nProducer: Kyle\nCamera: Kyle, Joanne\nPost-Production: Kyle",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "931",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "931",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/370155191-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/bdb1aa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/bdb1aa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/bdb1a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/bdb1a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/bdb1a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/bdb1a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198755\/144p_75bca_(01-07-2014)_Antec_CPU_Coolers_and_Cases_at_CES.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:15:31"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/antec-cpu-coolers-and-cases-at-ces-2014\/65648627-16198755"
+        },
+        {
+            "id": "16198750",
+            "title": "Gigabyte OC Event @ CES 2014 - Newegg TV",
+            "date_created": "1388966400",
+            "loginId": "1758381",
+            "tags": "Gigabyte,OC,Overclocking,G.Skill,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Join us as we visit Gigabyte's Overclocking event!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1450",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "1450",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/907360688-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198750\/d35f8a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198750\/d35f8a\/media.m3u8",
+                "prettyDuration": "00:24:10",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198750\/d35f8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198750\/d35f8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198750\/d35f8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198750\/d35f8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198750\/144p_5c4f5_(01-06-2014)_CES_2014_Gigabyte_OC_Event.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/gigabyte-oc-event-ces-2014-newegg-tv\/65648627-16198750"
+        },
+        {
+            "id": "16198751",
+            "title": "MSI Laptops & All-in-Ones @ CES 2014",
+            "date_created": "1388966400",
+            "loginId": "1758381",
+            "tags": "MSI,Laptop,All-in-One,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "- Credits -\nPresenters: Paul\nProducer: Lam\nCamera:  Kyle\nPost-Production: Anna",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "969",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "969",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/929721440-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/92fc3a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/92fc3a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/92fc3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/92fc3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/92fc3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/92fc3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198751\/144p_2f419_(01-06-2014)_CES_2014_MSI_#2_-_Laptops_and_All_in_Ones.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:16:09"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/msi-laptops-all-in-ones-ces-2014\/65648627-16198751"
+        },
+        {
+            "id": "16198752",
+            "title": "MSI Motherboards @ CES 2014",
+            "date_created": "1388966400",
+            "loginId": "1758381",
+            "tags": "MSI,Motheboard,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "- Credits -\nPresenters: Paul\nProducer: Lam\nCamera: Kyle\nPost-Production: Anna",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "713",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "713",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/269762885-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/6d137a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/6d137a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/6d137\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/6d137\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/6d137\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/6d137\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198752\/144p_cc213_(01-06-2014)_CES_2014_MSI_#3_-_Motherboards.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:11:53"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/msi-motherboards-ces-2014\/65648627-16198752"
+        },
+        {
+            "id": "16198753",
+            "title": "MSI Video Cards @ CES 2014",
+            "date_created": "1388966400",
+            "loginId": "1758381",
+            "tags": "MSI,Video Cards,CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "- Credits -\nPresenters: Paul\nProducer: Lam\nCamera: Kyle\nPost-Production: Anna",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "790",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "790",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/853558581-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198753\/70fd7a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198753\/70fd7a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198753\/70fd7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198753\/70fd7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198753\/70fd7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198753\/70fd7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198753\/144p_6d919_(01-06-2014)_CES_2014_MSI_#4_-_Video_Cards.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:13:10"
+            },
+            "parentId": "65648627",
+            "url": "\/events\/msi-video-cards-ces-2014\/65648627-16198753"
+        },
+        {
+            "id": "16198749",
+            "title": "The Future of Samsung SSDs @ CES 2014",
+            "date_created": "1388880000",
+            "loginId": "1758381",
+            "tags": "CES,CES 2014,Consumer Electronics Show,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,las vegas,samsung,evo,pro,ssd,solid state drive",
+            "description": "Paul interviews Chris from Samsung about their outstanding SSDs! \n@ CES 2014",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "801",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "801",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/452140226-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198749\/378fca\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198749\/378fca\/media.m3u8",
+                "prettyDuration": "00:13:21",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198749\/378fc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198749\/378fc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198749\/378fc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198749\/378fc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16198749\/144p_a2d61_(01-05-2014)_Samsung_SSDs_at_CES.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648627",
+            "url": "\/events\/the-future-of-samsung-ssds-ces-2014\/65648627-16198749"
+        }
+    ]
+}

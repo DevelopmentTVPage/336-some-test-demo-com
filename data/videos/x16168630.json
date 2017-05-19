@@ -1,0 +1,95 @@
+{
+    "title": "D-Link AC750 Portable Wireless Router Overview",
+    "description": "Connect, share and charge your mobile devices anytime, anywhere, with D-Link's DIR-510L Wi- Fi AC750 Portable Router and Charger. Share files, stream media and browse the Internet with the reliability and performance provided by Next-Generation Wireless AC technology. Simply connect your laptop, smartphone, or tablet to the DIR-510L's wireless network and it will take care of the rest. A built-in, high-capacity rechargeable battery, allows for on-the-go charging of all your mobile devices.",
+    "referenceId": "356c70ca293de1cd1b1fe1fa8baadab3",
+    "date_created": "1398211200",
+    "date_modified": "1455796675",
+    "tags": "D-Link,link,dlink,AC750,Portable,Wireless,Router,DIR-510L,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "networking",
+    "age_gate": null,
+    "video_brand": "d-link",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168630",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "148",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "D-Link-AC750-Portable-Wireless-Router-Overview",
+    "category": "",
+    "duration": 441,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "441",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "441",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/307471011-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168630\/d0b00a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168630\/d0b00a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168630\/d0b00\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168630\/d0b00\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168630\/d0b00\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168630\/d0b00\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168630\/d0b00\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168630\/144p_fb399_(04-23-2014)_D-Link_WiFi_AC_750_Router_33-127-538.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:07:21"
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

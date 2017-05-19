@@ -1,0 +1,103 @@
+{
+    "title": "Asus 2in1 Transformer Book Chi Series Interview",
+    "description": "Tuan from Asus joins Steve  in the studio to talk about the new transformer book, made by Asus, Model: Chi Series. Check out the video for more info!<br \/>\n<br \/>\nAsus 2in1 Transformer Book Chi Series Interview - Newegg TV",
+    "referenceId": "7f591b4506d6c795ccdcf84bafa98012",
+    "date_created": "1428364800",
+    "date_modified": "1455787835",
+    "tags": "Intel Core,intel,4GB,Memory,128GB,SSD,HD Graphics,1920 x 1080,Windows 8.1,64-Bit,ASUS,Transformer,Book,2-in-1,Laptop,Wireless,1TB,Hard Drive,32gb,64gb,solid state disk,solid state drive,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electron",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "interviews",
+    "video_category": "laptops",
+    "age_gate": "no",
+    "video_brand": "asus",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "13",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7638963",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "28",
+    "entityIdParent": "65648628",
+    "titleTextEncoded": "Asus-2in1-Transformer-Book-Chi-Series-Interview",
+    "category": "",
+    "duration": 277,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "277",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "277",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/513216202-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638963\/ccfe3a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638963\/ccfe3a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638963\/ccfe3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638963\/ccfe3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638963\/ccfe3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638963\/ccfe3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638963\/ccfe3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7638963\/144p_38ef1_(04-07-2015)_ASUS_2in1_Transformer_Chi_Interview_v02.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:37"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

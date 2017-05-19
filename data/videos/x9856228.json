@@ -1,0 +1,109 @@
+{
+    "title": "XFX Radeon R9 Fury Overview",
+    "description": "Here's a new graphics card, made by XFX, Model: R9-FURY-4TF9. Check out the video for more info!",
+    "referenceId": "fdd1cd5009a2ca2324fbb4a1c18d521e",
+    "date_created": "1448409600",
+    "date_modified": "1455791986",
+    "tags": "XFX ,Radeon R9, Fury, DirectX,4GB, 4096-Bit ,PCI Express,crossFireX , Triple Dissipation ,Video ,Card, Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "graphics_cards",
+    "age_gate": "no",
+    "video_brand": "AMD",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "135",
+    "CVV_VI": "11",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "9856228",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "15",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "XFX-Radeon-R9-Fury-Overview",
+    "category": "",
+    "duration": 117,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "117",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "117",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/323870182-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177ea\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177ea\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/c177e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/9856228\/144p_95a41_XFX_R9_Fury_14_150_757_Final_-_SITE.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:01:57"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Samsung 840 EVO mSATA SSD Installation Tutorial",
+    "description": "The Samsung 840 EVO mSATA SSD features the same read\/write speeds and features that have garnered rave reviews for the 2.5\" version, but in a much smaller form factor for thin and light laptops and ultrabooks (some motherboards too!). If you have an ultrabook or laptop with mSATA, but you feel limited with your existing SSD's space and\/or performance, watch this video for a tutorial on the installation process and imaging your current Windows installation to the new drive.\"",
+    "referenceId": "dbb908d6be76077e98a1ae1a2e4fea3f",
+    "date_created": "1396396800",
+    "date_modified": "1455795969",
+    "tags": "SAMSUNG,840,EVO,MZ-MTE500BW,500GB,mSATA,III,TLC,Internal,Solid,State,Drive,SSD,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "howtos",
+    "video_category": "storage",
+    "age_gate": "no",
+    "video_brand": "samsung",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "28",
+    "CVV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": "1",
+    "id": "16168614",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "163",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Samsung-840-EVO-mSATA-SSD-Installation-Tutorial",
+    "category": "",
+    "duration": 818,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "818",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "818",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/900239915-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168614\/3bad4a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168614\/3bad4a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168614\/3bad4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168614\/3bad4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168614\/3bad4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168614\/3bad4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168614\/3bad4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168614\/144p_05ea5_(04-02-2014)_Samsung_840_EVO_mSATA_SSD_Install_Tutorial.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:13:38"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

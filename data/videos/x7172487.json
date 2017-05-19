@@ -1,0 +1,108 @@
+{
+    "title": "E3 2015: Checking out XCOM 2 and Battleborn at 2K Games",
+    "description": "Reporting from E3 2015, here's GameCrate.com's Nick discussing the XCOM 2 presentation and going hands-on with Battleborn.",
+    "referenceId": "607e158284816b0b7dd320dc0402f0cb",
+    "date_created": "1434499200",
+    "date_modified": "1455787035",
+    "tags": "xcom, battleborn, 2k games, gamecrate, newegg, e3, computer, pc, console, xbox, playstation",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "gaming",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "37",
+    "CVV_VI": "117",
+    "engagement_score": null,
+    "conversion_score": "6",
+    "id": "7172487",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "17",
+    "entityIdParent": "65648630",
+    "titleTextEncoded": "E3-2015-Checking-out-XCOM-2-and-Battleborn-at-2K-Games",
+    "category": "",
+    "duration": 253,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "253",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "253",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172487\/thumb-607e158284816b0b7dd320dc0402f0cb-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172487\/74176a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172487\/74176a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172487\/74176\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172487\/74176\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172487\/74176\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172487\/74176\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172487\/74176\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172487\/144p_cea43_(06-17-2015)_E3_-_Day_1_-_2K_Games_v03.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:13"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

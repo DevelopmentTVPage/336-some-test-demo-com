@@ -1,0 +1,103 @@
+{
+    "title": "Creative Blasterzone and Sound Blaster",
+    "description": "Creative shows us Blasterzone VR headset, the new Sound Blaster X H Series, and Sound Blaster X G5.",
+    "referenceId": "af31f3384da6071223018a3d99f3f49f",
+    "date_created": "1452124800",
+    "date_modified": "1457133290",
+    "tags": "creative, sound, blaster, h series, headset, speakers, ces2016, ces, consumer electronics, vr, virtual reality,  CES2016, ces, ,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "events",
+    "video_category": "gaming",
+    "age_gate": "no",
+    "video_brand": "creative",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "48",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25837991",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "65648627",
+    "titleTextEncoded": "Creative-Blasterzone-and-Sound-Blaster",
+    "category": "",
+    "duration": 254,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "254",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "254",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/952031776-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/fe24ea\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/fe24ea\/media.m3u8",
+        "prettyDuration": "00:04:14",
+        "uploadAsset": true,
+        "quality": "720p",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/fe24e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/fe24e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/fe24e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/fe24e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/25837991\/144p_1c8d2_Creative_-_CES_2016_v01.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

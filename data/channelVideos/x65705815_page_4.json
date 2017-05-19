@@ -1,0 +1,1449 @@
+{
+    "pageNumber": 4,
+    "data": [
+        {
+            "id": "16168542",
+            "title": "Gigabyte Waterforce Overview",
+            "date_created": "1418083200",
+            "loginId": "1758381",
+            "tags": "GIGABYTE,GeForce,GTX,980,4GB,256-Bit,GDDR5,PCI,Express,HDCP,3-WAY SLI,GAMING,Graphics Card,cooling system,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's the 3-Way SLI gaming graphics cards and cooling system, made by Gigabyte, Model: Waterforce GV-N980X3WA-4GD. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1298",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1298",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/377517476-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168542\/be80ea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168542\/be80ea\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168542\/be80e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168542\/be80e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168542\/be80e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168542\/be80e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168542\/be80e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168542\/144p_4f980_(12-09-2014)_Gigabyte_Waterforce_x3_GTX_980s_14-125-727_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:21:38"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/gigabyte-waterforce-overview\/65705815-16168542"
+        },
+        {
+            "id": "16168541",
+            "title": "SAMSUNG 850 EVO-Series Overview and Benchmarks",
+            "date_created": "1417737600",
+            "loginId": "1758381",
+            "tags": "new,samsung,evo,120gb,msata,sata3,sata,6gb\/s,solid,state,drive,storage,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,850",
+            "description": "Samsung SSD 850 EVO 2.5\" SATA III  Upgrade virtually every aspect of your computer\u2019s performance with Samsung\u2019s new 850 EVO.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "629",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "629",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/709449768-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168541\/e8cfea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168541\/e8cfea\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168541\/e8cfe\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168541\/e8cfe\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168541\/e8cfe\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168541\/e8cfe\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168541\/e8cfe\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168541\/144p_0b2aa_(12-05-2014)_Samsung_SSD_850_EVO_9SIA4UB2172989_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:10:29"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/samsung-850-evo-series-overview-and-benchmarks\/65705815-16168541"
+        },
+        {
+            "id": "16168540",
+            "title": "TP-LINK ARCHER C9 AC1900 Wireless Router Overview",
+            "date_created": "1417564800",
+            "loginId": "1758381",
+            "tags": "tp-link,archer,c9,ac1900,wireless,dual,band,gigabit,router,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a wireless router, made by TP-Link, Model: AC1900 . Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "791",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "791",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/646192537-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168540\/e9889a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168540\/e9889a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168540\/e9889\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168540\/e9889\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168540\/e9889\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168540\/e9889\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168540\/e9889\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168540\/144p_1c1dd_(12-03-2014)_TP-Link_Archer_C9_33-704-232_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:13:11"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/tp-link-archer-c9-ac1900-wireless-router-overview\/65705815-16168540"
+        },
+        {
+            "id": "16168539",
+            "title": "Corsair K70 Mechanical Gaming Keyboard Tutorial",
+            "date_created": "1417132800",
+            "loginId": "1758381",
+            "tags": "corsair,game,k70,cherri,mx,rgb,red,switch,mechan,keyboard,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "1:01    Basic Software Overview & Profile Setup\n4:30    Setting up a new \"Mode\" in a Profile\n6:00    Activating Profiles - Assignments\n8:05    Mode Switching\n10:40  Assign new actions\/Actions Editor\n15:50  Action Editor\/Action List\n18:20  Assign a Key to Mode Switching\n20:00  Performance Tab\n21:30  Settings Tab\n23:20  Lighting Assignments\n27:15  Group Assignments\n27:58  Assign Solid Lighting Basics\n33:54  Gradient Lighting Effect\n35:53  Ripple Lighting Effect\n38:00  Wave Lighting Effect",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "2614",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "2614",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/171828880-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168539\/bdabca\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168539\/bdabca\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168539\/bdabc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168539\/bdabc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168539\/bdabc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168539\/bdabc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168539\/bdabc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168539\/144p_ebb83_(11-28-2014)_Corsair_K70_Tutorial.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:43:34"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/corsair-k70-mechanical-gaming-keyboard-tutorial\/65705815-16168539"
+        },
+        {
+            "id": "16168536",
+            "title": "4 Way SLI 980 Benchmarks",
+            "date_created": "1416441600",
+            "loginId": "1758381",
+            "tags": "EVGA,GeForce,GTX,980,4GB,256-Bit,GDDR5,PCI,Express 3.0,ASUS,HDCP,SLI,G-SYNC,Video Card,graphics card,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,4 way SLI 980,4-way SLI,4-way",
+            "description": "After weeks of hard work Steve presents the 4-Way SLI 980 Benchmarks!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "417",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "417",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/115022564-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168536\/6b86da\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168536\/6b86da\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168536\/6b86d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168536\/6b86d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168536\/6b86d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168536\/6b86d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168536\/6b86d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168536\/144p_92f86_(11-20-2014)_4-Way_SLI_980_Benchmarks_V02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:06:57"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/4-way-sli-980-benchmarks\/65705815-16168536"
+        },
+        {
+            "id": "16168537",
+            "title": "Corsair Neutron XT SSD Series Overview",
+            "date_created": "1416441600",
+            "loginId": "1758381",
+            "tags": "corsair,neutron,xt,cssd-n240gbxt,2.5,240gb,sata,iii,mlc,intern,solid,state,drive,(ssd),Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here\u2019s a Internal SSDs, made by Corsair, Model: CSSD-N240GBXT. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "614",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "614",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/264606263-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168537\/a9bf3a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168537\/a9bf3a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168537\/a9bf3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168537\/a9bf3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168537\/a9bf3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168537\/a9bf3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168537\/a9bf3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168537\/144p_86c7c_(11-20-2014)_Corsair_Neutron_XT_SSD_Series_v04.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:10:14"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/corsair-neutron-xt-ssd-series-overview\/65705815-16168537"
+        },
+        {
+            "id": "16168538",
+            "title": "DEEPCOOL CAPTAIN CPU Liquid Cooler Overview",
+            "date_created": "1416441600",
+            "loginId": "1758381",
+            "tags": "deepcool,gamer,storm,captain,240,cpu,liquid,cooler,aio,water,cool,ceramic,bear,pump,visual,flow,with,dual120mm,fdb,pwm,fan,rubber,coat,deep,silent,support,lga,2011-v3,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,over",
+            "description": "DEEPCOOL CAPTAIN 240 CPU Cooler The Captain Series is the innovative, high quality CPU liquid cooler design from Gamer Storm, DEEPCOOL. Innovated by DEEPCOOL's Steam Castle Design, the Captain has a Steam Punk style, built with a visible liquid flow and LED lighting. You'll be overjoyed not only because of your CPU cooling but also your aesthetics. The Captain Series with its side window is sure to be your ultimate choice for a computer case.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "564",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "564",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/835215334-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797aa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797aa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/5797a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168538\/144p_9d103_(11-20-2014)_DeepCool_Gamerstorm_Captain_35-856-022_-023_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:09:24"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/deepcool-captain-cpu-liquid-cooler-overview\/65705815-16168538"
+        },
+        {
+            "id": "16168535",
+            "title": "SAMSUNG U32D970Q Widescreen Monitor Overview",
+            "date_created": "1415923200",
+            "loginId": "1758381",
+            "tags": "samsung,u32d970q,black,31.5,8ms,hdmi,widescreen,led,backlight,lcd,monitor,280,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "32-Inch 970 Series UHD Professional Monitor U32D970Q  32-inch diagonal display with Ultra High Definition (3840x2160) resolution Mega Dynamic Contrast Ratio and 16-bit look-up table 11 color calibration modes, including Adobe RGB and sRGB Connections for USB 3.0, HDMI, Dual-Link DVI, DisplayPorts, and 3.5mm cords Screen tilts, pivots, and swivels on a height-adjustable stand",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "365",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "365",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/107296096-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102fa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102fa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/d102f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168535\/144p_e245e_(11-14-2014)_Samsung_UD970_Monitor_24-022-020.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:06:05"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/samsung-u32d970q-widescreen-monitor-overview\/65705815-16168535"
+        },
+        {
+            "id": "16168534",
+            "title": "Jetway Booksize Barebone System Overview",
+            "date_created": "1415750400",
+            "loginId": "1758381",
+            "tags": "jetway,intel,hd,graphics,cpu,mini,booksiz,barebone,system,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's an Booksize Barebone System, made by Jetway, Model: JBC310U91. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "215",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "215",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/359026205-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168534\/71ec6a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168534\/71ec6a\/media.m3u8",
+                "prettyDuration": "00:03:35",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168534\/71ec6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168534\/71ec6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168534\/71ec6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168534\/71ec6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168534\/71ec6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168534\/144p_1e178_(11-12-2014)_Jetway_Fanless_Box_PC_56-107-145.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/jetway-booksize-barebone-system-overview\/65705815-16168534"
+        },
+        {
+            "id": "16168533",
+            "title": "Corsair K70 Cherry MX RGB Red Switch Mechanical Gaming Keyboard Overview",
+            "date_created": "1415664000",
+            "loginId": "1758381",
+            "tags": "corsair,game,k70,cherri,mx,rgb,red,switch,mechan,keyboard,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here\u2019s a Gaming Keyboards, made by Corsair, Model: CH-9000068-NA. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "387",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "387",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/355419952-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168533\/93f70a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168533\/93f70a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168533\/93f70\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168533\/93f70\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168533\/93f70\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168533\/93f70\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168533\/93f70\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168533\/144p_14a74_(11-11-2014)_Corsair_K70_Keyboard_23-816-034_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:06:27"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/corsair-k70-cherry-mx-rgb-red-switch-mechanical-gaming-keyboard-overview\/65705815-16168533"
+        },
+        {
+            "id": "16168531",
+            "title": "Corsair Graphite Series  ATX Full Tower 780T Full Tower Case Overview",
+            "date_created": "1415577600",
+            "loginId": "1758381",
+            "tags": "corsair,graphite series,cc-9011063-ww,black,atx,full,tower,780t,pc,case,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here\u2019s a Computer Cases, made by Corsair, Model: CC-9011063-WW. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "441",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "441",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/848618064-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168531\/9f7aba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168531\/9f7aba\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168531\/9f7ab\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168531\/9f7ab\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168531\/9f7ab\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168531\/9f7ab\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168531\/9f7ab\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168531\/144p_3c3bd_(11-10-2014)_Corsair_780T_11-139-048.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:07:21"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/corsair-graphite-series-atx-full-tower-780t-full-tower-case-overview\/65705815-16168531"
+        },
+        {
+            "id": "16168532",
+            "title": "Fractal Define R5 Overview",
+            "date_created": "1415577600",
+            "loginId": "1758381",
+            "tags": "Fractal,define,r5,computer case,atx,mid tower,tower,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a computer case, made by Fractal Design, Model: Define R5. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "612",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "612",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/450420285-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168532\/609d4a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168532\/609d4a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168532\/609d4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168532\/609d4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168532\/609d4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168532\/609d4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168532\/609d4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168532\/144p_168f9_(11-10-2014)_Fractal_Define_R5.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:10:12"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/fractal-define-r5-overview\/65705815-16168532"
+        },
+        {
+            "id": "16168528",
+            "title": "EVGA BRONZE Series PSUs Overview",
+            "date_created": "1414627200",
+            "loginId": "1758381",
+            "tags": "psu,evga,500,80,plus,bronz,certified,500w,active,atx12v,power,supplies,intel,4th,cpu,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "The EVGA 500 Bronze Power Supply is here. Designed with enthusiasts' needs as the priority, the 500 Bronze is the best choice to power next generation of computers. Combining 500W of continuous power with exceptional performance, stunning efficiency, and cutting-edge design and features, the 500 Bronze power supplies are what you need to take your system to the next level.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "253",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "253",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/879890127-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168528\/cdfa8a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168528\/cdfa8a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168528\/cdfa8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168528\/cdfa8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168528\/cdfa8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168528\/cdfa8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168528\/cdfa8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168528\/144p_d65a0_(10-30-2013)_EVGA_PSU_Family_17-438-012_-014.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:13"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/evga-bronze-series-psus-overview\/65705815-16168528"
+        },
+        {
+            "id": "16168527",
+            "title": "Zotac ZBOX Sphere Mini-PC Overview",
+            "date_created": "1414540800",
+            "loginId": "1758381",
+            "tags": "zotac,mini pc,barebone,zbox-oi520-p,204pin,so-dimm,intel,hd,graphic,4400,integr,by,cpu,mini-pc,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "ZOTAC ZBOX OI520 Plus   Express your individuality with the ZBOX Sphere OI520 series mini-PC from ZOTAC. The ZOTAC ZBOX Sphere OI520 series mini-PC features a sleek and stylish orb shape that's unique yet functional for everyday computing and multimedia tasks.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "347",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "347",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/773289248-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168527\/dfafda\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168527\/dfafda\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168527\/dfafd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168527\/dfafd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168527\/dfafd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168527\/dfafd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168527\/dfafd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168527\/144p_77ec0_(10-29-2014)_Zotac_ZBox_Sphere_56-173-100.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:05:47"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/zotac-zbox-sphere-mini-pc-overview\/65705815-16168527"
+        },
+        {
+            "id": "16168525",
+            "title": "Razer KRAKEN CHROMA Gaming Headset Overview",
+            "date_created": "1414368000",
+            "loginId": "1758381",
+            "tags": "razer,kraken,7.1,chroma,usb,connector,surround,sound,game,headset,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here\u2019s a Headsets & Accessories, made by RAZER, Model: RZ04-01250100-R3U1. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "181",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "181",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/950399603-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168525\/79015a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168525\/79015a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168525\/79015\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168525\/79015\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168525\/79015\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168525\/79015\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168525\/79015\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168525\/144p_4aeb5_(10-27-2014)_Razer_Kraken_Chroma_Headset_26-153-167_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:03:01"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/razer-kraken-chroma-gaming-headset-overview\/65705815-16168525"
+        },
+        {
+            "id": "16168526",
+            "title": "Zotac ZBOX BI320 Mini-PC  Overview",
+            "date_created": "1414368000",
+            "loginId": "1758381",
+            "tags": "zotac,barebone,mini pc,zbox-bi320-u,204pin,so-dimm,intel,hd,graphic,integrated,cpu,mini-pc,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "ZOTAC ZBOX BI320  Experience a rich multimedia experience with the energy-efficient ZOTAC ZBOX BI320 series mini-PCs. Powered by an energy-sipping dual-core Intel Celeron processor, the ZOTAC ZBOX BI320 delivers a great computing experience for typical daily tasks such as web browsing, checking e-mail and productivity tasks.  Intel HD Graphics technology enhances the ZOTAC ZBOX BI320 series with excellent multimedia capabilities for stunning and smooth high-definition video playback capabilities.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "142",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "142",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/300458220-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168526\/97589a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168526\/97589a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168526\/97589\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168526\/97589\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168526\/97589\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168526\/97589\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168526\/97589\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168526\/144p_26617_(10-27-2014)_Zotac_Mini_PC_56-173-102_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:02:22"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/zotac-zbox-bi320-mini-pc-overview\/65705815-16168526"
+        },
+        {
+            "id": "16168523",
+            "title": "ASUS ROG G751 Series Gaming Laptop Overview",
+            "date_created": "1414281600",
+            "loginId": "1758381",
+            "tags": "asus,rog,g751,series,g751jy-dh71,gaming,laptop,intel core i7,4710hq,2.50ghz,24gb,memory,hdd,256gb,ssd,nvidia,geforc,gtx,980m,window 8.1,64-bit,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,comput",
+            "description": "Here\u2019s a Gaming Laptops, made by ASUS, Model: G751JY-DH71. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "265",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "265",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/323667108-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168523\/cccaea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168523\/cccaea\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168523\/cccae\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168523\/cccae\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168523\/cccae\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168523\/cccae\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168523\/cccae\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168523\/144p_319d0_(10-26-2014)_ASUS_ROG_G751_Gaming_Laptop_34-232-199_v02.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:04:25"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/asus-rog-g751-series-gaming-laptop-overview\/65705815-16168523"
+        },
+        {
+            "id": "16168522",
+            "title": "ABS Dreadnought Gaming System Overview",
+            "date_created": "1413504000",
+            "loginId": "1758381",
+            "tags": "ABS,Dreadnought,ALA001,Desktop,PC,AMD,FX-Series,FX-6300,3.50GHz,8GB,DDR3,1TB,HDD,Windows,8.1,64-Bit,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a gaming system, made by ABS, Model: ALA001. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "408",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "408",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/896479395-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816ba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816ba\/media.m3u8",
+                "prettyDuration": "00:06:48",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/f816b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168522\/144p_d5e55_(10-17-2014)_ABS_Drednaught_PC_System.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65705815",
+            "url": "\/products\/abs-dreadnought-gaming-system-overview\/65705815-16168522"
+        },
+        {
+            "id": "16168520",
+            "title": "RAZER BlackWidow Chroma Gaming RGB Mechanical Keyboard Overview",
+            "date_created": "1413158400",
+            "loginId": "1758381",
+            "tags": "razer,blackwidow,chroma,usb,wire,game,rgb,mechanical,keyboard,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "All New RazerMechanical Switches Designed specifically for gaming, the all-new Razer Mechanical Switches actuate at an optimal distance, giving you speed and responsiveness like never before.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "627",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "627",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/486630292-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168520\/1e52ba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168520\/1e52ba\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168520\/1e52b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168520\/1e52b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168520\/1e52b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168520\/1e52b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168520\/1e52b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168520\/144p_d01c8_(10-13-2014)_Razer_Black_Widow_Chroma_Keyboard.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:10:27"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/razer-blackwidow-chroma-gaming-rgb-mechanical-keyboard-overview\/65705815-16168520"
+        },
+        {
+            "id": "16168521",
+            "title": "RAZER DeathAdder Chroma Wired Multi-color Ergonomic Gaming Mouse Overview",
+            "date_created": "1413158400",
+            "loginId": "1758381",
+            "tags": "razer,deathadd,chroma,black,wheel,wire,multi-color,ergonomic,game,mouse,Newegg,Newegg.com,Newegg TV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "RAZER DeathAdder Chroma - Scroll Wheel, Wired, Multi-Color Ergonomic Gaming Mouse.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "342",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "342",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/738677296-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168521\/8ebbba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168521\/8ebbba\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168521\/8ebbb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168521\/8ebbb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168521\/8ebbb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168521\/8ebbb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168521\/8ebbb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168521\/144p_aae71_(10-13-2014)_Razer_Death_Adder_Chroma_Mouse.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:05:42"
+            },
+            "parentId": "65705815",
+            "url": "\/products\/razer-deathadder-chroma-wired-multi-color-ergonomic-gaming-mouse-overview\/65705815-16168521"
+        }
+    ]
+}

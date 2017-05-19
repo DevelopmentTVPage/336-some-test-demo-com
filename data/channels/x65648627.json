@@ -1,0 +1,24 @@
+{
+    "title": "Events",
+    "description": "In case you couldn't get off work, didn't feel like ditching school or just don't want to deal with the massive crowds, kick back and watch our wrap-ups, reveals, interviews and much more -- direct from PAX EAST, CES, Blizzcon, E3, etc.",
+    "referenceId": null,
+    "date_created": "1462243974",
+    "date_modified": "1462580844",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "65648627",
+    "loginId": "1758381",
+    "entityType": "3",
+    "titleTextEncoded": "Events",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(\n RE::videos(\n  RE::condition()\n   ->order('dateCreated')\n )\n   ->channel(6934755)\n);"
+    },
+    "transcripts": null
+}

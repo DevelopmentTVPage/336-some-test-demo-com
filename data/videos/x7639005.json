@@ -1,0 +1,102 @@
+{
+    "title": "Sennheiser MX686 Headphones Overview",
+    "description": "Here are Sennheiser's in-ear sports series headphones, Model: MX686. Check out the video for more info!",
+    "referenceId": "e79ecc9ff39aa878be2b808afc6a5c09",
+    "date_created": "1443657600",
+    "date_modified": "1455789761",
+    "tags": "Sennheiser,MX686G,Sports Headphones,Galaxy,Android,dynamic sound,Sweat,water resistant,e smart remote,mic compatible,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "wearables",
+    "age_gate": "no",
+    "video_brand": "sennheiser",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "15",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639005",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "65648629",
+    "titleTextEncoded": "Sennheiser-MX686-Headphones-Overview",
+    "category": "",
+    "duration": 110,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "110",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "110",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/617834230-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/6fec0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639005\/144p_c5ea1_(10-01-2015)_Sennheiser_MX686_Headphones_23-106-781_Final.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:01:50"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

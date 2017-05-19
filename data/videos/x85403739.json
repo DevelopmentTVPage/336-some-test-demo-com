@@ -1,0 +1,103 @@
+{
+    "title": "Engenius EWS1200-28T",
+    "description": "EnGenius EWS1200-28T is a 24-Port Gigabit Layer 2 Managed Smart Switch with WLAN controller for simplified network configuration, monitoring, and management options plus ezMaster\u2122 Centralized Network Management Software, a robust, yet easy-to-use Web-based tool. Its enterprise-class features optimize network efficiency ensuring peak performance while reducing capital and operating expenses for cost-conscious SMB organizations.",
+    "referenceId": "5f99f50eb2426d3482e5e8dff9fca1ff",
+    "date_created": "1487179213",
+    "date_modified": "1487180022",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": null,
+    "video_category": null,
+    "age_gate": null,
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "43",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "85403739",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "engenius-router-V1-mp4",
+    "category": "",
+    "duration": "111",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "111",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "111",
+        "prettyDuration": "00:01:51",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/thumb-5f99f50eb2426d3482e5e8dff9fca1ff-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/85403739\/4e56c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

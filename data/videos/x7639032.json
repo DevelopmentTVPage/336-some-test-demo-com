@@ -1,0 +1,103 @@
+{
+    "title": "Samsung Portable T1 SSD Overview",
+    "description": "Here's an External SSD, made by Samsung, Model: T1. Check out the video for more info!<br \/>\n<br \/>\nSamsung T1 SSD Overview",
+    "referenceId": "50401a0c62132cc3eb85223edf4c7411",
+    "date_created": "1427760000",
+    "date_modified": "1455790460",
+    "tags": "SAMSUNG,250GB,500gb,1tb,USB 3.0,Portable SSD,Read-write Speeds 450 MB\/s,256 bit,memory,external,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "storage",
+    "age_gate": "no",
+    "video_brand": "samsung",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "14",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7639032",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "58",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Samsung-Portable-T1-SSD-Overview",
+    "category": "",
+    "duration": 108,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "108",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "108",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/608176598-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639032\/12e95a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639032\/12e95a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639032\/12e95\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639032\/12e95\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639032\/12e95\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639032\/12e95\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639032\/12e95\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7639032\/144p_e3549_(03-31-2015)_Samsung_T1_SSD_20-147-378.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:01:48"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

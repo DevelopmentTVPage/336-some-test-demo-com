@@ -1,0 +1,873 @@
+{
+    "pageNumber": 1,
+    "data": [
+        {
+            "id": "7172473",
+            "title": "Let's Play Borderlands: Pre-Sequel - GameCrate",
+            "date_created": "1413244800",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "Discover the story behind Borderlands 2's villain, Handsome Jack, and his rise to power in this brand new game in the Borderlands Series. Taking place between the original Borderlands and Borderlands 2, the Pre-Sequel gives you a whole lot of new gameplay featuring the genre-fusion of shooter and RPG gameplay that players can't get enough of.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "2135",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "2135",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/624050751-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554a\/media.m3u8",
+                "prettyDuration": "00:35:35",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/81554\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172473\/144p_9deff_Let's_Play_Borderlands_Pre-Sequel_-_GameCrate.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/let-s-play-borderlands-pre-sequel-gamecrate\/65648630-7172473"
+        },
+        {
+            "id": "7172478",
+            "title": "Let's Play Sportsfriends",
+            "date_created": "1412899200",
+            "loginId": "1758381",
+            "tags": "sportsfriends, gaming, gamecrate, newegg, computer, console, pc, barabariball",
+            "description": "Let's see who wins the trophy while they fight to the death! (not really) in BARABARIBALL!!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1022",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1022",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/845467250-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172478\/4170ca\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172478\/4170ca\/media.m3u8",
+                "prettyDuration": "00:17:02",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172478\/4170c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172478\/4170c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172478\/4170c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172478\/4170c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172478\/4170c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172478\/144p_9fc42_Let's_Play_Sportsfriends_-_GameCrate.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/let-s-play-sportsfriends\/65648630-7172478"
+        },
+        {
+            "id": "7172475",
+            "title": "Let's Play Middle-Earth: Shadow of Mordor - GameCrate",
+            "date_created": "1412640000",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "Let's Play Middle-earth: Shadow of Mordor - GameCrate",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1015",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1015",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/917272471-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638ea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638ea\/media.m3u8",
+                "prettyDuration": "00:16:55",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/2638e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172475\/144p_bddf8_Let's_Play_Middle-Earth_Shadow_of_Mordor_-_GameCrate.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/let-s-play-middle-earth-shadow-of-mordor-gamecrate\/65648630-7172475"
+        },
+        {
+            "id": "7172474",
+            "title": "Let's Play Hyrule Dynasty Warriors - GameCrate",
+            "date_created": "1412035200",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "Cut down entire legions of enemies as Link, Zelda, Midna and other characters from The Legend of Zelda franchise using over-the-top powerful Dynasty Warriors-style moves.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "963",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "963",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/516551766-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172474\/f3780a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172474\/f3780a\/media.m3u8",
+                "prettyDuration": "00:16:03",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172474\/f3780\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172474\/f3780\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172474\/f3780\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172474\/f3780\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172474\/f3780\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172474\/144p_9aaf4_Let's_Play_Hyrule_Dynasty_Warriors_-_GameCrate.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/let-s-play-hyrule-dynasty-warriors-gamecrate\/65648630-7172474"
+        },
+        {
+            "id": "7172476",
+            "title": "Let's Play Sid Meier's Civilization: Beyond Earth - GameCrate",
+            "date_created": "1411689600",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "Ever wonder what you would do if you can create your own world Beyond Earth? Travel through space with Rachel and Nicks gameplay of Civilization: Beyond Earth as they colonize new planets and build a new world!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1790",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1790",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/950381390-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172476\/b19e2a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172476\/b19e2a\/media.m3u8",
+                "prettyDuration": "00:29:50",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172476\/b19e2\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172476\/b19e2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172476\/b19e2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172476\/b19e2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172476\/b19e2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172476\/144p_d4a5c_Let's_Play_Sid_Meier's_Civilization_Beyond_Earth_-_GameCrate.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/let-s-play-sid-meier-s-civilization-beyond-earth-gamecrate\/65648630-7172476"
+        },
+        {
+            "id": "7172479",
+            "title": "Lets Play! Destiny - GameCrate",
+            "date_created": "1410825600",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "With mankind on the brink of extinction, join Q and Rachel in this post-apocalyptic journey seven hundred years into the future saving human civilization. This is their Destiny.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "964",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "964",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/197703076-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172479\/647cea\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172479\/647cea\/media.m3u8",
+                "prettyDuration": "00:16:04",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172479\/647ce\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172479\/647ce\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172479\/647ce\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172479\/647ce\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172479\/647ce\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172479\/144p_53cfc_Lets_Play!_Destiny_-_GameCrate.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/lets-play-destiny-gamecrate\/65648630-7172479"
+        },
+        {
+            "id": "7172481",
+            "title": "Lets Play! Nosgoth - GameCrate",
+            "date_created": "1410480000",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "Nosgoth is a free-to-play, 3rd person PVP combat game from Square Enix which is currently in closed beta. Follow Rachel and Nick as they battle vampires and try not to get bitten by the creatures of the night!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1055",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1055",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/455611519-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172481\/956a2a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172481\/956a2a\/media.m3u8",
+                "prettyDuration": "00:17:35",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172481\/956a2\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172481\/956a2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172481\/956a2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172481\/956a2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172481\/956a2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172481\/144p_95cc1_Lets_Play!_Nosgoth_-_GameCrate.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/lets-play-nosgoth-gamecrate\/65648630-7172481"
+        },
+        {
+            "id": "7172482",
+            "title": "Lets Play! Surgeon Simulator - GameCrate",
+            "date_created": "1410393600",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "Two men, one patient! Join Q and Steve as they play DOCTOR on Playstation 4's Surgeon Simulator.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "669",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "669",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/537422028-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172482\/3eb1aa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172482\/3eb1aa\/media.m3u8",
+                "prettyDuration": "00:11:09",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172482\/3eb1a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172482\/3eb1a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172482\/3eb1a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172482\/3eb1a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172482\/3eb1a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172482\/144p_a6e2e_Lets_Play!_Surgeon_Simulator_-_GameCrate.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/lets-play-surgeon-simulator-gamecrate\/65648630-7172482"
+        },
+        {
+            "id": "7172472",
+            "title": "GameCrate & NeweggTV Mario Kart 8 Tournament",
+            "date_created": "1408579200",
+            "loginId": "1758381",
+            "tags": "mario kart 8, gaming, gamecrate, newegg, super mario, princess peach, racing, computer, wii u, nintendo, pc, console",
+            "description": "The Newegg TV team and GameCrate go head to head in this thrilling Mario Kart 8 tournament! Who will be the first to be eliminated and who will rise victorious? Grab your kart and your green shells and let's get started!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1023",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "1023",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/591728074-021280719.jpg",
+                "type": "mp4",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172472\/f304c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172472\/f304c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172472\/f304c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172472\/f304c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172472\/144p_f7ec5_GameCrate_&_NeweggTV_Mario_Kart_8_Tournament.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:17:03",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172472\/f304ca\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172472\/f304ca\/media.m3u8"
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/gamecrate-neweggtv-mario-kart-8-tournament\/65648630-7172472"
+        },
+        {
+            "id": "7172480",
+            "title": "Lets Play! Final Fantasy 14 - Newegg Arcade",
+            "date_created": "1404777600",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "Jenny sits down and shares her experience with FINAL FANTASY XIV!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "3478",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "3478",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/317748033-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172480\/945d2a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172480\/945d2a\/media.m3u8",
+                "prettyDuration": "00:57:58",
+                "uploadAsset": true,
+                "quality": "720p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172480\/945d2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172480\/945d2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480,
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172480\/945d2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172480\/945d2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172480\/144p_c00b2_Lets_Play!_Final_Fantasy_14_-_Newegg_Arcade.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/lets-play-final-fantasy-14-newegg-arcade\/65648630-7172480"
+        },
+        {
+            "id": "66650383",
+            "title": "Close-up with the Acer Predator gaming line",
+            "date_created": "1467766108",
+            "loginId": "1758381",
+            "tags": null,
+            "description": "For more on Acer's Predator products, check out: http:\/\/unlocked.newegg.com\/review-acer-predator-15-gaming-laptop\/\n\nIn this interview from Newegg's We Own the Night 2015 BlizzCon after-party, Eric Ackerson from Acer takes us through the company's new Predator line of gaming hardware.\n\nFor more gaming news, visit http:\/\/GameCrate.com\n\nIntro music by Random aka Mega Ran (http:\/\/megaran.com) \n\nNeweggTV is growing! We're expanding to other channels to bring you even more content -- from the latest in computer hardware, to snazzy consumer electronics, and even video game overviews -- you can check it all out at the channel links below: \n\nCan't get enough cool tech? | subscribe to http:\/\/www.youtube.com\/newegg\n\nWant consumer electronics? | subscribe to http:\/\/www.youtube.com\/newegglifestyle\n\nInterested in gaming? | subscribe to http:\/\/youtube.com\/neweggarcade\n\nFor everything else, check out http:\/\/youtube.com\/neweggproducts\n\n\nFor a more in-depth view of Newegg behind the scenes, check out Newegg Unscrambled, The Official Newegg Blog! http:\/\/bit.ly\/W44W5o\n\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2011 Newegg Inc. All rights reserved.",
+            "asset": {
+                "type": "youtube",
+                "author": "GameCrate",
+                "hdvFlag": 1,
+                "hookText": "For more on Acer's Predator products, check out: http:\/\/unlocked.newegg.com\/review-acer-predator-15-gaming-laptop\/\n\nIn this interview from Newegg's We Own the Night 2015 BlizzCon after-party, Eric Ackerson from Acer takes us through the company's new Predator line of gaming hardware.\n\nFor more gaming news, visit http:\/\/GameCrate.com\n\nIntro music by Random aka Mega Ran (http:\/\/megaran.com) \n\nNeweggTV is growing! We're expanding to other channels to bring you even more content -- from the latest in computer hardware, to snazzy consumer electronics, and even video game overviews -- you can check it all out at the channel links below: \n\nCan't get enough cool tech? | subscribe to http:\/\/www.youtube.com\/newegg\n\nWant consumer electronics? | subscribe to http:\/\/www.youtube.com\/newegglifestyle\n\nInterested in gaming? | subscribe to http:\/\/youtube.com\/neweggarcade\n\nFor everything else, check out http:\/\/youtube.com\/neweggproducts\n\n\nFor a more in-depth view of Newegg behind the scenes, check out Newegg Unscrambled, The Official Newegg Blog! http:\/\/bit.ly\/W44W5o\n\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2011 Newegg Inc. All rights reserved.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ZD4RKgzSMoA\/hqdefault.jpg",
+                "videoId": "ZD4RKgzSMoA",
+                "mediaDuration": 314,
+                "prettyDuration": "00:05:14"
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/close-up-with-the-acer-predator-gaming-line\/65648630-66650383"
+        },
+        {
+            "id": "67494988",
+            "title": "GameCrate Plays - Keep Talking and Nobody Explodes (Dam you Morse Code!)",
+            "date_created": "1471285179",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "We try our hand at the tense VR experience Keep Talking and Nobody Explodes. Do we explode? Probably, right?<\/br>\n<\/br>\nFor more VR news and hardware, visit: http:\/\/www.newegg.com\/vr<\/br>\n<\/br>\nFor more gaming news and hardware reviews, subscribe to us and check out http:\/\/GameCrate.com<\/br>\n<\/br>\nIntro music by Random aka Mega Ran (http:\/\/megaran.com) <\/br>\n<\/br>\nEnd slate song: Ready by Meganeko\nhttps:\/\/meganeko.bandcamp.com\/\n<\/br>\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2011-2016 Newegg Inc. All rights reserved.",
+            "asset": {
+                "type": "youtube",
+                "author": "GameCrate",
+                "hdvFlag": 1,
+                "hookText": "We try our hand at the tense VR experience Keep Talking and Nobody Explodes. Do we explode? Probably, right?\n\nFor more VR news and hardware, visit: http:\/\/www.newegg.com\/vr\n\nFor more gaming news and hardware reviews, subscribe to us and check out http:\/\/GameCrate.com\n\nIntro music by Random aka Mega Ran (http:\/\/megaran.com) \n\nEnd slate song: Ready by Meganeko\nhttps:\/\/meganeko.bandcamp.com\/\n\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2011-2016 Newegg Inc. All rights reserved.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/z006R17i6h0\/hqdefault.jpg",
+                "videoId": "z006R17i6h0",
+                "mediaDuration": 679,
+                "prettyDuration": "00:11:19",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/gamecrate-plays-keep-talking-and-nobody-explodes-dam-you-morse-code\/65648630-67494988"
+        },
+        {
+            "id": "67494989",
+            "title": "GameCrate Plays - Keep Talking and Nobody Explodes (Dam you Morse Code!)",
+            "date_created": "1471285359",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "We try our hand at the tense VR experience Keep Talking and Nobody Explodes. Do we explode? Probably, right?<\/br>\n<\/br>\nFor more VR news and hardware, visit: http:\/\/www.newegg.com\/vr<\/br>\n<\/br>\nFor more gaming news and hardware reviews, subscribe to us and check out http:\/\/GameCrate.com\n<\/br>\nIntro music by Random aka Mega Ran (http:\/\/megaran.com) <\/br>\n<\/br>\nEnd slate song: Ready by Meganeko\nhttps:\/\/meganeko.bandcamp.com\/\n<\/br>\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2011-2016 Newegg Inc. All rights reserved.",
+            "asset": {
+                "type": "youtube",
+                "author": "GameCrate",
+                "hdvFlag": 1,
+                "hookText": "We try our hand at the tense VR experience Keep Talking and Nobody Explodes. Do we explode? Probably, right?\n\nFor more VR news and hardware, visit: http:\/\/www.newegg.com\/vr\n\nFor more gaming news and hardware reviews, subscribe to us and check out http:\/\/GameCrate.com\n\nIntro music by Random aka Mega Ran (http:\/\/megaran.com) \n\nEnd slate song: Ready by Meganeko\nhttps:\/\/meganeko.bandcamp.com\/\n\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2011-2016 Newegg Inc. All rights reserved.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/z006R17i6h0\/hqdefault.jpg",
+                "videoId": "z006R17i6h0",
+                "mediaDuration": 679,
+                "prettyDuration": "00:11:19",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/gamecrate-plays-keep-talking-and-nobody-explodes-dam-you-morse-code\/65648630-67494989"
+        },
+        {
+            "id": "67494990",
+            "title": "Gamecrate Plays Live - VR Pictionary (Team 1 vs Team A!)",
+            "date_created": "1471285426",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "For more VR news and hardware, visit: http:\/\/www.newegg.com\/vr<\/br>\n<\/br>\nFor more gaming news and hardware reviews, subscribe to us and check out http:\/\/GameCrate.com<\/br>\n<\/br>\nMusic provided by Meganeko:\nhttps:\/\/meganeko.bandcamp.com\/<\/br>\n<\/br>\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2011-2016 Newegg Inc. All rights reserved.",
+            "asset": {
+                "type": "youtube",
+                "author": "GameCrate",
+                "hdvFlag": 1,
+                "hookText": "For more VR news and hardware, visit: http:\/\/www.newegg.com\/vr\n\nFor more gaming news and hardware reviews, subscribe to us and check out http:\/\/GameCrate.com\n\nMusic provided by Meganeko:\nhttps:\/\/meganeko.bandcamp.com\/\n\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2011-2016 Newegg Inc. All rights reserved.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/_SO4mBs9dIA\/hqdefault.jpg",
+                "videoId": "_SO4mBs9dIA",
+                "mediaDuration": 4090,
+                "prettyDuration": "01:08:10",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/gamecrate-plays-live-vr-pictionary-team-1-vs-team-a\/65648630-67494990"
+        },
+        {
+            "id": "67494991",
+            "title": "GameCrate Plays - TheBlu (Quick Play)",
+            "date_created": "1471285501",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "Taking a dip into the deep seas with TheBlu VR. <\/br>\n<\/br>\nFor more virtual reality content, visit: http:\/\/www.newegg.com\/vr<\/br>\n<\/br>\nFor more gaming news and hardware reviews, subscribe to us and check out http:\/\/GameCrate.com<\/br>\n<\/br>\nIntro music by Random aka Mega Ran (http:\/\/megaran.com) \n<\/br>\nMain song used:\nUnderwater Theme - Super Mario World\n<\/br>\nEnd slate song: Ready by Meganeko\nhttps:\/\/meganeko.bandcamp.com\/\n<\/br>\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2011-2016 Newegg Inc. All rights reserved.",
+            "asset": {
+                "type": "youtube",
+                "author": "GameCrate",
+                "hdvFlag": 1,
+                "hookText": "Taking a dip into the deep seas with TheBlu VR. \n\nFor more virtual reality content, visit: http:\/\/www.newegg.com\/vr\n\nFor more gaming news and hardware reviews, subscribe to us and check out http:\/\/GameCrate.com\n\nIntro music by Random aka Mega Ran (http:\/\/megaran.com) \n\nMain song used:\nUnderwater Theme - Super Mario World\n\nEnd slate song: Ready by Meganeko\nhttps:\/\/meganeko.bandcamp.com\/\n\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2011-2016 Newegg Inc. All rights reserved.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/uHt8uXZEM44\/hqdefault.jpg",
+                "videoId": "uHt8uXZEM44",
+                "mediaDuration": 184,
+                "prettyDuration": "00:03:04",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/gamecrate-plays-theblu-quick-play\/65648630-67494991"
+        },
+        {
+            "id": "67494992",
+            "title": "GameCrate Plays - Keep Talking and Nobody Explodes (Dam you Morse Code!)",
+            "date_created": "1471285729",
+            "loginId": "1758381",
+            "tags": "",
+            "description": "We try our hand at the tense VR experience Keep Talking and Nobody Explodes. Do we explode? Probably, right?<\/br>\n<\/br>\nFor more VR news and hardware, visit: http:\/\/www.newegg.com\/vr<\/br>\n<\/br>\nFor more gaming news and hardware reviews, subscribe to us and check out http:\/\/GameCrate.com<\/br>\n<\/br>\nIntro music by Random aka Mega Ran (http:\/\/megaran.com) \n<\/br>\nEnd slate song: Ready by Meganeko\nhttps:\/\/meganeko.bandcamp.com\/\n<\/br>\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2011-2016 Newegg Inc. All rights reserved.",
+            "asset": {
+                "type": "youtube",
+                "author": "GameCrate",
+                "hdvFlag": 1,
+                "hookText": "We try our hand at the tense VR experience Keep Talking and Nobody Explodes. Do we explode? Probably, right?\n\nFor more VR news and hardware, visit: http:\/\/www.newegg.com\/vr\n\nFor more gaming news and hardware reviews, subscribe to us and check out http:\/\/GameCrate.com\n\nIntro music by Random aka Mega Ran (http:\/\/megaran.com) \n\nEnd slate song: Ready by Meganeko\nhttps:\/\/meganeko.bandcamp.com\/\n\nNewegg Inc. provides the information contained herein as an educational service. Although we believe the information in this presentation to be accurate and timely, because of the rapid changes in the industry and our reliance on information provided by outside sources, we make no warranty or guarantee concerning the accuracy or reliability of the content or other material which we may reference. This presentation is provided on an \"as is\" basis without warranties of any kind, expressed or implied, including but not limited to warranties of title, non-infringement or implied warranties of merchantability or fitness for a particular purpose. This video\/audio file is the property of Newegg Inc. Newegg Inc. grants permission to distribute, rebroadcast or copy this file, provided that (1) the below copyright notice appears in all copies (2) is for non-commercial use only and (3) is not modified in any way.\nCopyright \u00a9 2011-2016 Newegg Inc. All rights reserved.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/z006R17i6h0\/hqdefault.jpg",
+                "videoId": "z006R17i6h0",
+                "mediaDuration": 679,
+                "prettyDuration": "00:11:19",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "65648630",
+            "url": "\/gamecrate\/gamecrate-plays-keep-talking-and-nobody-explodes-dam-you-morse-code\/65648630-67494992"
+        }
+    ]
+}

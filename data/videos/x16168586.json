@@ -1,0 +1,102 @@
+{
+    "title": "Func HS-260 3.5mm Connector Circumaural Gaming Headset Overview",
+    "description": "Enjoy amazing sound and superior comfort with the HS-260 gaming headset. Impressive 50mm audio drivers deliver clean and crisp sound, while the closed-ear cup design with changeable ear cushions gives you the ultimate in comfort -- even after extended use. The sound and volume controls are integrated onto the left ear cup, allowing you to keep your eyes focused on the screen with minimal distractions. The added features of the removable microphone and detachable cord solution ensure that you have a well-rounded, multi-functional gaming headset.",
+    "referenceId": "1c30a598fa05d312dff32b703cdaa156",
+    "date_created": "1393372800",
+    "date_modified": "1455794730",
+    "tags": "Func,HS-260,3.5mm,Connector,Circumaural,Gaming,Headset,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "video_type": "overviews",
+    "video_category": "peripherals",
+    "age_gate": "no",
+    "video_brand": "func",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "16168586",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "182",
+    "entityIdParent": "65705815",
+    "titleTextEncoded": "Func-HS-260-3-5mm-Connector-Circumaural-Gaming-Headset-Overview",
+    "category": "",
+    "duration": 224,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "224",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "224",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/445301313-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168586\/4b261a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168586\/4b261a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168586\/4b261\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168586\/4b261\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168586\/4b261\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168586\/4b261\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168586\/4b261\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168586\/144p_f3b4e_(02-26-2014)_Func_HS-260_Headset_26-247-002.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:03:44"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}
