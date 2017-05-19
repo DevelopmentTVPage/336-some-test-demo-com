@@ -1,0 +1,1381 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "7172406",
+            "title": "How to Build a PC - Part 2",
+            "date_created": "1412294400",
+            "loginId": "1758381",
+            "tags": "build,pc,intel,amd,motherboard,mother,board,cpu,gpu,videocard,video,card,case,atx,itx,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "---------How to Build a PC Part 2 ----------<br \/>\n00:26 Introduction<br \/>\n03:04 Install Using Optical Media<br \/>\n10:20 Install Using Flash Drive<br \/>\n19:23 Drivers - AMD<br \/>\n29:22 Drivers - Intel<br \/>\n42:54 Storage Drive<br \/>",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "3044",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "3044",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/thumb-e1af789760ef8afbbaf959006239bac8-00002.png",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfba\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/144p_fa446_How_to_Build_a_PC_-_Part_2_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:50:44"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/how-to-build-a-pc-part-2\/6934756-7172406"
+        },
+        {
+            "id": "7172405",
+            "title": "How to Build a PC - Part 1",
+            "date_created": "1411948800",
+            "loginId": "1758381",
+            "tags": "build,pc,intel,amd,motherboard,mother,board,cpu,gpu,videocard,video,card,case,atx,itx,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "-------- How to Build a PC Part 1 --------<br \/>\n00:35 Introduction <br \/>\n01:13 What is a Computer?<br \/>\n05:24 Choosing Parts - Intel<br \/>\n15:34 Choosing Parts - AMD <br \/>\n21:28 Preparation & Tools <br \/>\n23:57 Outside the Box Build <br \/>\n36:43 Case Prep <br \/>\n37:24 Motherboard <br \/>\n39:17 CPU Cooler <br \/>\n43:14 Motherboard Connections <br \/>\n45:35 Power Supply <br \/>\n47:11 Storage <br \/>\n52:35 Video Card<br \/>\n54:09 Cable Management<br \/>\n56:30  AMD System<br \/>",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "4485",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "4485",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/542585919-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172405\/9b751a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172405\/9b751a\/media.m3u8",
+                "prettyDuration": "01:14:45",
+                "uploadAsset": true,
+                "quality": "1080p",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172405\/9b751\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172405\/9b751\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172405\/9b751\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172405\/9b751\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172405\/9b751\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172405\/144p_cb8a9_How_to_Build_a_PC_-_Part_1_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/how-to-build-a-pc-part-1\/6934756-7172405"
+        },
+        {
+            "id": "22103910",
+            "title": "Gaming PC Build for Mike Ross",
+            "date_created": "1376006400",
+            "loginId": "1758381",
+            "tags": "Mike Ross,Mike,Ross,thatmikeross,Street Fighter,Champion,Capcom,Computer,Build,gaming,PC,AMD,Asus,Cooler Master,Creative Labs,G.Skill,gskill,Plantronics,Samsung,Western Digital Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals",
+            "description": "Mike Ross joins us in studio to build his next Gaming PC.  He's a bit rusty, but he gets the job done with a little help from Steve. Don't know who Mike is? -Take a look at his bio:<\/br>\n<\/br>\nMike Ross - Street Fighter Champion<\/br>\nIn an industry where the champion gamers usually play StarCraft or other real time strategies, Mike Ross holds his own as a champion of Capcom's Street Fighter series. Starting from the bottom, he was one of the first to provide a personality for the entire fighting game community. Co-creator of the Cross Counter Live show, featured on G4TV Focus and IGN, and with a social media following of over 30,000 strong, Mike Ross has carved a niche for himself in this tough-as-nails competitive field and is ready for the next challenge.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "939",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "939",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/357711409-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649aa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649aa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/144p_4378f_Gaming_PC_Build_for_Mike_Ross_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:15:39"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/gaming-pc-build-for-mike-ross\/6934756-22103910"
+        },
+        {
+            "id": "22102205",
+            "title": "Dual Xeon Benchmark Build with SLR Lounge",
+            "date_created": "1375660800",
+            "loginId": "1758381",
+            "tags": "Slr lounge,xeon,dual,benchmark,Single-lens Reflex Camera,Computer,Newegg (Business Operation),newegg tv,newegg,SLR,digital,editing,photoshop,lightroom,Adobe Photoshop (Software),rosewill,asus",
+            "description": "Today we are joined by Pye Jirsa from SLR Lounge (www.slrlounge.com) for an epic build project. The team at SLR Lounge wanted to pit a high-core-count system against their current overclocked rig, so what follows is the assembly of a dual Xeon E5-2650 powered system with 960GB of SSD storage and 64GB of DDR3 RAM.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "978",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "978",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/176645719-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17aa\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17aa\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/144p_1ad96_Dual_Xeon_Benchmark_Build_with_SLR_Lounge_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:16:18"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/dual-xeon-benchmark-build-with-slr-lounge\/6934756-22102205"
+        },
+        {
+            "id": "22100347",
+            "title": "Charity PC Build Race with KBMOD for Extra Life 2013",
+            "date_created": "1382659200",
+            "loginId": "1758381",
+            "tags": "Charity,Build,Race,KBMOD,Extra Life,extralife,kids,2013,NVIDIA,gtx,Newegg (Business Operation),Newegg,Newegg.com,Newegg TV,NeweggTV,motherboard,installation,video,technology,electronics,deals,shop,PC,computer,gaming,paul,NZXT,Intel,ASUS,EVGA,Seagate,G.Ski",
+            "description": "KBMOD joined us for some fun times and also computer building. The computers will be raffled off on Nov. 2nd 2013 during the Extra Life charity event.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1022",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1022",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/891207550-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/144p_8a03a_Charity_PC_Build_Race_with_KBMOD_for_Extra_Life_2013.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:17:02"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/charity-pc-build-race-with-kbmod-for-extra-life-2013\/6934756-22100347"
+        },
+        {
+            "id": "22091491",
+            "title": "3, 2, 1, Build! 2013 Haswell Edition Featuring our Blizzcon Sponsors",
+            "date_created": "1381795200",
+            "loginId": "1758381",
+            "tags": "computer,build,race,intel,haswell,4th,core,rosewill,crucial,seagate,gigabyte,evga,nvidia,gtx,tech,Newegg (Business Operation),Newegg,Newegg.com,Newegg TV,NeweggTV,video,technology,electronics,deals,shop,PC,gaming,paul,kyle,steve,jennifer,BlizzCon (Confere",
+            "description": "It's another 3, 2, 1, Build Race! <\/br>\nThis edition features Intel 4th Generation Core (Haswell) CPUs as well as components from our BlizzCon 2013 sponsors: Rosewill, Crucial, Seagate, Gigabyte, and EVGA.<\/br>\n<\/br>\nSteve, Kyle and Jenny square off in a speed build contest, and the best part is that these builds are destined for giveaway to our lucky fans! If you're not a lucky winner, these builds are also available for purchase as Newegg Super Combos.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "682",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "682",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/575350252-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/144p_24525_3,_2,_1,_Build!_2013_Haswell_Edition_Featuring_our_Blizzcon_Sponsors.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:11:22"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/3-2-1-build-2013-haswell-edition-featuring-our-blizzcon-sponsors\/6934756-22091491"
+        },
+        {
+            "id": "22089170",
+            "title": "Rosewill Legacy MX2 Build",
+            "date_created": "1394582400",
+            "loginId": "1758381",
+            "tags": "Rosewill,Legacy,MX2,Silver,Trio,Fans,Aluminum,Alloy,ATX,Mid,Tower,Computer,Case,i7,4770K,Haswell,Intel,RCX-Z90-CP,Kingston,HyperX,3k,SSD,Predator,z87,Asus,Gryphon,Armor,Kit,EVGA,Hive,750W,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electr",
+            "description": "Hey, welcome back to another build, this time featuring the Rosewill Legacy MX2 case!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "404",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "404",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/898140941-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfca\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfca\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/144p_a969d_(03-12-2014)_Rosewill_Legacy_MX2_Build.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:06:44"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/rosewill-legacy-mx2-build\/6934756-22089170"
+        },
+        {
+            "id": "22087015",
+            "title": "Water Cooled Build with Geek Magazine Part 1",
+            "date_created": "1380931200",
+            "loginId": "1758381",
+            "tags": "newegg,water cool,water cooling,system,rig,computer,pc,sell,hardware,components,retail,etail,retailer,e commerce,sale,electronics,consumer electronics,diy,geek,magazine,custom,tubes,geek magazine,geek exchange",
+            "description": "Newegg TV heads to Geek Magazine HQ to help build an epic water cooling system for an upcoming article.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "724",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "724",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/630853452-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22087015\/e149ca\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22087015\/e149ca\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22087015\/e149c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22087015\/e149c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22087015\/e149c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22087015\/e149c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22087015\/e149c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22087015\/144p_5b3a5_Water_Cooled_Build_with_Geek_Magazine_Part_1_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:12:04"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/water-cooled-build-with-geek-magazine-part-1\/6934756-22087015"
+        },
+        {
+            "id": "22083764",
+            "title": "The White Build",
+            "date_created": "1387497600",
+            "loginId": "1758381",
+            "tags": "white,computer,build,the white build,newegg,paul,kyle,pc,Personal Computer (Video Game Version),intel,4770k,gtx 770,nvidia,gigabyte,ssd,hynix,fractal,define,r4,psu,corsair,silverstone,z87,video,technology,electronics,deals,shop,PC,gaming",
+            "description": "Here's our long-awaited White Build.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "940",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "940",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/816189933-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/144p_9096c_The_White_Build.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:15:40"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/the-white-build\/6934756-22083764"
+        },
+        {
+            "id": "22080024",
+            "title": "Gabe's Diablo III Gaming Computer Build - GTX 670, i5 3570K, Z77",
+            "date_created": "1336953600",
+            "loginId": "1758381",
+            "tags": "Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,ASUS,N55SL-ES71,Windows,Intel,Core,i7-2670QM,i7,NVIDIA,GeForce,GT,635M,notebook,laptop,wireless,DDR3,diablo,blizzard,beta,build,III",
+            "description": "Gabe wanted to be ready for Diablo III. Now he is.<\/br>\n<\/br>\nCase - Cooler Master HAF XM<\/br>\nPSU - Rosewill Hive 750W<\/br>\nCPU - Intel Core i5 3570K<\/br>\nCooler - Cooler Master Hyper 212 Evo<\/br>\nMobo - AsRock Z77 Extreme4<\/br>\nMemory - Patriot Gamer 2 Series 8GB (2 x 4GB) DDR3 1600<\/br>\nVideo Card - Gigabyte GeForce GTX 670 Windforce OC<\/br>\nSSD - Crucial M4 128GB<\/br>\nHDD - Seagate Barracuda 7200RPM 1TB<\/br>\nODD - ASUS DVD Burner<\/br>",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "494",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "494",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/347316167-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5da\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5da\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/144p_9dbed_Newegg_TV_Gabe's_Diablo_III_Gaming_Computer_Build_-_GTX_670,_i5_3570K,_Z77.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:08:14"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/gabe-s-diablo-iii-gaming-computer-build-gtx-670-i5-3570k-z77\/6934756-22080024"
+        },
+        {
+            "id": "22081200",
+            "title": "Rosewill Blizzcon Builds with Kevin Riley",
+            "date_created": "1382918400",
+            "loginId": "1758381",
+            "tags": "Blizzcon,build,Rosewill,EVGA,GIGABYTE,Intel,g.skill,seagate,2013,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing",
+            "description": "Blizzcon is right around the corner so we talked to Pro Starcraft 2 Player Kevin \"qxc\" Riley and asked him to build a computer with us. He accepted and we were so excited that we built 2 computers. Check out the video for more details.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "388",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "388",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/839771481-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22081200\/1ee37a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22081200\/1ee37a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22081200\/1ee37\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22081200\/1ee37\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22081200\/1ee37\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22081200\/1ee37\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22081200\/1ee37\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22081200\/144p_18f6f_Rosewill_Blizzcon_Builds_with_Kevin_Riley_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:06:28"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/rosewill-blizzcon-builds-with-kevin-riley\/6934756-22081200"
+        },
+        {
+            "id": "22077230",
+            "title": "Gaming PC Build for Naomi Kyle",
+            "date_created": "1374192000",
+            "loginId": "1758381",
+            "tags": "Intel,Corsair,Gigabyte,Seagate,LG,Microsoft,Razer,Naomi Kyle,Gaming,Gaming PC,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,build",
+            "description": "Naomi Kyle joined us in studio to build her gaming rig along with some tutelage from Paul himself. Having some experience with PCs already, it didn't take much support from Paul before she was off and running! Naomi was a wonderful guest and wasn't afraid to dive right in. It was our pleasure to have her in-studio to build her PC. If you don't know who Naomi is, just take a look at her bio:<\/br>\n<\/br>\nNaomi Kyle is a well-established and versatile actress and host of IGN Entertainment video productions, including the award-winning show The Daily Fix. She first gained notoriety as a NEXT-Canada model working for a number of high-profile clients, but after landing her gig at IGN Entertainment, was able to get back to her first love of gaming and combine it with her love of entertainment. Naomi grew up playing video games in her spare time and is one of the pioneers of women in the gaming industry. With a social media following of more than 100,000 across twitter, facebook, instagram and more, Naomi has already struck a chord with her audience after just two years at IGN and is poised to take on the next challenge.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1005",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1005",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/817462461-021280717.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/144p_52fd4_Gaming_PC_Build_for_Naomi_Kyle_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:16:45"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/gaming-pc-build-for-naomi-kyle\/6934756-22077230"
+        },
+        {
+            "id": "22097780",
+            "title": "Building For A Cause - Hodgkin's Lymphoma Survivor Greg Gets an Upgrade",
+            "date_created": "1389916800",
+            "loginId": "1758381",
+            "tags": "Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,valerie center,valerie fund,greg,Hodgkin's Lymphoma (Disease Or Medical Condition)",
+            "description": "After being diagnosed with Hodgkin's Lymphoma, Greg received an anonymous grant to travel to anywhere in the U.S. Being a computer engineer major, and a huge fan of Newegg TV, he chose to visit us at our headquarters in the humble City of Industry. We were just as flattered by Greg's choice to visit us as we were impressed with his passion for computers, that we decided to express our gratitude and spread awareness by building him a proper gaming rig, because that's just how we roll.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "691",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "691",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/253784395-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22097780\/2ff10a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22097780\/2ff10a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22097780\/2ff10\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22097780\/2ff10\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22097780\/2ff10\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22097780\/2ff10\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22097780\/2ff10\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22097780\/144p_4f7af_Building_For_A_Cause_-_Hodgkin's_Lymphoma_Survivor_Greg_Gets_an_Upgrade.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:11:31"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/building-for-a-cause-hodgkin-s-lymphoma-survivor-greg-gets-an-upgrade\/6934756-22097780"
+        },
+        {
+            "id": "16168544",
+            "title": "AMD 7850K Build",
+            "date_created": "1388620800",
+            "loginId": "1758381",
+            "tags": "build,amd,7850k,paul,radeon,corsair,GIGABYTE,Radeon,R7,250,2GB,A10-7850k,AD785KXBJABOX,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a BUILD video featuring the new  A10-7850k R7 series   made by AMD, Model: AD785KXBJABOX. Check out the video for more info!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "375",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "375",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/719240310-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168544\/60be3a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168544\/60be3a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168544\/60be3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168544\/60be3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168544\/60be3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168544\/60be3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168544\/60be3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/16168544\/144p_8f590_(01-02-2014)_Corsair_250.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:06:15"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/amd-7850k-build\/6934756-16168544"
+        },
+        {
+            "id": "7172407",
+            "title": "The OMG It\u2019s FireFoxx?! Gaming Streaming Editing Build with OMGitsFireFoxx",
+            "date_created": "1411344000",
+            "loginId": "1758381",
+            "tags": "x99,build,evga,coolermaster,cooler,master,intel,core,i7,samsung,850 pro,ssd,g.skill,ddr4,omgitsfirefoxx,onhitsfirefox,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,western,digit",
+            "description": "So we bumped into this cool lady friend of mine that plays The Video Games on Twitch. She had some problems with her laptop and knew it was time to do an upgrade.  Thanks to Newegg and her FireFoxx Family, we were able to come together for this build.  Yes, we built an X99 system. Yes, people cried (Kyle).  Yes, I lied about the last thing (Steve cried).<br \/>\n<br \/>\nOMGitsFireFoxx\u2019s Gaming Streaming Editing Build Component List:\nhttp:\/\/bit.ly\/Neweggomgitsfirefoxxbuild",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1009",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1009",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/365877741-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/144p_de88e_The_OMG_It\u2019s_FireFoxx!_Gaming_Streaming_Editing_Build_with_OMGitsFireFoxx_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:16:49"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/the-omg-it-s-firefoxx-gaming-streaming-editing-build-with-omgitsfirefoxx\/6934756-7172407"
+        },
+        {
+            "id": "7172334",
+            "title": "Gaming Build with Kat Gunn",
+            "date_created": "1416787200",
+            "loginId": "1758381",
+            "tags": "Katt Gunn,build,gaming,editing build,gaming build,western digital,WD,kingston hyper x,kingston,windows,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "WCG Ultimate Gamer season 2 winner Kat Gunn jumps in the hot seat with Steve.  They discuss new games they want to play and New Eggs. Check out the build they did together!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "817",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "817",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/466773784-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172334\/a898ba\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172334\/a898ba\/media.m3u8",
+                "prettyDuration": "00:13:37",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172334\/a898b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172334\/a898b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172334\/a898b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172334\/a898b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172334\/a898b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172334\/144p_406f4_Gaming_Build_with_Kat_Gunn_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/gaming-build-with-kat-gunn\/6934756-7172334"
+        },
+        {
+            "id": "7172319",
+            "title": "GAMING Build with Joshua Gray",
+            "date_created": "1423440000",
+            "loginId": "1758381",
+            "tags": "esl,joshua gray,corsair,msi z97,msi gtx970,ax,intel core,i7,haswell,quad core,vengeance pro,wd black,neutron,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Joshua Gray gets upgraded as he joins Steve in the studio to build his new gaming rig!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "1350",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "1350",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/808431368-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172319\/b4871a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172319\/b4871a\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172319\/b4871\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172319\/b4871\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172319\/b4871\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172319\/b4871\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172319\/b4871\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172319\/144p_92252_GAMING_Build_with_Joshua_Gray_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "prettyDuration": "00:22:30"
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/gaming-build-with-joshua-gray\/6934756-7172319"
+        },
+        {
+            "id": "7172308",
+            "title": "Frag Doll Pixxel Gaming Build",
+            "date_created": "1399075200",
+            "loginId": "1758381",
+            "tags": "Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,fractal,nzxt,gigabyte,pny,enermax,intel,hyperx,kingston,wd,western,digital,creative,roccat,build,steve,pixxel,frag,dolls",
+            "description": "Eda crashed into our studio with all the energy of a sprinting WOW Hunter. She juggled parts & assembled them into the computer with the accuracy of a ninja & the speed of a hurricane.  Amid this whirling mass of parts, Steve was hit in the face with a Define R4 Windowed Side Panel.<br \/>\n<br \/>\nWho is Pixxel or Eda or whoever that chick is with the Pink hair?\nEdelita Valdez \u2014or more commonly known by her moniker Pixxel \u2014is one of the members of the all-girl, hardcore gaming team called the Frag Dolls that is sponsored by Ubisoft. Describing Eda as a hardcore gamer might be an understatement \u2014 from the time she could hold a pencil she was picking up the controller and dominating at classics like Duck Hunt and the original Mario. From there, she developed her love for RPGs after buying her first game for the playstation: Final Fantasy VIII. Living in San Francisco to study Computer Programming, Pixxel thrives not only on racking up high scores but also getting people excited about gaming, especially co-op gaming. You can often find her at events, interacting with her fans, and fostering a well-connected, socially active community of gamers.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "700",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "700",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/250874409-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127da\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127da\/media.m3u8",
+                "prettyDuration": "00:11:40",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/144p_9f835_Frag_Doll_Pixxel_Gaming_Build_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/frag-doll-pixxel-gaming-build\/6934756-7172308"
+        },
+        {
+            "id": "7172307",
+            "title": "AMD 7850K Build",
+            "date_created": "1399420800",
+            "loginId": "1758381",
+            "tags": "build,amd,7850k,paul,radeon,corsair,GIGABYTE,Radeon,R7,250,2GB,A10-7850k,AD785KXBJABOX,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer",
+            "description": "Here's a BUILD video featuring the new  A10-7850k R7 series made by AMD, Model: AD785KXBJABOX.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "390",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "390",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/215198764-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172307\/73ac9a\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172307\/73ac9a\/media.m3u8",
+                "prettyDuration": "00:06:30",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172307\/73ac9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172307\/73ac9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172307\/73ac9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172307\/73ac9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172307\/73ac9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172307\/144p_b4cb3_AMD_7850K_Build_-_Newegg_TV.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ]
+            },
+            "parentId": "6934756",
+            "url": "\/builds-source\/amd-7850k-build\/6934756-7172307"
+        }
+    ]
+}

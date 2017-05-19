@@ -1,0 +1,108 @@
+{
+    "title": "How to Build a PC - Part 2",
+    "description": "---------How to Build a PC Part 2 ----------<br \/>\n00:26 Introduction<br \/>\n03:04 Install Using Optical Media<br \/>\n10:20 Install Using Flash Drive<br \/>\n19:23 Drivers - AMD<br \/>\n29:22 Drivers - Intel<br \/>\n42:54 Storage Drive<br \/>",
+    "referenceId": "e1af789760ef8afbbaf959006239bac8",
+    "date_created": "1412294400",
+    "date_modified": "1456960181",
+    "tags": "build,pc,intel,amd,motherboard,mother,board,cpu,gpu,videocard,video,card,case,atx,itx,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,electronics,deals,shop,unboxing,overview,product tour,computer",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "howtos",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "765",
+    "CVV_VI": "145",
+    "engagement_score": "10",
+    "conversion_score": "8",
+    "id": "7172406",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "6934756",
+    "titleTextEncoded": "How-to-Build-a-PC-Part-2",
+    "category": "",
+    "duration": 3044,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "3044",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "3044",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/thumb-e1af789760ef8afbbaf959006239bac8-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfba\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfba\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/8cbfb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172406\/144p_fa446_How_to_Build_a_PC_-_Part_2_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:50:44"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

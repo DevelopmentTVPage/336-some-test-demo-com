@@ -1,0 +1,108 @@
+{
+    "title": "Gaming PC Build for Mike Ross",
+    "description": "Mike Ross joins us in studio to build his next Gaming PC.  He's a bit rusty, but he gets the job done with a little help from Steve. Don't know who Mike is? -Take a look at his bio:<\/br>\n<\/br>\nMike Ross - Street Fighter Champion<\/br>\nIn an industry where the champion gamers usually play StarCraft or other real time strategies, Mike Ross holds his own as a champion of Capcom's Street Fighter series. Starting from the bottom, he was one of the first to provide a personality for the entire fighting game community. Co-creator of the Cross Counter Live show, featured on G4TV Focus and IGN, and with a social media following of over 30,000 strong, Mike Ross has carved a niche for himself in this tough-as-nails competitive field and is ready for the next challenge.",
+    "referenceId": "74db8f1978771fd16b4526403d509ae2",
+    "date_created": "1376006400",
+    "date_modified": "1455805549",
+    "tags": "Mike Ross,Mike,Ross,thatmikeross,Street Fighter,Champion,Capcom,Computer,Build,gaming,PC,AMD,Asus,Cooler Master,Creative Labs,G.Skill,gskill,Plantronics,Samsung,Western Digital Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "builds",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "275",
+    "CVV_VI": "27",
+    "engagement_score": "3",
+    "conversion_score": "1",
+    "id": "22103910",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "6934756",
+    "titleTextEncoded": "Gaming-PC-Build-for-Mike-Ross",
+    "category": "",
+    "duration": 939,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "939",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "939",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/357711409-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649aa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649aa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/4649a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22103910\/144p_4378f_Gaming_PC_Build_for_Mike_Ross_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:15:39"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

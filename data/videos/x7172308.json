@@ -1,0 +1,110 @@
+{
+    "title": "Frag Doll Pixxel Gaming Build",
+    "description": "Eda crashed into our studio with all the energy of a sprinting WOW Hunter. She juggled parts & assembled them into the computer with the accuracy of a ninja & the speed of a hurricane.  Amid this whirling mass of parts, Steve was hit in the face with a Define R4 Windowed Side Panel.<br \/>\n<br \/>\nWho is Pixxel or Eda or whoever that chick is with the Pink hair?\nEdelita Valdez \u2014or more commonly known by her moniker Pixxel \u2014is one of the members of the all-girl, hardcore gaming team called the Frag Dolls that is sponsored by Ubisoft. Describing Eda as a hardcore gamer might be an understatement \u2014 from the time she could hold a pencil she was picking up the controller and dominating at classics like Duck Hunt and the original Mario. From there, she developed her love for RPGs after buying her first game for the playstation: Final Fantasy VIII. Living in San Francisco to study Computer Programming, Pixxel thrives not only on racking up high scores but also getting people excited about gaming, especially co-op gaming. You can often find her at events, interacting with her fans, and fostering a well-connected, socially active community of gamers.",
+    "referenceId": "b9949aa4e48638076773c2422905f49a",
+    "date_created": "1399075200",
+    "date_modified": "1476216733",
+    "tags": "Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,fractal,nzxt,gigabyte,pny,enermax,intel,hyperx,kingston,wd,western,digital,creative,roccat,build,steve,pixxel,frag,dolls",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": null,
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "199",
+    "CVV_VI": "48",
+    "engagement_score": "2",
+    "conversion_score": "2",
+    "id": "7172308",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "17",
+    "entityIdParent": "6934756",
+    "titleTextEncoded": "Frag-Doll-Pixxel-Gaming-Build",
+    "category": "",
+    "duration": 700,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "700",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "700",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/250874409-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127da\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127da\/media.m3u8",
+        "prettyDuration": "00:11:40",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/2127d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172308\/144p_9f835_Frag_Doll_Pixxel_Gaming_Build_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

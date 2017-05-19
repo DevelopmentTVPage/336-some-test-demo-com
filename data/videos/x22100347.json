@@ -1,0 +1,108 @@
+{
+    "title": "Charity PC Build Race with KBMOD for Extra Life 2013",
+    "description": "KBMOD joined us for some fun times and also computer building. The computers will be raffled off on Nov. 2nd 2013 during the Extra Life charity event.",
+    "referenceId": "1154ca74135fa0988b41d1091416b4a5",
+    "date_created": "1382659200",
+    "date_modified": "1455805396",
+    "tags": "Charity,Build,Race,KBMOD,Extra Life,extralife,kids,2013,NVIDIA,gtx,Newegg (Business Operation),Newegg,Newegg.com,Newegg TV,NeweggTV,motherboard,installation,video,technology,electronics,deals,shop,PC,computer,gaming,paul,NZXT,Intel,ASUS,EVGA,Seagate,G.Ski",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "builds",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "52",
+    "CVV_VI": "14",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "22100347",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "6934756",
+    "titleTextEncoded": "Charity-PC-Build-Race-with-KBMOD-for-Extra-Life-2013",
+    "category": "",
+    "duration": 1022,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1022",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1022",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/891207550-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/08522\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22100347\/144p_8a03a_Charity_PC_Build_Race_with_KBMOD_for_Extra_Life_2013.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:17:02"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

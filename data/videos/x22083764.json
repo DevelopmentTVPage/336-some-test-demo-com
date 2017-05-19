@@ -1,0 +1,108 @@
+{
+    "title": "The White Build",
+    "description": "Here's our long-awaited White Build.",
+    "referenceId": "6411e629810db48830d036e2dabe1081",
+    "date_created": "1387497600",
+    "date_modified": "1455804854",
+    "tags": "white,computer,build,the white build,newegg,paul,kyle,pc,Personal Computer (Video Game Version),intel,4770k,gtx 770,nvidia,gigabyte,ssd,hynix,fractal,define,r4,psu,corsair,silverstone,z87,video,technology,electronics,deals,shop,PC,gaming",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "builds",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "159",
+    "CVV_VI": "25",
+    "engagement_score": "2",
+    "conversion_score": "1",
+    "id": "22083764",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "6934756",
+    "titleTextEncoded": "The-White-Build",
+    "category": "",
+    "duration": 940,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "940",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "940",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/816189933-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/acf58\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22083764\/144p_9096c_The_White_Build.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:15:40"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

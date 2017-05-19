@@ -1,0 +1,108 @@
+{
+    "title": "Gaming PC Build for Naomi Kyle",
+    "description": "Naomi Kyle joined us in studio to build her gaming rig along with some tutelage from Paul himself. Having some experience with PCs already, it didn't take much support from Paul before she was off and running! Naomi was a wonderful guest and wasn't afraid to dive right in. It was our pleasure to have her in-studio to build her PC. If you don't know who Naomi is, just take a look at her bio:<\/br>\n<\/br>\nNaomi Kyle is a well-established and versatile actress and host of IGN Entertainment video productions, including the award-winning show The Daily Fix. She first gained notoriety as a NEXT-Canada model working for a number of high-profile clients, but after landing her gig at IGN Entertainment, was able to get back to her first love of gaming and combine it with her love of entertainment. Naomi grew up playing video games in her spare time and is one of the pioneers of women in the gaming industry. With a social media following of more than 100,000 across twitter, facebook, instagram and more, Naomi has already struck a chord with her audience after just two years at IGN and is poised to take on the next challenge.",
+    "referenceId": "5f8eb4210c5ec4b5db9d378aae573c4c",
+    "date_created": "1374192000",
+    "date_modified": "1455804624",
+    "tags": "Intel,Corsair,Gigabyte,Seagate,LG,Microsoft,Razer,Naomi Kyle,Gaming,Gaming PC,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,build",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "builds",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "224",
+    "CVV_VI": "31",
+    "engagement_score": "3",
+    "conversion_score": "1",
+    "id": "22077230",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "11",
+    "entityIdParent": "6934756",
+    "titleTextEncoded": "Gaming-PC-Build-for-Naomi-Kyle",
+    "category": "",
+    "duration": 1005,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1005",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1005",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/817462461-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/711c6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22077230\/144p_52fd4_Gaming_PC_Build_for_Naomi_Kyle_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:16:45"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}
