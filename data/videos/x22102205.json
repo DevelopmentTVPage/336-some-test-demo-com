@@ -1,0 +1,108 @@
+{
+    "title": "Dual Xeon Benchmark Build with SLR Lounge",
+    "description": "Today we are joined by Pye Jirsa from SLR Lounge (www.slrlounge.com) for an epic build project. The team at SLR Lounge wanted to pit a high-core-count system against their current overclocked rig, so what follows is the assembly of a dual Xeon E5-2650 powered system with 960GB of SSD storage and 64GB of DDR3 RAM.",
+    "referenceId": "27a3b5ed7d28e0a64c3582315e1ad213",
+    "date_created": "1375660800",
+    "date_modified": "1455805468",
+    "tags": "Slr lounge,xeon,dual,benchmark,Single-lens Reflex Camera,Computer,Newegg (Business Operation),newegg tv,newegg,SLR,digital,editing,photoshop,lightroom,Adobe Photoshop (Software),rosewill,asus",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "builds",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "194",
+    "CVV_VI": "40",
+    "engagement_score": "2",
+    "conversion_score": "2",
+    "id": "22102205",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "6934756",
+    "titleTextEncoded": "Dual-Xeon-Benchmark-Build-with-SLR-Lounge",
+    "category": "",
+    "duration": 978,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "978",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "978",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/176645719-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17aa\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17aa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/8b17a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22102205\/144p_1ad96_Dual_Xeon_Benchmark_Build_with_SLR_Lounge_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:16:18"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

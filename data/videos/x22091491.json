@@ -1,0 +1,108 @@
+{
+    "title": "3, 2, 1, Build! 2013 Haswell Edition Featuring our Blizzcon Sponsors",
+    "description": "It's another 3, 2, 1, Build Race! <\/br>\nThis edition features Intel 4th Generation Core (Haswell) CPUs as well as components from our BlizzCon 2013 sponsors: Rosewill, Crucial, Seagate, Gigabyte, and EVGA.<\/br>\n<\/br>\nSteve, Kyle and Jenny square off in a speed build contest, and the best part is that these builds are destined for giveaway to our lucky fans! If you're not a lucky winner, these builds are also available for purchase as Newegg Super Combos.",
+    "referenceId": "b89bba0ab4648e1265ddba14cd95a75e",
+    "date_created": "1381795200",
+    "date_modified": "1455805070",
+    "tags": "computer,build,race,intel,haswell,4th,core,rosewill,crucial,seagate,gigabyte,evga,nvidia,gtx,tech,Newegg (Business Operation),Newegg,Newegg.com,Newegg TV,NeweggTV,video,technology,electronics,deals,shop,PC,gaming,paul,kyle,steve,jennifer,BlizzCon (Confere",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "builds",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "165",
+    "CVV_VI": "29",
+    "engagement_score": "2",
+    "conversion_score": "1",
+    "id": "22091491",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "6934756",
+    "titleTextEncoded": "3-2-1-Build-2013-Haswell-Edition-Featuring-our-Blizzcon-Sponsors",
+    "category": "",
+    "duration": 682,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "682",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "682",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/575350252-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/10a00\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22091491\/144p_24525_3,_2,_1,_Build!_2013_Haswell_Edition_Featuring_our_Blizzcon_Sponsors.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:11:22"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

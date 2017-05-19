@@ -1,0 +1,108 @@
+{
+    "title": "Rosewill Legacy MX2 Build",
+    "description": "Hey, welcome back to another build, this time featuring the Rosewill Legacy MX2 case!",
+    "referenceId": "63f0a23b9a76bca47cdd7bd5d1423f37",
+    "date_created": "1394582400",
+    "date_modified": "1455804993",
+    "tags": "Rosewill,Legacy,MX2,Silver,Trio,Fans,Aluminum,Alloy,ATX,Mid,Tower,Computer,Case,i7,4770K,Haswell,Intel,RCX-Z90-CP,Kingston,HyperX,3k,SSD,Predator,z87,Asus,Gryphon,Armor,Kit,EVGA,Hive,750W,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electr",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "builds",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": "rosewill",
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "217",
+    "CVV_VI": "45",
+    "engagement_score": "2",
+    "conversion_score": "2",
+    "id": "22089170",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "6934756",
+    "titleTextEncoded": "Rosewill-Legacy-MX2-Build",
+    "category": "",
+    "duration": 404,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "404",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "404",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/898140941-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfca\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfca\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/e2bfc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22089170\/144p_a969d_(03-12-2014)_Rosewill_Legacy_MX2_Build.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:06:44"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

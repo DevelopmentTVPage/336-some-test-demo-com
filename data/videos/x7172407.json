@@ -1,0 +1,108 @@
+{
+    "title": "The OMG It\u2019s FireFoxx?! Gaming Streaming Editing Build with OMGitsFireFoxx",
+    "description": "So we bumped into this cool lady friend of mine that plays The Video Games on Twitch. She had some problems with her laptop and knew it was time to do an upgrade.  Thanks to Newegg and her FireFoxx Family, we were able to come together for this build.  Yes, we built an X99 system. Yes, people cried (Kyle).  Yes, I lied about the last thing (Steve cried).<br \/>\n<br \/>\nOMGitsFireFoxx\u2019s Gaming Streaming Editing Build Component List:\nhttp:\/\/bit.ly\/Neweggomgitsfirefoxxbuild",
+    "referenceId": "b4cc51fd82ad037214e87ceccb28bd72",
+    "date_created": "1411344000",
+    "date_modified": "1455784041",
+    "tags": "x99,build,evga,coolermaster,cooler,master,intel,core,i7,samsung,850 pro,ssd,g.skill,ddr4,omgitsfirefoxx,onhitsfirefox,Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,western,digit",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": null,
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "266",
+    "CVV_VI": "53",
+    "engagement_score": "3",
+    "conversion_score": "2",
+    "id": "7172407",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "14",
+    "entityIdParent": "6934756",
+    "titleTextEncoded": "The-OMG-It-s-FireFoxx-Gaming-Streaming-Editing-Build-with-OMGitsFireFoxx",
+    "category": "",
+    "duration": 1009,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1009",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1009",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/365877741-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2a\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/fd9e2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/7172407\/144p_de88e_The_OMG_It\u2019s_FireFoxx!_Gaming_Streaming_Editing_Build_with_OMGitsFireFoxx_-_Newegg_TV.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:16:49"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Gabe's Diablo III Gaming Computer Build - GTX 670, i5 3570K, Z77",
+    "description": "Gabe wanted to be ready for Diablo III. Now he is.<\/br>\n<\/br>\nCase - Cooler Master HAF XM<\/br>\nPSU - Rosewill Hive 750W<\/br>\nCPU - Intel Core i5 3570K<\/br>\nCooler - Cooler Master Hyper 212 Evo<\/br>\nMobo - AsRock Z77 Extreme4<\/br>\nMemory - Patriot Gamer 2 Series 8GB (2 x 4GB) DDR3 1600<\/br>\nVideo Card - Gigabyte GeForce GTX 670 Windforce OC<\/br>\nSSD - Crucial M4 128GB<\/br>\nHDD - Seagate Barracuda 7200RPM 1TB<\/br>\nODD - ASUS DVD Burner<\/br>",
+    "referenceId": "aca913d663a50c47bd10db58eff6bc43",
+    "date_created": "1336953600",
+    "date_modified": "1455804724",
+    "tags": "Newegg,Newegg.com,Newegg TV,NeweggTV,review,technology,video,electronics,deals,shop,unboxing,overview,product tour,computer,ASUS,N55SL-ES71,Windows,Intel,Core,i7-2670QM,i7,NVIDIA,GeForce,GT,635M,notebook,laptop,wireless,DDR3,diablo,blizzard,beta,build,III",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "video_type": "builds",
+    "video_category": "desktops",
+    "age_gate": "no",
+    "video_brand": null,
+    "visibility": "1",
+    "video_description": null,
+    "featured_category": null,
+    "VV_VI": "135",
+    "CVV_VI": "19",
+    "engagement_score": "1",
+    "conversion_score": "1",
+    "id": "22080024",
+    "loginId": "1758381",
+    "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "6934756",
+    "titleTextEncoded": "Gabe-s-Diablo-III-Gaming-Computer-Build-GTX-670-i5-3570K-Z77",
+    "category": "",
+    "duration": 494,
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "494",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "494",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758381\/canvas\/655\/368\/347316167-021280717.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5da\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5da\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/48c5d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758381\/22080024\/144p_9dbed_Newegg_TV_Gabe's_Diablo_III_Gaming_Computer_Build_-_GTX_670,_i5_3570K,_Z77.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:08:14"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-17",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-17"
+            }
+        }
+    }
+}
