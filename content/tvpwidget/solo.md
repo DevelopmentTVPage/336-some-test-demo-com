@@ -12,5 +12,5 @@
     "name": "solo",
     "channelId": "6934756",
     "layout": "bootstrap",
-    "exchange": false
+    "exchange": true
 }
